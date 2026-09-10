@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NFL Predictor</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%88%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/week">🏈 <span>NFL Predictor</span></a>
+    <nav class="nav" id="nav">
+      <a href="#/week" data-route="week">Schedule</a>
+      <a href="#/teams" data-route="teams">Teams</a>
+      <a href="#/picks" data-route="picks">My Picks</a>
+      <a href="#/leaderboard" data-route="leaderboard">Leaderboard</a>
+      <a href="#/how" data-route="how">How it works</a>
+    </nav>
+    <button class="btn btn-ghost" id="refreshBtn" title="Re-download schedule, scores and injuries">↻ Refresh</button>
+  </header>
+
+  <main id="view" class="view"><div class="loading">Loading…</div></main>
+
+  <footer class="footer">
+    <div id="footerData">Data: nflverse games.csv + ESPN public API</div>
+    <div class="disclaimer">Predictions are a simple statistical model for entertainment. This is not betting advice and makes no claim of accuracy against betting markets.</div>
+  </footer>
+
+  <div id="toast" class="toast" hidden></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

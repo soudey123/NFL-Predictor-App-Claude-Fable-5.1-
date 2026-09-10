@@ -1,0 +1,1412 @@
+game_id,season,game_type,week,gameday,gametime,away_team,away_score,home_team,home_score,location,away_rest,home_rest,away_qb_name,home_qb_name,stadium,roof,espn
+2022_01_BUF_LA,2022,REG,1,2022-09-08,20:20,BUF,31,LA,10,Home,7,7,Josh Allen,Matthew Stafford,SoFi Stadium,dome,401437654
+2022_01_NO_ATL,2022,REG,1,2022-09-11,13:00,NO,27,ATL,26,Home,7,7,Jameis Winston,Marcus Mariota,Mercedes-Benz Stadium,closed,401437650
+2022_01_CLE_CAR,2022,REG,1,2022-09-11,13:00,CLE,26,CAR,24,Home,7,7,Jacoby Brissett,Baker Mayfield,Bank of America Stadium,outdoors,401437651
+2022_01_SF_CHI,2022,REG,1,2022-09-11,13:00,SF,10,CHI,19,Home,7,7,Trey Lance,Justin Fields,Soldier Field,outdoors,401437647
+2022_01_PIT_CIN,2022,REG,1,2022-09-11,13:00,PIT,23,CIN,20,Home,7,7,Mitch Trubisky,Joe Burrow,Paycor Stadium,outdoors,401437634
+2022_01_PHI_DET,2022,REG,1,2022-09-11,13:00,PHI,38,DET,35,Home,7,7,Jalen Hurts,Jared Goff,Ford Field,dome,401437648
+2022_01_IND_HOU,2022,REG,1,2022-09-11,13:00,IND,20,HOU,20,Home,7,7,Matt Ryan,Davis Mills,NRG Stadium,closed,401437637
+2022_01_NE_MIA,2022,REG,1,2022-09-11,13:00,NE,7,MIA,20,Home,7,7,Mac Jones,Tua Tagovailoa,Hard Rock Stadium,outdoors,401437630
+2022_01_BAL_NYJ,2022,REG,1,2022-09-11,13:00,BAL,24,NYJ,9,Home,7,7,Lamar Jackson,Joe Flacco,MetLife Stadium,outdoors,401437632
+2022_01_JAX_WAS,2022,REG,1,2022-09-11,13:00,JAX,22,WAS,28,Home,7,7,Trevor Lawrence,Carson Wentz,FedExField,outdoors,401437646
+2022_01_KC_ARI,2022,REG,1,2022-09-11,16:25,KC,44,ARI,21,Home,7,7,Patrick Mahomes,Kyler Murray,State Farm Stadium,closed,401437653
+2022_01_LV_LAC,2022,REG,1,2022-09-11,16:25,LV,19,LAC,24,Home,7,7,Derek Carr,Justin Herbert,SoFi Stadium,dome,401437643
+2022_01_GB_MIN,2022,REG,1,2022-09-11,16:25,GB,7,MIN,23,Home,7,7,Aaron Rodgers,Kirk Cousins,U.S. Bank Stadium,dome,401437649
+2022_01_NYG_TEN,2022,REG,1,2022-09-11,16:25,NYG,21,TEN,20,Home,7,7,Daniel Jones,Ryan Tannehill,Nissan Stadium,outdoors,401437640
+2022_01_TB_DAL,2022,REG,1,2022-09-11,20:20,TB,19,DAL,3,Home,7,7,Tom Brady,Dak Prescott,AT&T Stadium,closed,401437644
+2022_01_DEN_SEA,2022,REG,1,2022-09-12,20:15,DEN,16,SEA,17,Home,7,7,Russell Wilson,Geno Smith,Lumen Field,outdoors,401437655
+2022_02_LAC_KC,2022,REG,2,2022-09-15,20:15,LAC,24,KC,27,Home,4,4,Justin Herbert,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401434030
+2022_02_MIA_BAL,2022,REG,2,2022-09-18,13:00,MIA,42,BAL,38,Home,7,7,Tua Tagovailoa,Lamar Jackson,M&T Bank Stadium,outdoors,401437633
+2022_02_NYJ_CLE,2022,REG,2,2022-09-18,13:00,NYJ,31,CLE,30,Home,7,7,Joe Flacco,Jacoby Brissett,FirstEnergy Stadium,outdoors,401437635
+2022_02_WAS_DET,2022,REG,2,2022-09-18,13:00,WAS,27,DET,36,Home,7,7,Carson Wentz,Jared Goff,Ford Field,dome,401437732
+2022_02_IND_JAX,2022,REG,2,2022-09-18,13:00,IND,0,JAX,24,Home,7,7,Matt Ryan,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437639
+2022_02_TB_NO,2022,REG,2,2022-09-18,13:00,TB,20,NO,10,Home,7,7,Tom Brady,Jameis Winston,Mercedes-Benz Superdome,dome,401437652
+2022_02_CAR_NYG,2022,REG,2,2022-09-18,13:00,CAR,16,NYG,19,Home,7,7,Baker Mayfield,Daniel Jones,MetLife Stadium,outdoors,401437645
+2022_02_NE_PIT,2022,REG,2,2022-09-18,13:00,NE,17,PIT,14,Home,7,7,Mac Jones,Mitch Trubisky,Acrisure Stadium,outdoors,401437636
+2022_02_ATL_LA,2022,REG,2,2022-09-18,16:05,ATL,27,LA,31,Home,7,10,Marcus Mariota,Matthew Stafford,SoFi Stadium,dome,401437733
+2022_02_SEA_SF,2022,REG,2,2022-09-18,16:05,SEA,7,SF,27,Home,6,7,Geno Smith,Trey Lance,Levi's Stadium,outdoors,401437605
+2022_02_CIN_DAL,2022,REG,2,2022-09-18,16:25,CIN,17,DAL,20,Home,7,7,Joe Burrow,Cooper Rush,AT&T Stadium,closed,401437734
+2022_02_HOU_DEN,2022,REG,2,2022-09-18,16:25,HOU,9,DEN,16,Home,7,6,Davis Mills,Russell Wilson,Empower Field at Mile High,outdoors,401437641
+2022_02_ARI_LV,2022,REG,2,2022-09-18,16:25,ARI,29,LV,23,Home,7,7,Kyler Murray,Derek Carr,Allegiant Stadium,dome,401437642
+2022_02_CHI_GB,2022,REG,2,2022-09-18,20:20,CHI,10,GB,27,Home,7,7,Justin Fields,Aaron Rodgers,Lambeau Field,outdoors,401437606
+2022_02_TEN_BUF,2022,REG,2,2022-09-19,19:15,TEN,7,BUF,41,Home,8,11,Ryan Tannehill,Josh Allen,New Era Field,outdoors,401436831
+2022_02_MIN_PHI,2022,REG,2,2022-09-19,20:30,MIN,7,PHI,24,Home,8,8,Kirk Cousins,Jalen Hurts,Lincoln Financial Field,outdoors,401436832
+2022_03_PIT_CLE,2022,REG,3,2022-09-22,20:15,PIT,17,CLE,29,Home,4,4,Mitch Trubisky,Jacoby Brissett,FirstEnergy Stadium,outdoors,401437735
+2022_03_NO_CAR,2022,REG,3,2022-09-25,13:00,NO,14,CAR,22,Home,7,7,Jameis Winston,Baker Mayfield,Bank of America Stadium,outdoors,401437736
+2022_03_HOU_CHI,2022,REG,3,2022-09-25,13:00,HOU,20,CHI,23,Home,7,7,Davis Mills,Justin Fields,Soldier Field,outdoors,401437737
+2022_03_KC_IND,2022,REG,3,2022-09-25,13:00,KC,17,IND,20,Home,10,7,Patrick Mahomes,Matt Ryan,Lucas Oil Stadium,open,401437638
+2022_03_BUF_MIA,2022,REG,3,2022-09-25,13:00,BUF,19,MIA,21,Home,6,7,Josh Allen,Tua Tagovailoa,Hard Rock Stadium,outdoors,401437738
+2022_03_DET_MIN,2022,REG,3,2022-09-25,13:00,DET,24,MIN,28,Home,7,6,Jared Goff,Kirk Cousins,U.S. Bank Stadium,dome,401437739
+2022_03_BAL_NE,2022,REG,3,2022-09-25,13:00,BAL,37,NE,26,Home,7,7,Lamar Jackson,Mac Jones,Gillette Stadium,outdoors,401437631
+2022_03_CIN_NYJ,2022,REG,3,2022-09-25,13:00,CIN,27,NYJ,12,Home,7,7,Joe Burrow,Joe Flacco,MetLife Stadium,outdoors,401437740
+2022_03_LV_TEN,2022,REG,3,2022-09-25,13:00,LV,22,TEN,24,Home,7,6,Derek Carr,Ryan Tannehill,Nissan Stadium,outdoors,401437741
+2022_03_PHI_WAS,2022,REG,3,2022-09-25,13:00,PHI,24,WAS,8,Home,6,7,Jalen Hurts,Carson Wentz,FedExField,outdoors,401437742
+2022_03_JAX_LAC,2022,REG,3,2022-09-25,16:05,JAX,38,LAC,10,Home,7,10,Trevor Lawrence,Justin Herbery,SoFi Stadium,dome,401437743
+2022_03_LA_ARI,2022,REG,3,2022-09-25,16:25,LA,20,ARI,12,Home,7,7,Matthew Stafford,Kyler Murray,State Farm Stadium,closed,401437744
+2022_03_ATL_SEA,2022,REG,3,2022-09-25,16:25,ATL,27,SEA,23,Home,7,7,Marcus Mariota,Geno Smith,Lumen Field,outdoors,401437745
+2022_03_GB_TB,2022,REG,3,2022-09-25,16:25,GB,14,TB,12,Home,7,7,Aaron Rodgers,Tom Brady,Raymond James Stadium,outdoors,401437607
+2022_03_SF_DEN,2022,REG,3,2022-09-25,20:20,SF,10,DEN,11,Home,7,7,Jimmy Garoppolo,Russell Wilson,Empower Field at Mile High,outdoors,401437746
+2022_03_DAL_NYG,2022,REG,3,2022-09-26,20:15,DAL,23,NYG,16,Home,8,8,Cooper Rush,Daniel Jones,MetLife Stadium,outdoors,401437747
+2022_04_MIA_CIN,2022,REG,4,2022-09-29,20:15,MIA,15,CIN,27,Home,4,4,Tua Tagovailoa,Joe Burrow,Paycor Stadium,outdoors,401437748
+2022_04_MIN_NO,2022,REG,4,2022-10-02,09:30,MIN,28,NO,25,Neutral,7,7,Kirk Cousins,Andy Dalton,Tottenham Stadium,outdoors,401435639
+2022_04_CLE_ATL,2022,REG,4,2022-10-02,13:00,CLE,20,ATL,23,Home,10,7,Jacoby Brissett,Marcus Mariota,Mercedes-Benz Stadium,open,401437749
+2022_04_BUF_BAL,2022,REG,4,2022-10-02,13:00,BUF,23,BAL,20,Home,7,7,Josh Allen,Lamar Jackson,M&T Bank Stadium,outdoors,401437750
+2022_04_WAS_DAL,2022,REG,4,2022-10-02,13:00,WAS,10,DAL,25,Home,7,6,Carson Wentz,Cooper Rush,AT&T Stadium,closed,401437751
+2022_04_SEA_DET,2022,REG,4,2022-10-02,13:00,SEA,48,DET,45,Home,7,7,Geno Smith,Jared Goff,Ford Field,dome,401437752
+2022_04_LAC_HOU,2022,REG,4,2022-10-02,13:00,LAC,34,HOU,24,Home,7,7,Justin Herbert,Davis Mills,NRG Stadium,closed,401437753
+2022_04_TEN_IND,2022,REG,4,2022-10-02,13:00,TEN,24,IND,17,Home,7,7,Ryan Tannehill,Matt Ryan,Lucas Oil Stadium,open,401437754
+2022_04_CHI_NYG,2022,REG,4,2022-10-02,13:00,CHI,12,NYG,20,Home,7,6,Justin Fields,Daniel Jones,MetLife Stadium,outdoors,401437755
+2022_04_JAX_PHI,2022,REG,4,2022-10-02,13:00,JAX,21,PHI,29,Home,7,7,Trevor Lawrence,Jalen Hurts,Lincoln Financial Field,outdoors,401437756
+2022_04_NYJ_PIT,2022,REG,4,2022-10-02,13:00,NYJ,24,PIT,20,Home,7,10,Zach Wilson,Mitch Trubisky,Acrisure Stadium,outdoors,401437757
+2022_04_ARI_CAR,2022,REG,4,2022-10-02,16:05,ARI,26,CAR,16,Home,7,7,Kyler Murray,Baker Mayfield,Bank of America Stadium,outdoors,401437758
+2022_04_NE_GB,2022,REG,4,2022-10-02,16:25,NE,24,GB,27,Home,7,7,Brian Hoyer,Aaron Rodgers,Lambeau Field,outdoors,401437759
+2022_04_DEN_LV,2022,REG,4,2022-10-02,16:25,DEN,23,LV,32,Home,7,7,Russell Wilson,Derek Carr,Allegiant Stadium,dome,401437760
+2022_04_KC_TB,2022,REG,4,2022-10-02,20:20,KC,41,TB,31,Home,7,7,Patrick Mahomes,Tom Brady,Raymond James Stadium,outdoors,401437470
+2022_04_LA_SF,2022,REG,4,2022-10-03,20:15,LA,9,SF,24,Home,8,8,Matthew Stafford,Jimmy Garoppolo,Levi's Stadium,outdoors,401437761
+2022_05_IND_DEN,2022,REG,5,2022-10-06,20:15,IND,12,DEN,9,Home,4,4,Matt Ryan,Russell Wilson,Empower Field at Mile High,outdoors,401437762
+2022_05_NYG_GB,2022,REG,5,2022-10-09,09:30,NYG,27,GB,22,Neutral,7,7,Daniel Jones,Aaron Rodgers,Tottenham Stadium,outdoors,401435640
+2022_05_PIT_BUF,2022,REG,5,2022-10-09,13:00,PIT,3,BUF,38,Home,7,7,Kenny Pickett,Josh Allen,New Era Field,outdoors,401437763
+2022_05_LAC_CLE,2022,REG,5,2022-10-09,13:00,LAC,30,CLE,28,Home,7,7,Justin Herbert,Jacoby Brissett,FirstEnergy Stadium,outdoors,401437764
+2022_05_HOU_JAX,2022,REG,5,2022-10-09,13:00,HOU,13,JAX,6,Home,7,7,Davis Mills,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437765
+2022_05_CHI_MIN,2022,REG,5,2022-10-09,13:00,CHI,22,MIN,29,Home,7,7,Justin Fields,Kirk Cousins,U.S. Bank Stadium,dome,401437766
+2022_05_DET_NE,2022,REG,5,2022-10-09,13:00,DET,0,NE,29,Home,7,7,Jared Goff,Bailey Zappe,Gillette Stadium,outdoors,401437767
+2022_05_SEA_NO,2022,REG,5,2022-10-09,13:00,SEA,32,NO,39,Home,7,7,Geno Smith,Andy Dalton,Mercedes-Benz Superdome,dome,401437768
+2022_05_MIA_NYJ,2022,REG,5,2022-10-09,13:00,MIA,17,NYJ,40,Home,10,7,Teddy Bridgewater,Zach Wilson,MetLife Stadium,outdoors,401437769
+2022_05_ATL_TB,2022,REG,5,2022-10-09,13:00,ATL,15,TB,21,Home,7,7,Marcus Mariota,Tom Brady,Raymond James Stadium,outdoors,401437770
+2022_05_TEN_WAS,2022,REG,5,2022-10-09,13:00,TEN,21,WAS,17,Home,7,7,Ryan Tannehill,Carson Wentz,FedExField,outdoors,401437771
+2022_05_SF_CAR,2022,REG,5,2022-10-09,16:05,SF,37,CAR,15,Home,6,7,Jimmy Garoppolo,Baker Mayfield,Bank of America Stadium,outdoors,401437772
+2022_05_PHI_ARI,2022,REG,5,2022-10-09,16:25,PHI,20,ARI,17,Home,7,7,Jalen Hurts,Kyler Murray,State Farm Stadium,closed,401437773
+2022_05_DAL_LA,2022,REG,5,2022-10-09,16:25,DAL,22,LA,10,Home,7,6,Cooper Rush,Matthew Stafford,SoFi Stadium,dome,401437774
+2022_05_CIN_BAL,2022,REG,5,2022-10-09,20:20,CIN,17,BAL,19,Home,10,7,Joe Burrow,Lamar Jackson,M&T Bank Stadium,outdoors,401437775
+2022_05_LV_KC,2022,REG,5,2022-10-10,20:15,LV,29,KC,30,Home,8,8,Derek Carr,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401437776
+2022_06_WAS_CHI,2022,REG,6,2022-10-13,20:15,WAS,12,CHI,7,Home,4,4,Carson Wentz,Justin Fields,Soldier Field,outdoors,401437777
+2022_06_SF_ATL,2022,REG,6,2022-10-16,13:00,SF,14,ATL,28,Home,7,7,Jimmy Garoppolo,Marcus Mariota,Mercedes-Benz Stadium,open,401437778
+2022_06_NE_CLE,2022,REG,6,2022-10-16,13:00,NE,38,CLE,15,Home,7,7,Bailey Zappe,Jacoby Brissett,FirstEnergy Stadium,outdoors,401437779
+2022_06_NYJ_GB,2022,REG,6,2022-10-16,13:00,NYJ,27,GB,10,Home,7,7,Zach Wilson,Aaron Rodgers,Lambeau Field,outdoors,401437780
+2022_06_JAX_IND,2022,REG,6,2022-10-16,13:00,JAX,27,IND,34,Home,7,10,Trevor Lawrence,Matt Ryan,Lucas Oil Stadium,open,401437781
+2022_06_MIN_MIA,2022,REG,6,2022-10-16,13:00,MIN,24,MIA,16,Home,7,7,Kirk Cousins,Teddy Bridgewater,Hard Rock Stadium,outdoors,401437782
+2022_06_CIN_NO,2022,REG,6,2022-10-16,13:00,CIN,30,NO,26,Home,7,7,Joe Burrow,Andy Dalton,Mercedes-Benz Superdome,dome,401437783
+2022_06_BAL_NYG,2022,REG,6,2022-10-16,13:00,BAL,20,NYG,24,Home,7,7,Lamar Jackson,Daniel Jones,MetLife Stadium,outdoors,401437784
+2022_06_TB_PIT,2022,REG,6,2022-10-16,13:00,TB,18,PIT,20,Home,7,7,Tom Brady,Kenny Pickett,Acrisure Stadium,outdoors,401437785
+2022_06_CAR_LA,2022,REG,6,2022-10-16,16:05,CAR,10,LA,24,Home,7,7,Phillip Walker,Matthew Stafford,SoFi Stadium,dome,401437786
+2022_06_ARI_SEA,2022,REG,6,2022-10-16,16:05,ARI,9,SEA,19,Home,7,7,Kyler Murray,Geno Smith,Lumen Field,outdoors,401437787
+2022_06_BUF_KC,2022,REG,6,2022-10-16,16:25,BUF,24,KC,20,Home,7,6,Josh Allen,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401437788
+2022_06_DAL_PHI,2022,REG,6,2022-10-16,20:20,DAL,17,PHI,26,Home,7,7,Cooper Rush,Jalen Hurts,Lincoln Financial Field,outdoors,401437789
+2022_06_DEN_LAC,2022,REG,6,2022-10-17,20:15,DEN,16,LAC,19,Home,11,8,Russell Wilson,Justin Herbert,SoFi Stadium,dome,401437790
+2022_07_NO_ARI,2022,REG,7,2022-10-20,20:15,NO,34,ARI,42,Home,4,4,Andy Dalton,Kyler Murray,State Farm Stadium,open,401437791
+2022_07_CLE_BAL,2022,REG,7,2022-10-23,13:00,CLE,20,BAL,23,Home,7,7,Jacoby Brissett,Lamar Jackson,M&T Bank Stadium,outdoors,401437792
+2022_07_TB_CAR,2022,REG,7,2022-10-23,13:00,TB,3,CAR,21,Home,7,7,Tom Brady,Phillip Walker,Bank of America Stadium,outdoors,401437793
+2022_07_ATL_CIN,2022,REG,7,2022-10-23,13:00,ATL,17,CIN,35,Home,7,7,Marcus Mariota,Joe Burrow,Paycor Stadium,outdoors,401437794
+2022_07_DET_DAL,2022,REG,7,2022-10-23,13:00,DET,6,DAL,24,Home,14,7,Jared Goff,Dak Prescott,AT&T Stadium,closed,401437795
+2022_07_NYG_JAX,2022,REG,7,2022-10-23,13:00,NYG,23,JAX,17,Home,7,7,Daniel Jones,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437796
+2022_07_IND_TEN,2022,REG,7,2022-10-23,13:00,IND,10,TEN,19,Home,7,14,Matt Ryan,Ryan Tannehill,Nissan Stadium,outdoors,401437797
+2022_07_GB_WAS,2022,REG,7,2022-10-23,13:00,GB,21,WAS,23,Home,7,10,Aaron Rodgers,Taylor Heinicke,FedExField,outdoors,401437798
+2022_07_NYJ_DEN,2022,REG,7,2022-10-23,16:05,NYJ,16,DEN,9,Home,7,6,Zach Wilson,Brett Rypien,Empower Field at Mile High,outdoors,401437799
+2022_07_HOU_LV,2022,REG,7,2022-10-23,16:05,HOU,20,LV,38,Home,14,13,Davis Mills,Derek Carr,Allegiant Stadium,dome,401437800
+2022_07_SEA_LAC,2022,REG,7,2022-10-23,16:25,SEA,37,LAC,23,Home,7,6,Geno Smith,Justin Herbert,SoFi Stadium,dome,401437801
+2022_07_KC_SF,2022,REG,7,2022-10-23,16:25,KC,44,SF,23,Home,7,7,Patrick Mahomes,Jimmy Garoppolo,Levi's Stadium,outdoors,401437802
+2022_07_PIT_MIA,2022,REG,7,2022-10-23,20:20,PIT,10,MIA,16,Home,7,7,Kenny Pickett,Tua Tagovailoa,Hard Rock Stadium,outdoors,401437803
+2022_07_CHI_NE,2022,REG,7,2022-10-24,20:15,CHI,33,NE,14,Home,11,8,Justin Fields,Mac Jones,Gillette Stadium,outdoors,401437804
+2022_08_BAL_TB,2022,REG,8,2022-10-27,20:15,BAL,27,TB,22,Home,4,4,Lamar Jackson,Tom Brady,Raymond James Stadium,outdoors,401437805
+2022_08_DEN_JAX,2022,REG,8,2022-10-30,09:30,DEN,21,JAX,17,Neutral,7,7,Russell Wilson,Trevor Lawrence,Wembley Stadium,outdoors,401435641
+2022_08_CAR_ATL,2022,REG,8,2022-10-30,13:00,CAR,34,ATL,37,Home,7,7,Phillip Walker,Marcus Mariota,Mercedes-Benz Stadium,closed,401437806
+2022_08_CHI_DAL,2022,REG,8,2022-10-30,13:00,CHI,29,DAL,49,Home,6,7,Justin Fields,Dak Prescott,AT&T Stadium,open,401437807
+2022_08_MIA_DET,2022,REG,8,2022-10-30,13:00,MIA,31,DET,27,Home,7,7,Tua Tagovailoa,Jared Goff,Ford Field,dome,401437808
+2022_08_ARI_MIN,2022,REG,8,2022-10-30,13:00,ARI,26,MIN,34,Home,10,14,Kyler Murray,Kirk Cousins,U.S. Bank Stadium,dome,401437809
+2022_08_LV_NO,2022,REG,8,2022-10-30,13:00,LV,0,NO,24,Home,7,10,Derek Carr,Jameis Winston,Mercedes-Benz Superdome,dome,401437810
+2022_08_NE_NYJ,2022,REG,8,2022-10-30,13:00,NE,22,NYJ,17,Home,6,7,Mac Jones,Zach Wilson,MetLife Stadium,outdoors,401437811
+2022_08_PIT_PHI,2022,REG,8,2022-10-30,13:00,PIT,13,PHI,35,Home,7,14,Kenny Pickett,Jalen Hurts,Lincoln Financial Field,outdoors,401437812
+2022_08_TEN_HOU,2022,REG,8,2022-10-30,16:05,TEN,17,HOU,10,Home,7,7,Malik Willis,Davis Mills,NRG Stadium,closed,401437813
+2022_08_WAS_IND,2022,REG,8,2022-10-30,16:25,WAS,17,IND,16,Home,7,7,Taylor Heinicke,Sam Ehlinger,Lucas Oil Stadium,closed,401437814
+2022_08_SF_LA,2022,REG,8,2022-10-30,16:25,SF,31,LA,14,Home,7,14,Jimmy Garoppolo,Matthew Stafford,SoFi Stadium,dome,401437815
+2022_08_NYG_SEA,2022,REG,8,2022-10-30,16:25,NYG,13,SEA,27,Home,7,7,Daniel Jones,Geno Smith,Lumen Field,outdoors,401437816
+2022_08_GB_BUF,2022,REG,8,2022-10-30,20:20,GB,17,BUF,27,Home,7,14,Aaron Rodgers,Josh Allen,New Era Field,outdoors,401437817
+2022_08_CIN_CLE,2022,REG,8,2022-10-31,20:15,CIN,13,CLE,32,Home,8,8,Joe Burrow,Jacoby Brissett,FirstEnergy Stadium,outdoors,401437818
+2022_09_PHI_HOU,2022,REG,9,2022-11-03,20:15,PHI,29,HOU,17,Home,4,4,Jalen Hurts,Davis Mills,NRG Stadium,closed,401437819
+2022_09_LAC_ATL,2022,REG,9,2022-11-06,13:00,LAC,20,ATL,17,Home,14,7,Justin Herbert,Marcus Mariota,Mercedes-Benz Stadium,open,401437820
+2022_09_MIA_CHI,2022,REG,9,2022-11-06,13:00,MIA,35,CHI,32,Home,7,7,Tua Tagovailoa,Justin Fields,Soldier Field,outdoors,401437821
+2022_09_CAR_CIN,2022,REG,9,2022-11-06,13:00,CAR,21,CIN,42,Home,7,6,Phillip Walker,Joe Burrow,Paycor Stadium,outdoors,401437822
+2022_09_GB_DET,2022,REG,9,2022-11-06,13:00,GB,9,DET,15,Home,7,7,Aaron Rodgers,Jared Goff,Ford Field,dome,401437823
+2022_09_LV_JAX,2022,REG,9,2022-11-06,13:00,LV,20,JAX,27,Home,7,7,Derek Carr,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437824
+2022_09_IND_NE,2022,REG,9,2022-11-06,13:00,IND,3,NE,26,Home,7,7,Sam Ehlinger,Mac Jones,Gillette Stadium,outdoors,401437825
+2022_09_BUF_NYJ,2022,REG,9,2022-11-06,13:00,BUF,17,NYJ,20,Home,7,7,Josh Allen,Zach Wilson,MetLife Stadium,outdoors,401437826
+2022_09_MIN_WAS,2022,REG,9,2022-11-06,13:00,MIN,20,WAS,17,Home,7,7,Kirk Cousins,Taylor Heinicke,FedExField,outdoors,401437827
+2022_09_SEA_ARI,2022,REG,9,2022-11-06,16:05,SEA,31,ARI,21,Home,7,7,Geno Smith,Kyler Murray,State Farm Stadium,open,401437828
+2022_09_LA_TB,2022,REG,9,2022-11-06,16:25,LA,13,TB,16,Home,7,10,Matthew Stafford,Tom Brady,Raymond James Stadium,outdoors,401437829
+2022_09_TEN_KC,2022,REG,9,2022-11-06,20:20,TEN,17,KC,20,Home,7,14,Malik Willis,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401437830
+2022_09_BAL_NO,2022,REG,9,2022-11-07,20:15,BAL,27,NO,13,Home,11,8,Lamar Jackson,Andy Dalton,Mercedes-Benz Superdome,dome,401437831
+2022_10_ATL_CAR,2022,REG,10,2022-11-10,20:15,ATL,15,CAR,25,Home,4,4,Marcus Mariota,Phillip Walker,Bank of America Stadium,outdoors,401437832
+2022_10_SEA_TB,2022,REG,10,2022-11-13,09:30,SEA,16,TB,21,Neutral,7,7,Geno Smith,Tom Brady,Allianz Arena,outdoors,401435638
+2022_10_MIN_BUF,2022,REG,10,2022-11-13,13:00,MIN,33,BUF,30,Home,7,7,Kirk Cousins,Josh Allen,New Era Field,outdoors,401437833
+2022_10_DET_CHI,2022,REG,10,2022-11-13,13:00,DET,31,CHI,30,Home,7,7,Jared Goff,Justin Fields,Soldier Field,outdoors,401437834
+2022_10_JAX_KC,2022,REG,10,2022-11-13,13:00,JAX,17,KC,27,Home,7,7,Trevor Lawrence,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401437835
+2022_10_CLE_MIA,2022,REG,10,2022-11-13,13:00,CLE,17,MIA,39,Home,13,7,Jacoby Brissett,Tua Tagovailoa,Hard Rock Stadium,outdoors,401437836
+2022_10_HOU_NYG,2022,REG,10,2022-11-13,13:00,HOU,16,NYG,24,Home,10,14,Davis Mills,Daniel Jones,MetLife Stadium,outdoors,401437837
+2022_10_NO_PIT,2022,REG,10,2022-11-13,13:00,NO,10,PIT,20,Home,6,14,Andy Dalton,Kenny Pickett,Acrisure Stadium,outdoors,401437838
+2022_10_DEN_TEN,2022,REG,10,2022-11-13,13:00,DEN,10,TEN,17,Home,14,7,Russell Wilson,Ryan Tannehill,Nissan Stadium,outdoors,401437839
+2022_10_IND_LV,2022,REG,10,2022-11-13,16:05,IND,25,LV,20,Home,7,7,Matt Ryan,Derek Carr,Allegiant Stadium,dome,401437840
+2022_10_DAL_GB,2022,REG,10,2022-11-13,16:25,DAL,28,GB,31,Home,14,7,Dak Prescott,Aaron Rodgers,Lambeau Field,outdoors,401437131
+2022_10_ARI_LA,2022,REG,10,2022-11-13,16:25,ARI,27,LA,17,Home,7,7,Colt McCoy,John Wolford,SoFi Stadium,dome,401437841
+2022_10_LAC_SF,2022,REG,10,2022-11-13,20:20,LAC,16,SF,22,Home,7,14,Justin Herbert,Jimmy Garoppolo,Levi's Stadium,outdoors,401437842
+2022_10_WAS_PHI,2022,REG,10,2022-11-14,20:15,WAS,32,PHI,21,Home,8,11,Taylor Heinicke,Jalen Hurts,Lincoln Financial Field,outdoors,401437843
+2022_11_TEN_GB,2022,REG,11,2022-11-17,20:15,TEN,27,GB,17,Home,4,4,Ryan Tannehill,Aaron Rodgers,Lambeau Field,outdoors,401437844
+2022_11_CHI_ATL,2022,REG,11,2022-11-20,13:00,CHI,24,ATL,27,Home,7,10,Justin Fields,Marcus Mariota,Mercedes-Benz Stadium,closed,401437845
+2022_11_CAR_BAL,2022,REG,11,2022-11-20,13:00,CAR,3,BAL,13,Home,10,13,Phillip Walker,Lamar Jackson,M&T Bank Stadium,outdoors,401437846
+2022_11_CLE_BUF,2022,REG,11,2022-11-20,13:00,CLE,23,BUF,31,Neutral,7,7,Jacoby Brissett,Josh Allen,Ford Field,dome,401437847
+2022_11_WAS_HOU,2022,REG,11,2022-11-20,13:00,WAS,23,HOU,10,Home,6,7,Taylor Heinicke,Davis Mills,NRG Stadium,closed,401437848
+2022_11_PHI_IND,2022,REG,11,2022-11-20,13:00,PHI,17,IND,16,Home,6,7,Jalen Hurts,Sam Ehlinger,Lucas Oil Stadium,closed,401437849
+2022_11_NYJ_NE,2022,REG,11,2022-11-20,13:00,NYJ,3,NE,10,Home,14,14,Zach Wilson,Mac Jones,Gillette Stadium,outdoors,401437850
+2022_11_LA_NO,2022,REG,11,2022-11-20,13:00,LA,20,NO,27,Home,7,7,Matthew Stafford,Andy Dalton,Mercedes-Benz Superdome,dome,401437851
+2022_11_DET_NYG,2022,REG,11,2022-11-20,13:00,DET,31,NYG,18,Home,7,7,Jared Goff,Daniel Jones,MetLife Stadium,outdoors,401437852
+2022_11_LV_DEN,2022,REG,11,2022-11-20,16:05,LV,22,DEN,16,Home,7,7,Derek Carr,Russell Wilson,Empower Field at Mile High,outdoors,401437853
+2022_11_DAL_MIN,2022,REG,11,2022-11-20,16:25,DAL,40,MIN,3,Home,7,7,Dak Prescott,Kirk Cousins,U.S. Bank Stadium,dome,401437855
+2022_11_CIN_PIT,2022,REG,11,2022-11-20,16:25,CIN,37,PIT,30,Home,14,7,Joe Burrow,Kenny Pickett,Acrisure Stadium,outdoors,401437856
+2022_11_KC_LAC,2022,REG,11,2022-11-20,20:20,KC,30,LAC,27,Home,7,7,Patrick Mahomes,Justin Herbert,SoFi Stadium,dome,401437854
+2022_11_SF_ARI,2022,REG,11,2022-11-21,20:15,SF,38,ARI,10,Neutral,8,8,Jimmy Garoppolo,Colt McCoy,Azteca Stadium,outdoors,401435642
+2022_12_BUF_DET,2022,REG,12,2022-11-24,12:30,BUF,28,DET,25,Home,4,4,Josh Allen,Jared Goff,Ford Field,dome,401437857
+2022_12_NYG_DAL,2022,REG,12,2022-11-24,16:30,NYG,20,DAL,28,Home,4,4,Daniel Jones,Dak Prescott,AT&T Stadium,closed,401437858
+2022_12_NE_MIN,2022,REG,12,2022-11-24,20:20,NE,26,MIN,33,Home,4,4,Mac Jones,Kirk Cousins,U.S. Bank Stadium,dome,401437859
+2022_12_DEN_CAR,2022,REG,12,2022-11-27,13:00,DEN,10,CAR,23,Home,7,7,Russell Wilson,Sam Darnold,Bank of America Stadium,outdoors,401437860
+2022_12_TB_CLE,2022,REG,12,2022-11-27,13:00,TB,17,CLE,23,Home,14,7,Tom Brady,Jacoby Brissett,FirstEnergy Stadium,outdoors,401437861
+2022_12_BAL_JAX,2022,REG,12,2022-11-27,13:00,BAL,27,JAX,28,Home,7,14,Lamar Jackson,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437862
+2022_12_HOU_MIA,2022,REG,12,2022-11-27,13:00,HOU,15,MIA,30,Home,7,14,Kyle Allen,Tua Tagovailoa,Hard Rock Stadium,outdoors,401437863
+2022_12_CHI_NYJ,2022,REG,12,2022-11-27,13:00,CHI,10,NYJ,31,Home,7,7,Trevor Siemian,Mike White,MetLife Stadium,outdoors,401437864
+2022_12_CIN_TEN,2022,REG,12,2022-11-27,13:00,CIN,20,TEN,16,Home,7,10,Joe Burrow,Ryan Tannehill,Nissan Stadium,outdoors,401437865
+2022_12_ATL_WAS,2022,REG,12,2022-11-27,13:00,ATL,13,WAS,19,Home,7,7,Marcus Mariota,Taylor Heinicke,FedExField,outdoors,401437866
+2022_12_LAC_ARI,2022,REG,12,2022-11-27,16:05,LAC,25,ARI,24,Home,7,6,Justin Herbert,Kyler Murray,State Farm Stadium,closed,401437867
+2022_12_LV_SEA,2022,REG,12,2022-11-27,16:05,LV,40,SEA,34,Home,7,14,Derek Carr,Geno Smith,Lumen Field,outdoors,401437868
+2022_12_LA_KC,2022,REG,12,2022-11-27,16:25,LA,10,KC,26,Home,7,7,Bryce Perkins,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401437869
+2022_12_NO_SF,2022,REG,12,2022-11-27,16:25,NO,0,SF,13,Home,7,6,Andy Dalton,Jimmy Garoppolo,Levi's Stadium,outdoors,401437870
+2022_12_GB_PHI,2022,REG,12,2022-11-27,20:20,GB,33,PHI,40,Home,10,7,Aaron Rodgers,Jalen Hurts,Lincoln Financial Field,outdoors,401437871
+2022_12_PIT_IND,2022,REG,12,2022-11-28,20:15,PIT,24,IND,17,Home,8,8,Kenny Pickett,Matt Ryan,Lucas Oil Stadium,closed,401437872
+2022_13_BUF_NE,2022,REG,13,2022-12-01,20:15,BUF,24,NE,10,Home,7,7,Josh Allen,Mac Jones,Gillette Stadium,outdoors,401437873
+2022_13_PIT_ATL,2022,REG,13,2022-12-04,13:00,PIT,19,ATL,16,Home,6,7,Kenny Pickett,Marcus Mariota,Mercedes-Benz Stadium,closed,401437874
+2022_13_DEN_BAL,2022,REG,13,2022-12-04,13:00,DEN,9,BAL,10,Home,7,7,Russell Wilson,Lamar Jackson,M&T Bank Stadium,outdoors,401437875
+2022_13_GB_CHI,2022,REG,13,2022-12-04,13:00,GB,28,CHI,19,Home,7,7,Aaron Rodgers,Justin Fields,Soldier Field,outdoors,401437876
+2022_13_JAX_DET,2022,REG,13,2022-12-04,13:00,JAX,14,DET,40,Home,7,10,Trevor Lawrence,Jared Goff,Ford Field,dome,401437877
+2022_13_CLE_HOU,2022,REG,13,2022-12-04,13:00,CLE,27,HOU,14,Home,7,7,Deshaun Watson,Kyle Allen,NRG Stadium,closed,401437878
+2022_13_NYJ_MIN,2022,REG,13,2022-12-04,13:00,NYJ,22,MIN,27,Home,7,10,Mike White,Kirk Cousins,U.S. Bank Stadium,dome,401437879
+2022_13_WAS_NYG,2022,REG,13,2022-12-04,13:00,WAS,20,NYG,20,Home,7,10,Taylor Heinicke,Daniel Jones,MetLife Stadium,outdoors,401437880
+2022_13_TEN_PHI,2022,REG,13,2022-12-04,13:00,TEN,10,PHI,35,Home,7,7,Ryan Tannehill,Jalen Hurts,Lincoln Financial Field,outdoors,401437881
+2022_13_SEA_LA,2022,REG,13,2022-12-04,16:05,SEA,27,LA,23,Home,7,7,Geno Smith,John Wolford,SoFi Stadium,dome,401437882
+2022_13_MIA_SF,2022,REG,13,2022-12-04,16:05,MIA,17,SF,33,Home,7,7,Tua Tagovailoa,Jimmy Garoppolo,Levi's Stadium,outdoors,401437883
+2022_13_KC_CIN,2022,REG,13,2022-12-04,16:25,KC,24,CIN,27,Home,7,7,Patrick Mahomes,Joe Burrow,Paycor Stadium,outdoors,401437884
+2022_13_LAC_LV,2022,REG,13,2022-12-04,16:25,LAC,20,LV,27,Home,7,7,Justin Herbert,Derek Carr,Allegiant Stadium,dome,401437885
+2022_13_IND_DAL,2022,REG,13,2022-12-04,20:20,IND,19,DAL,54,Home,6,10,Matt Ryan,Dak Prescott,AT&T Stadium,closed,401437886
+2022_13_NO_TB,2022,REG,13,2022-12-05,20:15,NO,16,TB,17,Home,8,8,Andy Dalton,Tom Brady,Raymond James Stadium,outdoors,401437887
+2022_14_LV_LA,2022,REG,14,2022-12-08,20:15,LV,16,LA,17,Home,4,4,Derek Carr,Baker Mayfield,SoFi Stadium,dome,401437888
+2022_14_NYJ_BUF,2022,REG,14,2022-12-11,13:00,NYJ,12,BUF,20,Home,7,10,Mike White,Josh Allen,New Era Field,outdoors,401437889
+2022_14_CLE_CIN,2022,REG,14,2022-12-11,13:00,CLE,10,CIN,23,Home,7,7,Deshaun Watson,Joe Burrow,Paycor Stadium,outdoors,401437890
+2022_14_HOU_DAL,2022,REG,14,2022-12-11,13:00,HOU,23,DAL,27,Home,7,7,Davis Mills,Dak Prescott,AT&T Stadium,closed,401437891
+2022_14_MIN_DET,2022,REG,14,2022-12-11,13:00,MIN,23,DET,34,Home,7,7,Kirk Cousins,Jared Goff,Ford Field,dome,401437892
+2022_14_PHI_NYG,2022,REG,14,2022-12-11,13:00,PHI,48,NYG,22,Home,7,7,Jalen Hurts,Daniel Jones,MetLife Stadium,outdoors,401437893
+2022_14_BAL_PIT,2022,REG,14,2022-12-11,13:00,BAL,16,PIT,14,Home,7,7,Tyler Huntley,Kenny Pickett,Acrisure Stadium,outdoors,401437894
+2022_14_JAX_TEN,2022,REG,14,2022-12-11,13:00,JAX,36,TEN,22,Home,7,7,Trevor Lawrence,Ryan Tannehill,Nissan Stadium,outdoors,401437895
+2022_14_KC_DEN,2022,REG,14,2022-12-11,16:05,KC,34,DEN,28,Home,7,7,Patrick Mahomes,Russell Wilson,Empower Field at Mile High,outdoors,401437899
+2022_14_CAR_SEA,2022,REG,14,2022-12-11,16:25,CAR,30,SEA,24,Home,14,7,Sam Darnold,Geno Smith,Lumen Field,outdoors,401437898
+2022_14_TB_SF,2022,REG,14,2022-12-11,16:25,TB,7,SF,35,Home,6,7,Tom Brady,Brock Purdy,Levi's Stadium,outdoors,401437897
+2022_14_MIA_LAC,2022,REG,14,2022-12-11,20:20,MIA,17,LAC,23,Home,7,7,Tua Tagovailoa,Justin Herbert,SoFi Stadium,dome,401437896
+2022_14_NE_ARI,2022,REG,14,2022-12-12,20:15,NE,27,ARI,13,Home,11,15,Mac Jones,Kyler Murray,State Farm Stadium,closed,401437900
+2022_15_SF_SEA,2022,REG,15,2022-12-15,20:15,SF,21,SEA,13,Home,4,4,Brock Purdy,Geno Smith,Lumen Field,outdoors,401437901
+2022_15_IND_MIN,2022,REG,15,2022-12-17,13:00,IND,36,MIN,39,Home,13,6,Matt Ryan,Kirk Cousins,U.S. Bank Stadium,dome,401437904
+2022_15_BAL_CLE,2022,REG,15,2022-12-17,16:30,BAL,3,CLE,13,Home,6,6,Tyler Huntley,Deshaun Watson,FirstEnergy Stadium,outdoors,401437903
+2022_15_MIA_BUF,2022,REG,15,2022-12-17,20:15,MIA,29,BUF,32,Home,6,6,Tua Tagovailoa,Josh Allen,New Era Field,outdoors,401437902
+2022_15_PIT_CAR,2022,REG,15,2022-12-18,13:00,PIT,24,CAR,16,Home,7,7,Kenny Pickett,Sam Darnold,Bank of America Stadium,outdoors,401437907
+2022_15_PHI_CHI,2022,REG,15,2022-12-18,13:00,PHI,25,CHI,20,Home,7,14,Jalen Hurts,Justin Fields,Soldier Field,outdoors,401437908
+2022_15_KC_HOU,2022,REG,15,2022-12-18,13:00,KC,30,HOU,24,Home,7,7,Patrick Mahomes,Davis Mills,NRG Stadium,closed,401437909
+2022_15_DAL_JAX,2022,REG,15,2022-12-18,13:00,DAL,34,JAX,40,Home,7,7,Dak Prescott,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437910
+2022_15_ATL_NO,2022,REG,15,2022-12-18,13:00,ATL,18,NO,21,Home,14,13,Desmond Ridder,Andy Dalton,Mercedes-Benz Superdome,dome,401437905
+2022_15_DET_NYJ,2022,REG,15,2022-12-18,13:00,DET,20,NYJ,17,Home,7,7,Jared Goff,Zach Wilson,MetLife Stadium,outdoors,401437911
+2022_15_ARI_DEN,2022,REG,15,2022-12-18,16:05,ARI,15,DEN,24,Home,6,7,Colt McCoy,Brett Rypien,Empower Field at Mile High,outdoors,401437912
+2022_15_NE_LV,2022,REG,15,2022-12-18,16:05,NE,24,LV,30,Home,6,10,Mac Jones,Derek Carr,Allegiant Stadium,dome,401437915
+2022_15_TEN_LAC,2022,REG,15,2022-12-18,16:25,TEN,14,LAC,17,Home,7,7,Ryan Tannehill,Justin Herbert,SoFi Stadium,dome,401437913
+2022_15_CIN_TB,2022,REG,15,2022-12-18,16:25,CIN,34,TB,23,Home,7,7,Joe Burrow,Tom Brady,Raymond James Stadium,outdoors,401437914
+2022_15_NYG_WAS,2022,REG,15,2022-12-18,20:20,NYG,20,WAS,12,Home,7,14,Daniel Jones,Taylor Heinicke,FedExField,outdoors,401437906
+2022_15_LA_GB,2022,REG,15,2022-12-19,20:15,LA,12,GB,24,Home,11,15,Baker Mayfield,Aaron Rodgers,Lambeau Field,outdoors,401437916
+2022_16_JAX_NYJ,2022,REG,16,2022-12-22,20:15,JAX,19,NYJ,3,Home,4,4,Trevor Lawrence,Zach Wilson,MetLife Stadium,outdoors,401437917
+2022_16_ATL_BAL,2022,REG,16,2022-12-24,13:00,ATL,9,BAL,17,Home,6,7,Desmond Ridder,Tyler Huntley,M&T Bank Stadium,outdoors,401437918
+2022_16_DET_CAR,2022,REG,16,2022-12-24,13:00,DET,23,CAR,37,Home,6,6,Jared Goff,Sam Darnold,Bank of America Stadium,outdoors,401437919
+2022_16_BUF_CHI,2022,REG,16,2022-12-24,13:00,BUF,35,CHI,13,Home,7,6,Josh Allen,Justin Fields,Soldier Field,outdoors,401437920
+2022_16_NO_CLE,2022,REG,16,2022-12-24,13:00,NO,17,CLE,10,Home,6,7,Andy Dalton,Deshaun Watson,FirstEnergy Stadium,outdoors,401437921
+2022_16_SEA_KC,2022,REG,16,2022-12-24,13:00,SEA,10,KC,24,Home,9,6,Geno Smith,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401437922
+2022_16_NYG_MIN,2022,REG,16,2022-12-24,13:00,NYG,24,MIN,27,Home,6,7,Daniel Jones,Kirk Cousins,U.S. Bank Stadium,dome,401437923
+2022_16_CIN_NE,2022,REG,16,2022-12-24,13:00,CIN,22,NE,18,Home,6,6,Joe Burrow,Mac Jones,Gillette Stadium,outdoors,401437924
+2022_16_HOU_TEN,2022,REG,16,2022-12-24,14:00,HOU,19,TEN,14,Home,6,6,Davis Mills,Malik Willis,Nissan Stadium,outdoors,401437925
+2022_16_WAS_SF,2022,REG,16,2022-12-24,16:05,WAS,20,SF,37,Home,6,9,Taylor Heinicke,Brock Purdy,Levi's Stadium,outdoors,401437926
+2022_16_PHI_DAL,2022,REG,16,2022-12-24,16:25,PHI,34,DAL,40,Home,6,6,Gardner Minshew,Dak Prescott,AT&T Stadium,closed,401437927
+2022_16_LV_PIT,2022,REG,16,2022-12-24,20:15,LV,10,PIT,13,Home,6,6,Derek Carr,Kenny Pickett,Acrisure Stadium,outdoors,401437928
+2022_16_GB_MIA,2022,REG,16,2022-12-25,13:00,GB,26,MIA,20,Home,6,8,Aaron Rodgers,Tua Tagovailoa,Hard Rock Stadium,outdoors,401437929
+2022_16_DEN_LA,2022,REG,16,2022-12-25,16:30,DEN,14,LA,51,Home,7,6,Russell Wilson,Baker Mayfield,SoFi Stadium,dome,401436983
+2022_16_TB_ARI,2022,REG,16,2022-12-25,20:20,TB,19,ARI,16,Home,7,7,Tom Brady,Trace McSorley,State Farm Stadium,open,401437930
+2022_16_LAC_IND,2022,REG,16,2022-12-26,20:15,LAC,20,IND,3,Home,8,9,Justin Herbert,Nick Foles,Lucas Oil Stadium,closed,401437931
+2022_17_DAL_TEN,2022,REG,17,2022-12-29,20:15,DAL,27,TEN,13,Home,5,5,Dak Prescott,Joshua Dobbs,Nissan Stadium,outdoors,401437932
+2022_17_ARI_ATL,2022,REG,17,2023-01-01,13:00,ARI,19,ATL,20,Home,7,8,David Blough,Desmond Ridder,Mercedes-Benz Stadium,closed,401437933
+2022_17_CHI_DET,2022,REG,17,2023-01-01,13:00,CHI,10,DET,41,Home,8,8,Justin Fields,Jared Goff,Ford Field,dome,401437935
+2022_17_JAX_HOU,2022,REG,17,2023-01-01,13:00,JAX,31,HOU,3,Home,10,8,Trevor Lawrence,Davis Mills,NRG Stadium,closed,401437936
+2022_17_DEN_KC,2022,REG,17,2023-01-01,13:00,DEN,24,KC,27,Home,7,8,Russell Wilson,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401437937
+2022_17_MIA_NE,2022,REG,17,2023-01-01,13:00,MIA,21,NE,23,Home,7,8,Teddy Bridgewater,Mac Jones,Gillette Stadium,outdoors,401437938
+2022_17_IND_NYG,2022,REG,17,2023-01-01,13:00,IND,10,NYG,38,Home,6,8,Nick Foles,Daniel Jones,MetLife Stadium,outdoors,401437939
+2022_17_NO_PHI,2022,REG,17,2023-01-01,13:00,NO,20,PHI,10,Home,8,8,Andy Dalton,Gardner Minshew,Lincoln Financial Field,outdoors,401437940
+2022_17_CAR_TB,2022,REG,17,2023-01-01,13:00,CAR,24,TB,30,Home,8,7,Sam Darnold,Tom Brady,Raymond James Stadium,outdoors,401437941
+2022_17_CLE_WAS,2022,REG,17,2023-01-01,13:00,CLE,24,WAS,10,Home,8,8,Deshaun Watson,Carson Wentz,FedExField,outdoors,401437942
+2022_17_SF_LV,2022,REG,17,2023-01-01,16:05,SF,37,LV,34,Home,8,8,Brock Purdy,Jarrett Stidham,Allegiant Stadium,dome,401437943
+2022_17_NYJ_SEA,2022,REG,17,2023-01-01,16:05,NYJ,6,SEA,23,Home,10,8,Mike White,Geno Smith,Lumen Field,outdoors,401437944
+2022_17_MIN_GB,2022,REG,17,2023-01-01,16:25,MIN,17,GB,41,Home,8,7,Kirk Cousins,Aaron Rodgers,Lambeau Field,outdoors,401437945
+2022_17_LA_LAC,2022,REG,17,2023-01-01,16:25,LA,10,LAC,31,Home,7,6,Baker Mayfield,Justin Herbert,SoFi Stadium,dome,401437946
+2022_17_PIT_BAL,2022,REG,17,2023-01-01,20:20,PIT,16,BAL,13,Home,8,8,Kenny Pickett,Tyler Huntley,M&T Bank Stadium,outdoors,401437934
+2022_18_KC_LV,2022,REG,18,2023-01-07,16:30,KC,31,LV,13,Home,6,6,Patrick Mahomes,Jarrett Stidham,Allegiant Stadium,dome,401437961
+2022_18_TEN_JAX,2022,REG,18,2023-01-07,20:15,TEN,16,JAX,20,Home,9,6,Joshua Dobbs,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437954
+2022_18_TB_ATL,2022,REG,18,2023-01-08,13:00,TB,17,ATL,30,Home,7,7,Blaine Gabbert,Desmond Ridder,Mercedes-Benz Stadium,closed,401437948
+2022_18_NE_BUF,2022,REG,18,2023-01-08,13:00,NE,23,BUF,35,Home,7,6,Mac Jones,Josh Allen,New Era Field,outdoors,401437949
+2022_18_MIN_CHI,2022,REG,18,2023-01-08,13:00,MIN,29,CHI,13,Home,7,7,Kirk Cousins,Nathan Peterman,Soldier Field,outdoors,401437950
+2022_18_BAL_CIN,2022,REG,18,2023-01-08,13:00,BAL,16,CIN,27,Home,7,6,Anthony Brown,Joe Burrow,Paycor Stadium,outdoors,401437951
+2022_18_HOU_IND,2022,REG,18,2023-01-08,13:00,HOU,32,IND,31,Home,7,7,Davis Mills,Sam Ehlinger,Lucas Oil Stadium,closed,401437953
+2022_18_NYJ_MIA,2022,REG,18,2023-01-08,13:00,NYJ,6,MIA,11,Home,7,7,Joe Flacco,Skylar Thompson,Hard Rock Stadium,outdoors,401437955
+2022_18_CAR_NO,2022,REG,18,2023-01-08,13:00,CAR,10,NO,7,Home,7,7,Sam Darnold,Andy Dalton,Mercedes-Benz Superdome,dome,401437956
+2022_18_CLE_PIT,2022,REG,18,2023-01-08,13:00,CLE,14,PIT,28,Home,7,7,Deshaun Watson,Kenny Pickett,Acrisure Stadium,outdoors,401437958
+2022_18_LAC_DEN,2022,REG,18,2023-01-08,16:25,LAC,28,DEN,31,Home,7,7,Justin Herbert,Russell Wilson,Empower Field at Mile High,outdoors,401437960
+2022_18_NYG_PHI,2022,REG,18,2023-01-08,16:25,NYG,16,PHI,22,Home,7,7,Davis Webb,Jalen Hurts,Lincoln Financial Field,outdoors,401437957
+2022_18_LA_SEA,2022,REG,18,2023-01-08,16:25,LA,16,SEA,19,Home,7,7,Baker Mayfield,Geno Smith,Lumen Field,outdoors,401437963
+2022_18_ARI_SF,2022,REG,18,2023-01-08,16:25,ARI,13,SF,38,Home,7,7,David Blough,Brock Purdy,Levi's Stadium,outdoors,401437962
+2022_18_DAL_WAS,2022,REG,18,2023-01-08,16:25,DAL,6,WAS,26,Home,10,7,Dak Prescott,Sam Howell,FedExField,outdoors,401437959
+2022_18_DET_GB,2022,REG,18,2023-01-08,20:20,DET,20,GB,16,Home,7,7,Jared Goff,Aaron Rodgers,Lambeau Field,outdoors,401437952
+2022_19_SEA_SF,2022,WC,19,2023-01-14,16:30,SEA,23,SF,41,Home,6,6,Geno Smith,Brock Purdy,Levi's Stadium,outdoors,401438000
+2022_19_LAC_JAX,2022,WC,19,2023-01-14,20:15,LAC,30,JAX,31,Home,6,7,Justin Herbert,Trevor Lawrence,TIAA Bank Stadium,outdoors,401437998
+2022_19_MIA_BUF,2022,WC,19,2023-01-15,13:00,MIA,31,BUF,34,Home,7,7,Skylar Thompson,Josh Allen,New Era Field,outdoors,401438002
+2022_19_NYG_MIN,2022,WC,19,2023-01-15,16:50,NYG,31,MIN,24,Home,7,7,Daniel Jones,Kirk Cousins,U.S. Bank Stadium,dome,401438001
+2022_19_BAL_CIN,2022,WC,19,2023-01-15,20:15,BAL,17,CIN,24,Home,7,7,Tyler Huntley,Joe Burrow,Paycor Stadium,outdoors,401437999
+2022_19_DAL_TB,2022,WC,19,2023-01-16,20:15,DAL,31,TB,14,Home,8,8,Dak Prescott,Tom Brady,Raymond James Stadium,outdoors,401438003
+2022_20_JAX_KC,2022,DIV,20,2023-01-21,16:30,JAX,20,KC,27,Home,7,14,Trevor Lawrence,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401438005
+2022_20_NYG_PHI,2022,DIV,20,2023-01-21,20:15,NYG,7,PHI,38,Home,6,13,Daniel Jones,Jalen Hurts,Lincoln Financial Field,outdoors,401438004
+2022_20_CIN_BUF,2022,DIV,20,2023-01-22,15:00,CIN,27,BUF,10,Home,7,7,Joe Burrow,Josh Allen,New Era Field,outdoors,401438007
+2022_20_DAL_SF,2022,DIV,20,2023-01-22,18:30,DAL,12,SF,19,Home,6,8,Dak Prescott,Brock Purdy,Levi's Stadium,outdoors,401438006
+2022_21_SF_PHI,2022,CON,21,2023-01-29,15:00,SF,7,PHI,31,Home,7,8,Brock Purdy,Jalen Hurts,Lincoln Financial Field,outdoors,401438009
+2022_21_CIN_KC,2022,CON,21,2023-01-29,18:30,CIN,20,KC,23,Home,7,8,Joe Burrow,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401438008
+2022_22_KC_PHI,2022,SB,22,2023-02-12,18:30,KC,38,PHI,35,Neutral,14,14,Patrick Mahomes,Jalen Hurts,State Farm Stadium,closed,401438030
+2023_01_DET_KC,2023,REG,1,2023-09-07,20:20,DET,21,KC,20,Home,7,7,Jared Goff,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547353
+2023_01_CAR_ATL,2023,REG,1,2023-09-10,13:00,CAR,10,ATL,24,Home,7,7,Bryce Young,Desmond Ridder,Mercedes-Benz Stadium,closed,401547403
+2023_01_HOU_BAL,2023,REG,1,2023-09-10,13:00,HOU,9,BAL,25,Home,7,7,C.J. Stroud,Lamar Jackson,M&T Bank Stadium,outdoors,401547396
+2023_01_CIN_CLE,2023,REG,1,2023-09-10,13:00,CIN,3,CLE,24,Home,7,7,Joe Burrow,Deshaun Watson,FirstEnergy Stadium,outdoors,401547397
+2023_01_JAX_IND,2023,REG,1,2023-09-10,13:00,JAX,31,IND,21,Home,7,7,Trevor Lawrence,Anthony Richardson,Lucas Oil Stadium,closed,401547404
+2023_01_TB_MIN,2023,REG,1,2023-09-10,13:00,TB,20,MIN,17,Home,7,7,Baker Mayfield,Kirk Cousins,U.S. Bank Stadium,dome,401547398
+2023_01_TEN_NO,2023,REG,1,2023-09-10,13:00,TEN,15,NO,16,Home,7,7,Ryan Tannehill,Derek Carr,Mercedes-Benz Superdome,dome,401547399
+2023_01_SF_PIT,2023,REG,1,2023-09-10,13:00,SF,30,PIT,7,Home,7,7,Brock Purdy,Kenny Pickett,Acrisure Stadium,outdoors,401547405
+2023_01_ARI_WAS,2023,REG,1,2023-09-10,13:00,ARI,16,WAS,20,Home,7,7,Joshua Dobbs,Sam Howell,FedExField,outdoors,401547406
+2023_01_GB_CHI,2023,REG,1,2023-09-10,16:25,GB,38,CHI,20,Home,7,7,Jordan Love,Justin Fields,Soldier Field,outdoors,401547407
+2023_01_LV_DEN,2023,REG,1,2023-09-10,16:25,LV,17,DEN,16,Home,7,7,Jimmy Garoppolo,Russell Wilson,Empower Field at Mile High,outdoors,401547400
+2023_01_MIA_LAC,2023,REG,1,2023-09-10,16:25,MIA,36,LAC,34,Home,7,7,Tua Tagovailoa,Justin Herbert,SoFi Stadium,dome,401547401
+2023_01_PHI_NE,2023,REG,1,2023-09-10,16:25,PHI,25,NE,20,Home,7,7,Jalen Hurts,Mac Jones,Gillette Stadium,outdoors,401547402
+2023_01_LA_SEA,2023,REG,1,2023-09-10,16:25,LA,30,SEA,13,Home,7,7,Matthew Stafford,Geno Smith,Lumen Field,outdoors,401547408
+2023_01_DAL_NYG,2023,REG,1,2023-09-10,20:20,DAL,40,NYG,0,Home,7,7,Dak Prescott,Daniel Jones,MetLife Stadium,outdoors,401547409
+2023_01_BUF_NYJ,2023,REG,1,2023-09-11,20:15,BUF,16,NYJ,22,Home,7,7,Josh Allen,Aaron Rodgers,MetLife Stadium,outdoors,401547352
+2023_02_MIN_PHI,2023,REG,2,2023-09-14,20:15,MIN,28,PHI,34,Home,4,4,Kirk Cousins,Jalen Hurts,Lincoln Financial Field,outdoors,401547410
+2023_02_GB_ATL,2023,REG,2,2023-09-17,13:00,GB,24,ATL,25,Home,7,7,Jordan Love,Desmond Ridder,Mercedes-Benz Stadium,open,401547417
+2023_02_LV_BUF,2023,REG,2,2023-09-17,13:00,LV,10,BUF,38,Home,7,6,Jimmy Garoppolo,Josh Allen,New Era Field,outdoors,401547411
+2023_02_BAL_CIN,2023,REG,2,2023-09-17,13:00,BAL,27,CIN,24,Home,7,7,Lamar Jackson,Joe Burrow,Paycor Stadium,outdoors,401547412
+2023_02_SEA_DET,2023,REG,2,2023-09-17,13:00,SEA,37,DET,31,Home,7,10,Geno Smith,Jared Goff,Ford Field,dome,401547418
+2023_02_IND_HOU,2023,REG,2,2023-09-17,13:00,IND,31,HOU,20,Home,7,7,Anthony Richardson,C.J. Stroud,NRG Stadium,open,401547419
+2023_02_KC_JAX,2023,REG,2,2023-09-17,13:00,KC,17,JAX,9,Home,10,7,Patrick Mahomes,Trevor Lawrence,TIAA Bank Stadium,outdoors,401547413
+2023_02_CHI_TB,2023,REG,2,2023-09-17,13:00,CHI,17,TB,27,Home,7,7,Justin Fields,Baker Mayfield,Raymond James Stadium,outdoors,401547420
+2023_02_LAC_TEN,2023,REG,2,2023-09-17,13:00,LAC,24,TEN,27,Home,7,7,Justin Herbert,Ryan Tannehill,Nissan Stadium,outdoors,401547414
+2023_02_NYG_ARI,2023,REG,2,2023-09-17,16:05,NYG,31,ARI,28,Home,7,7,Daniel Jones,Joshua Dobbs,State Farm Stadium,closed,401547421
+2023_02_SF_LA,2023,REG,2,2023-09-17,16:05,SF,30,LA,23,Home,7,7,Brock Purdy,Matthew Stafford,SoFi Stadium,dome,401547422
+2023_02_NYJ_DAL,2023,REG,2,2023-09-17,16:25,NYJ,10,DAL,30,Home,6,7,Zach Wilson,Dak Prescott,AT&T Stadium,open,401547415
+2023_02_WAS_DEN,2023,REG,2,2023-09-17,16:25,WAS,35,DEN,33,Home,7,7,Sam Howell,Russell Wilson,Empower Field at Mile High,outdoors,401547416
+2023_02_MIA_NE,2023,REG,2,2023-09-17,20:20,MIA,24,NE,17,Home,7,7,Tua Tagovailoa,Mac Jones,Gillette Stadium,outdoors,401547423
+2023_02_NO_CAR,2023,REG,2,2023-09-18,19:15,NO,20,CAR,17,Home,8,8,Derek Carr,Bryce Young,Bank of America Stadium,outdoors,401547425
+2023_02_CLE_PIT,2023,REG,2,2023-09-18,20:15,CLE,22,PIT,26,Home,8,8,Deshaun Watson,Kenny Pickett,Acrisure Stadium,outdoors,401547424
+2023_03_NYG_SF,2023,REG,3,2023-09-21,20:15,NYG,12,SF,30,Home,4,4,Daniel Jones,Brock Purdy,Levi's Stadium,outdoors,401547426
+2023_03_IND_BAL,2023,REG,3,2023-09-24,13:00,IND,22,BAL,19,Home,7,7,Gardner Minshew,Lamar Jackson,M&T Bank Stadium,outdoors,401547427
+2023_03_TEN_CLE,2023,REG,3,2023-09-24,13:00,TEN,3,CLE,27,Home,7,6,Ryan Tannehill,Deshaun Watson,FirstEnergy Stadium,outdoors,401547428
+2023_03_ATL_DET,2023,REG,3,2023-09-24,13:00,ATL,6,DET,20,Home,7,7,Desmond Ridder,Jared Goff,Ford Field,dome,401547433
+2023_03_NO_GB,2023,REG,3,2023-09-24,13:00,NO,17,GB,18,Home,6,7,Derek Carr,Jordan Love,Lambeau Field,outdoors,401547434
+2023_03_HOU_JAX,2023,REG,3,2023-09-24,13:00,HOU,37,JAX,17,Home,7,7,C.J. Stroud,Trevor Lawrence,TIAA Bank Stadium,outdoors,401547435
+2023_03_DEN_MIA,2023,REG,3,2023-09-24,13:00,DEN,20,MIA,70,Home,7,7,Russell Wilson,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547429
+2023_03_LAC_MIN,2023,REG,3,2023-09-24,13:00,LAC,28,MIN,24,Home,7,10,Justin Herbert,Kirk Cousins,U.S. Bank Stadium,dome,401547436
+2023_03_NE_NYJ,2023,REG,3,2023-09-24,13:00,NE,15,NYJ,10,Home,7,7,Mac Jones,Zach Wilson,MetLife Stadium,outdoors,401547430
+2023_03_BUF_WAS,2023,REG,3,2023-09-24,13:00,BUF,37,WAS,3,Home,7,7,Josh Allen,Sam Howell,FedExField,outdoors,401547431
+2023_03_CAR_SEA,2023,REG,3,2023-09-24,16:05,CAR,27,SEA,37,Home,6,7,Andy Dalton,Geno Smith,Lumen Field,outdoors,401547432
+2023_03_DAL_ARI,2023,REG,3,2023-09-24,16:25,DAL,16,ARI,28,Home,7,7,Dak Prescott,Joshua Dobbs,State Farm Stadium,open,401547437
+2023_03_CHI_KC,2023,REG,3,2023-09-24,16:25,CHI,10,KC,41,Home,7,7,Justin Fields,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547438
+2023_03_PIT_LV,2023,REG,3,2023-09-24,20:20,PIT,23,LV,18,Home,6,7,Kenny Pickett,Jimmy Garoppolo,Allegiant Stadium,dome,401547439
+2023_03_PHI_TB,2023,REG,3,2023-09-25,19:15,PHI,25,TB,11,Home,11,8,Jalen Hurts,Baker Mayfield,Raymond James Stadium,outdoors,401547440
+2023_03_LA_CIN,2023,REG,3,2023-09-25,20:15,LA,16,CIN,19,Home,8,8,Matthew Stafford,Joe Burrow,Paycor Stadium,outdoors,401547441
+2023_04_DET_GB,2023,REG,4,2023-09-28,20:15,DET,34,GB,20,Home,4,4,Jared Goff,Jordan Love,Lambeau Field,outdoors,401547442
+2023_04_ATL_JAX,2023,REG,4,2023-10-01,09:30,ATL,7,JAX,23,Neutral,7,7,Desmond Ridder,Trevor Lawrence,Wembley Stadium,outdoors,401547227
+2023_04_MIA_BUF,2023,REG,4,2023-10-01,13:00,MIA,20,BUF,48,Home,7,7,Tua Tagovailoa,Josh Allen,New Era Field,outdoors,401547443
+2023_04_MIN_CAR,2023,REG,4,2023-10-01,13:00,MIN,21,CAR,13,Home,7,7,Kirk Cousins,Bryce Young,Bank of America Stadium,outdoors,401547448
+2023_04_DEN_CHI,2023,REG,4,2023-10-01,13:00,DEN,31,CHI,28,Home,7,7,Russell Wilson,Justin Fields,Soldier Field,outdoors,401547444
+2023_04_BAL_CLE,2023,REG,4,2023-10-01,13:00,BAL,28,CLE,3,Home,7,7,Lamar Jackson,Dorian Thompson-Robinson,FirstEnergy Stadium,outdoors,401547445
+2023_04_PIT_HOU,2023,REG,4,2023-10-01,13:00,PIT,6,HOU,30,Home,7,7,Kenny Pickett,C.J. Stroud,NRG Stadium,open,401547446
+2023_04_LA_IND,2023,REG,4,2023-10-01,13:00,LA,29,IND,23,Home,6,7,Matthew Stafford,Anthony Richardson,Lucas Oil Stadium,open,401547449
+2023_04_TB_NO,2023,REG,4,2023-10-01,13:00,TB,26,NO,9,Home,6,7,Baker Mayfield,Derek Carr,Mercedes-Benz Superdome,dome,401547450
+2023_04_WAS_PHI,2023,REG,4,2023-10-01,13:00,WAS,31,PHI,34,Home,7,6,Sam Howell,Jalen Hurts,Lincoln Financial Field,outdoors,401547451
+2023_04_CIN_TEN,2023,REG,4,2023-10-01,13:00,CIN,3,TEN,27,Home,6,7,Joe Burrow,Ryan Tannehill,Nissan Stadium,outdoors,401547452
+2023_04_LV_LAC,2023,REG,4,2023-10-01,16:05,LV,17,LAC,24,Home,7,7,Aidan O'Connell,Justin Herbert,SoFi Stadium,dome,401547447
+2023_04_NE_DAL,2023,REG,4,2023-10-01,16:25,NE,3,DAL,38,Home,7,7,Mac Jones,Dak Prescott,AT&T Stadium,closed,401547453
+2023_04_ARI_SF,2023,REG,4,2023-10-01,16:25,ARI,16,SF,35,Home,7,10,Joshua Dobbs,Brock Purdy,Levi's Stadium,outdoors,401547454
+2023_04_KC_NYJ,2023,REG,4,2023-10-01,20:20,KC,23,NYJ,20,Home,7,7,Patrick Mahomes,Zach Wilson,MetLife Stadium,outdoors,401547455
+2023_04_SEA_NYG,2023,REG,4,2023-10-02,20:15,SEA,24,NYG,3,Home,8,11,Geno Smith,Daniel Jones,MetLife Stadium,outdoors,401547456
+2023_05_CHI_WAS,2023,REG,5,2023-10-05,20:15,CHI,40,WAS,20,Home,4,4,Justin Fields,Sam Howell,FedExField,outdoors,401547457
+2023_05_JAX_BUF,2023,REG,5,2023-10-08,09:30,JAX,25,BUF,20,Neutral,7,7,Trevor Lawrence,Josh Allen,Tottenham Stadium,outdoors,401547228
+2023_05_HOU_ATL,2023,REG,5,2023-10-08,13:00,HOU,19,ATL,21,Home,7,7,C.J. Stroud,Desmond Ridder,Mercedes-Benz Stadium,open,401547463
+2023_05_CAR_DET,2023,REG,5,2023-10-08,13:00,CAR,24,DET,42,Home,7,10,Bryce Young,Jared Goff,Ford Field,dome,401547464
+2023_05_TEN_IND,2023,REG,5,2023-10-08,13:00,TEN,16,IND,23,Home,7,7,Ryan Tannehill,Anthony Richardson,Lucas Oil Stadium,open,401547458
+2023_05_NYG_MIA,2023,REG,5,2023-10-08,13:00,NYG,16,MIA,31,Home,6,7,Daniel Jones,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547465
+2023_05_NO_NE,2023,REG,5,2023-10-08,13:00,NO,34,NE,0,Home,7,7,Derek Carr,Mac Jones,Gillette Stadium,outdoors,401547459
+2023_05_BAL_PIT,2023,REG,5,2023-10-08,13:00,BAL,10,PIT,17,Home,7,7,Lamar Jackson,Kenny Pickett,Acrisure Stadium,outdoors,401547460
+2023_05_CIN_ARI,2023,REG,5,2023-10-08,16:05,CIN,34,ARI,20,Home,7,7,Joe Burrow,Joshua Dobbs,State Farm Stadium,closed,401547466
+2023_05_PHI_LA,2023,REG,5,2023-10-08,16:05,PHI,23,LA,14,Home,7,7,Jalen Hurts,Matthew Stafford,SoFi Stadium,dome,401547467
+2023_05_NYJ_DEN,2023,REG,5,2023-10-08,16:25,NYJ,31,DEN,21,Home,7,7,Zach Wilson,Russell Wilson,Empower Field at Mile High,outdoors,401547461
+2023_05_KC_MIN,2023,REG,5,2023-10-08,16:25,KC,27,MIN,20,Home,7,7,Patrick Mahomes,Kirk Cousins,U.S. Bank Stadium,dome,401547462
+2023_05_DAL_SF,2023,REG,5,2023-10-08,20:20,DAL,10,SF,42,Home,7,7,Dak Prescott,Brock Purdy,Levi's Stadium,outdoors,401547354
+2023_05_GB_LV,2023,REG,5,2023-10-09,20:15,GB,13,LV,17,Home,11,8,Jordan Love,Jimmy Garoppolo,Allegiant Stadium,dome,401547468
+2023_06_DEN_KC,2023,REG,6,2023-10-12,20:15,DEN,8,KC,19,Home,4,4,Russell Wilson,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547469
+2023_06_BAL_TEN,2023,REG,6,2023-10-15,09:30,BAL,24,TEN,16,Neutral,7,7,Lamar Jackson,Ryan Tannehill,Tottenham Stadium,outdoors,401547229
+2023_06_WAS_ATL,2023,REG,6,2023-10-15,13:00,WAS,24,ATL,16,Home,10,7,Sam Howell,Desmond Ridder,Mercedes-Benz Stadium,closed,401547470
+2023_06_MIN_CHI,2023,REG,6,2023-10-15,13:00,MIN,19,CHI,13,Home,7,10,Kirk Cousins,Justin Fields,Soldier Field,outdoors,401547475
+2023_06_SEA_CIN,2023,REG,6,2023-10-15,13:00,SEA,13,CIN,17,Home,13,7,Geno Smith,Joe Burrow,Paycor Stadium,outdoors,401547471
+2023_06_SF_CLE,2023,REG,6,2023-10-15,13:00,SF,17,CLE,19,Home,7,14,Brock Purdy,Phillip Walker,FirstEnergy Stadium,outdoors,401547476
+2023_06_NO_HOU,2023,REG,6,2023-10-15,13:00,NO,13,HOU,20,Home,7,7,Derek Carr,C.J. Stroud,NRG Stadium,closed,401547477
+2023_06_IND_JAX,2023,REG,6,2023-10-15,13:00,IND,20,JAX,37,Home,7,7,Gardner Minshew,Trevor Lawrence,TIAA Bank Stadium,outdoors,401547472
+2023_06_CAR_MIA,2023,REG,6,2023-10-15,13:00,CAR,21,MIA,42,Home,7,7,Bryce Young,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547473
+2023_06_NE_LV,2023,REG,6,2023-10-15,16:05,NE,17,LV,21,Home,7,6,Mac Jones,Jimmy Garoppolo,Allegiant Stadium,dome,401547474
+2023_06_ARI_LA,2023,REG,6,2023-10-15,16:25,ARI,9,LA,26,Home,7,7,Joshua Dobbs,Matthew Stafford,SoFi Stadium,dome,401547479
+2023_06_PHI_NYJ,2023,REG,6,2023-10-15,16:25,PHI,14,NYJ,20,Home,7,7,Jalen Hurts,Zach Wilson,MetLife Stadium,outdoors,401547480
+2023_06_DET_TB,2023,REG,6,2023-10-15,16:25,DET,20,TB,6,Home,7,14,Jared Goff,Baker Mayfield,Raymond James Stadium,outdoors,401547478
+2023_06_NYG_BUF,2023,REG,6,2023-10-15,20:20,NYG,9,BUF,14,Home,7,7,Tyrod Taylor,Josh Allen,New Era Field,outdoors,401547481
+2023_06_DAL_LAC,2023,REG,6,2023-10-16,20:15,DAL,20,LAC,17,Home,8,15,Dak Prescott,Justin Herbert,SoFi Stadium,dome,401547482
+2023_07_JAX_NO,2023,REG,7,2023-10-19,20:15,JAX,31,NO,24,Home,4,4,Trevor Lawrence,Derek Carr,Mercedes-Benz Superdome,dome,401547483
+2023_07_DET_BAL,2023,REG,7,2023-10-22,13:00,DET,6,BAL,38,Home,7,7,Jared Goff,Lamar Jackson,M&T Bank Stadium,outdoors,401547489
+2023_07_LV_CHI,2023,REG,7,2023-10-22,13:00,LV,12,CHI,30,Home,7,7,Brian Hoyer,Tyson Bagent,Soldier Field,outdoors,401547490
+2023_07_CLE_IND,2023,REG,7,2023-10-22,13:00,CLE,39,IND,38,Home,7,7,Deshaun Watson,Gardner Minshew,Lucas Oil Stadium,open,401547484
+2023_07_BUF_NE,2023,REG,7,2023-10-22,13:00,BUF,25,NE,29,Home,7,7,Josh Allen,Mac Jones,Gillette Stadium,outdoors,401547485
+2023_07_WAS_NYG,2023,REG,7,2023-10-22,13:00,WAS,7,NYG,14,Home,7,7,Sam Howell,Tyrod Taylor,MetLife Stadium,outdoors,401547486
+2023_07_ATL_TB,2023,REG,7,2023-10-22,13:00,ATL,16,TB,13,Home,7,7,Desmond Ridder,Baker Mayfield,Raymond James Stadium,outdoors,401547491
+2023_07_PIT_LA,2023,REG,7,2023-10-22,16:05,PIT,24,LA,17,Home,14,7,Kenny Pickett,Matthew Stafford,SoFi Stadium,dome,401547492
+2023_07_ARI_SEA,2023,REG,7,2023-10-22,16:05,ARI,10,SEA,20,Home,7,7,Joshua Dobbs,Geno Smith,Lumen Field,outdoors,401547493
+2023_07_GB_DEN,2023,REG,7,2023-10-22,16:25,GB,17,DEN,19,Home,13,10,Jordan Love,Russell Wilson,Empower Field at Mile High,outdoors,401547487
+2023_07_LAC_KC,2023,REG,7,2023-10-22,16:25,LAC,17,KC,31,Home,6,10,Justin Herbert,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547488
+2023_07_MIA_PHI,2023,REG,7,2023-10-22,20:20,MIA,17,PHI,31,Home,7,7,Tua Tagovailoa,Jalen Hurts,Lincoln Financial Field,outdoors,401547494
+2023_07_SF_MIN,2023,REG,7,2023-10-23,20:15,SF,17,MIN,22,Home,8,8,Brock Purdy,Kirk Cousins,U.S. Bank Stadium,dome,401547495
+2023_08_TB_BUF,2023,REG,8,2023-10-26,20:15,TB,18,BUF,24,Home,4,4,Baker Mayfield,Josh Allen,New Era Field,outdoors,401547496
+2023_08_HOU_CAR,2023,REG,8,2023-10-29,13:00,HOU,13,CAR,15,Home,14,14,C.J. Stroud,Bryce Young,Bank of America Stadium,outdoors,401547504
+2023_08_LA_DAL,2023,REG,8,2023-10-29,13:00,LA,20,DAL,43,Home,7,13,Matthew Stafford,Dak Prescott,AT&T Stadium,closed,401547505
+2023_08_MIN_GB,2023,REG,8,2023-10-29,13:00,MIN,24,GB,10,Home,6,7,Kirk Cousins,Jordan Love,Lambeau Field,outdoors,401547506
+2023_08_NO_IND,2023,REG,8,2023-10-29,13:00,NO,38,IND,27,Home,10,7,Derek Carr,Gardner Minshew,Lucas Oil Stadium,closed,401547507
+2023_08_NE_MIA,2023,REG,8,2023-10-29,13:00,NE,17,MIA,31,Home,7,7,Mac Jones,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547497
+2023_08_NYJ_NYG,2023,REG,8,2023-10-29,13:00,NYJ,13,NYG,10,Home,14,7,Zach Wilson,Tyrod Taylor,MetLife Stadium,outdoors,401547498
+2023_08_JAX_PIT,2023,REG,8,2023-10-29,13:00,JAX,20,PIT,10,Home,10,7,Trevor Lawrence,Kenny Pickett,Acrisure Stadium,outdoors,401547499
+2023_08_ATL_TEN,2023,REG,8,2023-10-29,13:00,ATL,23,TEN,28,Home,7,14,Desmond Ridder,Will Levis,Nissan Stadium,outdoors,401547500
+2023_08_PHI_WAS,2023,REG,8,2023-10-29,13:00,PHI,38,WAS,31,Home,7,7,Jalen Hurts,Sam Howell,FedExField,outdoors,401547508
+2023_08_CLE_SEA,2023,REG,8,2023-10-29,16:05,CLE,20,SEA,24,Home,7,7,Phillip Walker,Geno Smith,Lumen Field,outdoors,401547509
+2023_08_BAL_ARI,2023,REG,8,2023-10-29,16:25,BAL,31,ARI,24,Home,7,7,Lamar Jackson,Joshua Dobbs,State Farm Stadium,closed,401547501
+2023_08_KC_DEN,2023,REG,8,2023-10-29,16:25,KC,9,DEN,24,Home,7,7,Patrick Mahomes,Russell Wilson,Empower Field at Mile High,outdoors,401547502
+2023_08_CIN_SF,2023,REG,8,2023-10-29,16:25,CIN,31,SF,17,Home,14,6,Joe Burrow,Brock Purdy,Levi's Stadium,outdoors,401547503
+2023_08_CHI_LAC,2023,REG,8,2023-10-29,20:20,CHI,13,LAC,30,Home,7,7,Tyson Bagent,Justin Herbert,SoFi Stadium,dome,401547510
+2023_08_LV_DET,2023,REG,8,2023-10-30,20:15,LV,14,DET,26,Home,8,8,Jimmy Garoppolo,Jared Goff,Ford Field,dome,401547511
+2023_09_TEN_PIT,2023,REG,9,2023-11-02,20:15,TEN,16,PIT,20,Home,4,4,Will Levis,Kenny Pickett,Acrisure Stadium,outdoors,401547512
+2023_09_MIA_KC,2023,REG,9,2023-11-05,09:30,MIA,14,KC,21,Neutral,7,7,Tua Tagovailoa,Patrick Mahomes,Deutsche Bank Park,outdoors,401547230
+2023_09_MIN_ATL,2023,REG,9,2023-11-05,13:00,MIN,31,ATL,28,Home,7,7,Jaren Hall,Taylor Heinicke,Mercedes-Benz Stadium,open,401547518
+2023_09_SEA_BAL,2023,REG,9,2023-11-05,13:00,SEA,3,BAL,37,Home,7,7,Geno Smith,Lamar Jackson,M&T Bank Stadium,outdoors,401547513
+2023_09_ARI_CLE,2023,REG,9,2023-11-05,13:00,ARI,0,CLE,27,Home,7,7,Clayton Tune,Deshaun Watson,FirstEnergy Stadium,outdoors,401547514
+2023_09_LA_GB,2023,REG,9,2023-11-05,13:00,LA,3,GB,20,Home,7,7,Brett Rypien,Jordan Love,Lambeau Field,outdoors,401547519
+2023_09_TB_HOU,2023,REG,9,2023-11-05,13:00,TB,37,HOU,39,Home,10,7,Baker Mayfield,C.J. Stroud,NRG Stadium,closed,401547515
+2023_09_WAS_NE,2023,REG,9,2023-11-05,13:00,WAS,20,NE,17,Home,7,7,Sam Howell,Mac Jones,Gillette Stadium,outdoors,401547520
+2023_09_CHI_NO,2023,REG,9,2023-11-05,13:00,CHI,17,NO,24,Home,7,7,Tyson Bagent,Derek Carr,Mercedes-Benz Superdome,dome,401547516
+2023_09_IND_CAR,2023,REG,9,2023-11-05,16:05,IND,27,CAR,13,Home,7,7,Gardner Minshew,Bryce Young,Bank of America Stadium,outdoors,401547517
+2023_09_NYG_LV,2023,REG,9,2023-11-05,16:25,NYG,6,LV,30,Home,7,6,Daniel Jones,Aidan O'Connell,Allegiant Stadium,dome,401547521
+2023_09_DAL_PHI,2023,REG,9,2023-11-05,16:25,DAL,23,PHI,28,Home,7,7,Dak Prescott,Jalen Hurts,Lincoln Financial Field,outdoors,401547522
+2023_09_BUF_CIN,2023,REG,9,2023-11-05,20:20,BUF,18,CIN,24,Home,10,7,Josh Allen,Joe Burrow,Paycor Stadium,outdoors,401547523
+2023_09_LAC_NYJ,2023,REG,9,2023-11-06,20:15,LAC,27,NYJ,6,Home,8,8,Justin Herbert,Zach Wilson,MetLife Stadium,outdoors,401547524
+2023_10_CAR_CHI,2023,REG,10,2023-11-09,20:15,CAR,13,CHI,16,Home,4,4,Bryce Young,Tyson Bagent,Soldier Field,outdoors,401547525
+2023_10_IND_NE,2023,REG,10,2023-11-12,09:30,IND,10,NE,6,Neutral,7,7,Gardner Minshew,Mac Jones,Deutsche Bank Park,outdoors,401547231
+2023_10_CLE_BAL,2023,REG,10,2023-11-12,13:00,CLE,33,BAL,31,Home,7,7,Deshaun Watson,Lamar Jackson,M&T Bank Stadium,outdoors,401547531
+2023_10_HOU_CIN,2023,REG,10,2023-11-12,13:00,HOU,30,CIN,27,Home,7,7,C.J. Stroud,Joe Burrow,Paycor Stadium,outdoors,401547526
+2023_10_SF_JAX,2023,REG,10,2023-11-12,13:00,SF,34,JAX,3,Home,14,14,Brock Purdy,Trevor Lawrence,TIAA Bank Stadium,outdoors,401547532
+2023_10_NO_MIN,2023,REG,10,2023-11-12,13:00,NO,19,MIN,27,Home,7,7,Derek Carr,Joshua Dobbs,U.S. Bank Stadium,dome,401547533
+2023_10_GB_PIT,2023,REG,10,2023-11-12,13:00,GB,19,PIT,23,Home,7,10,Jordan Love,Kenny Pickett,Acrisure Stadium,outdoors,401547527
+2023_10_TEN_TB,2023,REG,10,2023-11-12,13:00,TEN,6,TB,20,Home,10,7,Will Levis,Baker Mayfield,Raymond James Stadium,outdoors,401547528
+2023_10_ATL_ARI,2023,REG,10,2023-11-12,16:05,ATL,23,ARI,25,Home,7,7,Taylor Heinicke,Kyler Murray,State Farm Stadium,closed,401547529
+2023_10_DET_LAC,2023,REG,10,2023-11-12,16:05,DET,41,LAC,38,Home,13,6,Jared Goff,Justin Herbert,SoFi Stadium,dome,401547530
+2023_10_NYG_DAL,2023,REG,10,2023-11-12,16:25,NYG,17,DAL,49,Home,7,7,Tommy DeVito,Dak Prescott,AT&T Stadium,closed,401547534
+2023_10_WAS_SEA,2023,REG,10,2023-11-12,16:25,WAS,26,SEA,29,Home,7,7,Sam Howell,Geno Smith,Lumen Field,outdoors,401547535
+2023_10_NYJ_LV,2023,REG,10,2023-11-12,20:20,NYJ,12,LV,16,Home,6,7,Zach Wilson,Aidan O'Connell,Allegiant Stadium,dome,401547536
+2023_10_DEN_BUF,2023,REG,10,2023-11-13,20:15,DEN,24,BUF,22,Home,15,8,Russell Wilson,Josh Allen,New Era Field,outdoors,401547537
+2023_11_CIN_BAL,2023,REG,11,2023-11-16,20:15,CIN,20,BAL,34,Home,4,4,Joe Burrow,Lamar Jackson,M&T Bank Stadium,outdoors,401547538
+2023_11_DAL_CAR,2023,REG,11,2023-11-19,13:00,DAL,33,CAR,10,Home,7,10,Dak Prescott,Bryce Young,Bank of America Stadium,outdoors,401547545
+2023_11_PIT_CLE,2023,REG,11,2023-11-19,13:00,PIT,10,CLE,13,Home,7,7,Kenny Pickett,Dorian Thompson-Robinson,FirstEnergy Stadium,outdoors,401547539
+2023_11_CHI_DET,2023,REG,11,2023-11-19,13:00,CHI,26,DET,31,Home,10,7,Justin Fields,Jared Goff,Ford Field,dome,401547546
+2023_11_LAC_GB,2023,REG,11,2023-11-19,13:00,LAC,20,GB,23,Home,7,7,Justin Herbert,Jordan Love,Lambeau Field,outdoors,401547547
+2023_11_ARI_HOU,2023,REG,11,2023-11-19,13:00,ARI,16,HOU,21,Home,7,7,Kyler Murray,C.J. Stroud,NRG Stadium,closed,401547540
+2023_11_TEN_JAX,2023,REG,11,2023-11-19,13:00,TEN,14,JAX,34,Home,7,7,Will Levis,Trevor Lawrence,TIAA Bank Stadium,outdoors,401547541
+2023_11_LV_MIA,2023,REG,11,2023-11-19,13:00,LV,13,MIA,20,Home,7,14,Aidan O'Connell,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547542
+2023_11_NYG_WAS,2023,REG,11,2023-11-19,13:00,NYG,31,WAS,19,Home,7,7,Tommy DeVito,Sam Howell,FedExField,outdoors,401547548
+2023_11_TB_SF,2023,REG,11,2023-11-19,16:05,TB,14,SF,27,Home,7,7,Baker Mayfield,Brock Purdy,Levi's Stadium,outdoors,401547549
+2023_11_NYJ_BUF,2023,REG,11,2023-11-19,16:25,NYJ,6,BUF,32,Home,7,6,Zach Wilson,Josh Allen,New Era Field,outdoors,401547543
+2023_11_SEA_LA,2023,REG,11,2023-11-19,16:25,SEA,16,LA,17,Home,7,14,Geno Smith,Matthew Stafford,SoFi Stadium,dome,401547544
+2023_11_MIN_DEN,2023,REG,11,2023-11-19,20:20,MIN,20,DEN,21,Home,7,6,Joshua Dobbs,Russell Wilson,Empower Field at Mile High,outdoors,401547550
+2023_11_PHI_KC,2023,REG,11,2023-11-20,20:15,PHI,21,KC,17,Home,15,15,Jalen Hurts,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547345
+2023_12_GB_DET,2023,REG,12,2023-11-23,12:30,GB,29,DET,22,Home,4,4,Jordan Love,Jared Goff,Ford Field,dome,401547552
+2023_12_WAS_DAL,2023,REG,12,2023-11-23,16:30,WAS,10,DAL,45,Home,4,4,Sam Howell,Dak Prescott,AT&T Stadium,closed,401547551
+2023_12_SF_SEA,2023,REG,12,2023-11-23,20:20,SF,31,SEA,13,Home,4,4,Brock Purdy,Geno Smith,Lumen Field,outdoors,401547553
+2023_12_MIA_NYJ,2023,REG,12,2023-11-24,15:00,MIA,34,NYJ,13,Home,5,5,Tua Tagovailoa,Tim Boyle,MetLife Stadium,outdoors,401547242
+2023_12_NO_ATL,2023,REG,12,2023-11-26,13:00,NO,15,ATL,24,Home,14,14,Derek Carr,Desmond Ridder,Mercedes-Benz Stadium,closed,401547559
+2023_12_PIT_CIN,2023,REG,12,2023-11-26,13:00,PIT,16,CIN,10,Home,7,10,Kenny Pickett,Jake Browning,Paycor Stadium,outdoors,401547554
+2023_12_JAX_HOU,2023,REG,12,2023-11-26,13:00,JAX,24,HOU,21,Home,7,7,Trevor Lawrence,C.J. Stroud,NRG Stadium,closed,401547555
+2023_12_TB_IND,2023,REG,12,2023-11-26,13:00,TB,20,IND,27,Home,7,14,Baker Mayfield,Gardner Minshew,Lucas Oil Stadium,closed,401547556
+2023_12_NE_NYG,2023,REG,12,2023-11-26,13:00,NE,7,NYG,10,Home,14,7,Mac Jones,Tommy DeVito,MetLife Stadium,outdoors,401547560
+2023_12_CAR_TEN,2023,REG,12,2023-11-26,13:00,CAR,10,TEN,17,Home,7,7,Bryce Young,Will Levis,Nissan Stadium,outdoors,401547561
+2023_12_LA_ARI,2023,REG,12,2023-11-26,16:05,LA,37,ARI,14,Home,7,7,Matthew Stafford,Kyler Murray,State Farm Stadium,closed,401547562
+2023_12_CLE_DEN,2023,REG,12,2023-11-26,16:05,CLE,12,DEN,29,Home,7,7,Dorian Thompson-Robinson,Russell Wilson,Empower Field at Mile High,outdoors,401547563
+2023_12_KC_LV,2023,REG,12,2023-11-26,16:25,KC,31,LV,17,Home,6,7,Patrick Mahomes,Aidan O'Connell,Allegiant Stadium,dome,401547557
+2023_12_BUF_PHI,2023,REG,12,2023-11-26,16:25,BUF,34,PHI,37,Home,7,6,Josh Allen,Jalen Hurts,Lincoln Financial Field,outdoors,401547558
+2023_12_BAL_LAC,2023,REG,12,2023-11-26,20:20,BAL,20,LAC,10,Home,10,7,Lamar Jackson,Justin Herbert,SoFi Stadium,dome,401547564
+2023_12_CHI_MIN,2023,REG,12,2023-11-27,20:15,CHI,12,MIN,10,Home,8,8,Justin Fields,Joshua Dobbs,U.S. Bank Stadium,dome,401547565
+2023_13_SEA_DAL,2023,REG,13,2023-11-30,20:15,SEA,35,DAL,41,Home,7,7,Geno Smith,Dak Prescott,AT&T Stadium,closed,401547566
+2023_13_DEN_HOU,2023,REG,13,2023-12-03,13:00,DEN,17,HOU,22,Home,7,7,Russell Wilson,C.J. Stroud,NRG Stadium,closed,401547571
+2023_13_LAC_NE,2023,REG,13,2023-12-03,13:00,LAC,6,NE,0,Home,7,7,Justin Herbert,Bailey Zappe,Gillette Stadium,outdoors,401547567
+2023_13_DET_NO,2023,REG,13,2023-12-03,13:00,DET,33,NO,28,Home,10,7,Jared Goff,Derek Carr,Mercedes-Benz Superdome,dome,401547572
+2023_13_ATL_NYJ,2023,REG,13,2023-12-03,13:00,ATL,13,NYJ,8,Home,7,9,Desmond Ridder,Tim Boyle,MetLife Stadium,outdoors,401547573
+2023_13_ARI_PIT,2023,REG,13,2023-12-03,13:00,ARI,24,PIT,10,Home,7,7,Kyler Murray,Kenny Pickett,Acrisure Stadium,outdoors,401547568
+2023_13_IND_TEN,2023,REG,13,2023-12-03,13:00,IND,31,TEN,28,Home,7,7,Gardner Minshew,Will Levis,Nissan Stadium,outdoors,401547570
+2023_13_MIA_WAS,2023,REG,13,2023-12-03,13:00,MIA,45,WAS,15,Home,9,10,Tua Tagovailoa,Sam Howell,FedExField,outdoors,401547574
+2023_13_CAR_TB,2023,REG,13,2023-12-03,16:05,CAR,18,TB,21,Home,7,7,Bryce Young,Baker Mayfield,Raymond James Stadium,outdoors,401547569
+2023_13_CLE_LA,2023,REG,13,2023-12-03,16:25,CLE,19,LA,36,Home,7,7,Joe Flacco,Matthew Stafford,SoFi Stadium,dome,401547575
+2023_13_SF_PHI,2023,REG,13,2023-12-03,16:25,SF,42,PHI,19,Home,10,7,Brock Purdy,Jalen Hurts,Lincoln Financial Field,outdoors,401547276
+2023_13_KC_GB,2023,REG,13,2023-12-03,20:20,KC,19,GB,27,Home,7,10,Patrick Mahomes,Jordan Love,Lambeau Field,outdoors,401547576
+2023_13_CIN_JAX,2023,REG,13,2023-12-04,20:15,CIN,34,JAX,31,Home,8,8,Jake Browning,Trevor Lawrence,TIAA Bank Stadium,outdoors,401547577
+2023_14_NE_PIT,2023,REG,14,2023-12-07,20:15,NE,21,PIT,18,Home,4,4,Bailey Zappe,Mitchell Trubisky,Acrisure Stadium,outdoors,401547578
+2023_14_TB_ATL,2023,REG,14,2023-12-10,13:00,TB,29,ATL,25,Home,7,7,Baker Mayfield,Desmond Ridder,Mercedes-Benz Stadium,closed,401547579
+2023_14_LA_BAL,2023,REG,14,2023-12-10,13:00,LA,31,BAL,37,Home,7,14,Matthew Stafford,Lamar Jackson,M&T Bank Stadium,outdoors,401547585
+2023_14_DET_CHI,2023,REG,14,2023-12-10,13:00,DET,13,CHI,28,Home,7,13,Jared Goff,Justin Fields,Soldier Field,outdoors,401547586
+2023_14_IND_CIN,2023,REG,14,2023-12-10,13:00,IND,14,CIN,34,Home,7,6,Gardner Minshew,Jake Browning,Paycor Stadium,outdoors,401547580
+2023_14_JAX_CLE,2023,REG,14,2023-12-10,13:00,JAX,27,CLE,31,Home,6,7,Trevor Lawrence,Joe Flacco,FirstEnergy Stadium,outdoors,401547581
+2023_14_CAR_NO,2023,REG,14,2023-12-10,13:00,CAR,6,NO,28,Home,7,7,Bryce Young,Derek Carr,Mercedes-Benz Superdome,dome,401547587
+2023_14_HOU_NYJ,2023,REG,14,2023-12-10,13:00,HOU,6,NYJ,30,Home,7,7,C.J. Stroud,Zach Wilson,MetLife Stadium,outdoors,401547582
+2023_14_MIN_LV,2023,REG,14,2023-12-10,16:05,MIN,3,LV,0,Home,13,14,Joshua Dobbs,Aidan O'Connell,Allegiant Stadium,dome,401547588
+2023_14_SEA_SF,2023,REG,14,2023-12-10,16:05,SEA,16,SF,28,Home,10,7,Drew Lock,Brock Purdy,Levi's Stadium,outdoors,401547589
+2023_14_BUF_KC,2023,REG,14,2023-12-10,16:25,BUF,20,KC,17,Home,14,7,Josh Allen,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547583
+2023_14_DEN_LAC,2023,REG,14,2023-12-10,16:25,DEN,24,LAC,7,Home,7,7,Russell Wilson,Justin Herbert,SoFi Stadium,dome,401547584
+2023_14_PHI_DAL,2023,REG,14,2023-12-10,20:20,PHI,13,DAL,33,Home,7,10,Jalen Hurts,Dak Prescott,AT&T Stadium,closed,401547590
+2023_14_TEN_MIA,2023,REG,14,2023-12-11,20:15,TEN,28,MIA,27,Home,8,8,Will Levis,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547592
+2023_14_GB_NYG,2023,REG,14,2023-12-11,20:15,GB,22,NYG,24,Home,8,15,Jordan Love,Tommy DeVito,MetLife Stadium,outdoors,401547591
+2023_15_LAC_LV,2023,REG,15,2023-12-14,20:15,LAC,21,LV,63,Home,4,4,Easton Stick,Aidan O'Connell,Allegiant Stadium,dome,401547593
+2023_15_MIN_CIN,2023,REG,15,2023-12-16,13:00,MIN,24,CIN,27,Home,6,6,Nick Mullens,Jake Browning,Paycor Stadium,outdoors,401547604
+2023_15_PIT_IND,2023,REG,15,2023-12-16,16:30,PIT,13,IND,30,Home,9,6,Mitchell Trubisky,Gardner Minshew,Lucas Oil Stadium,closed,401547607
+2023_15_DEN_DET,2023,REG,15,2023-12-16,20:15,DEN,17,DET,42,Home,6,6,Russell Wilson,Jared Goff,Ford Field,dome,401547606
+2023_15_ATL_CAR,2023,REG,15,2023-12-17,13:00,ATL,7,CAR,9,Home,7,7,Desmond Ridder,Bryce Young,Bank of America Stadium,outdoors,401547603
+2023_15_CHI_CLE,2023,REG,15,2023-12-17,13:00,CHI,17,CLE,20,Home,7,7,Justin Fields,Joe Flacco,FirstEnergy Stadium,outdoors,401547605
+2023_15_TB_GB,2023,REG,15,2023-12-17,13:00,TB,34,GB,20,Home,7,6,Baker Mayfield,Jordan Love,Lambeau Field,outdoors,401547598
+2023_15_NYJ_MIA,2023,REG,15,2023-12-17,13:00,NYJ,0,MIA,30,Home,7,6,Zach Wilson,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547594
+2023_15_KC_NE,2023,REG,15,2023-12-17,13:00,KC,27,NE,17,Home,7,10,Patrick Mahomes,Bailey Zappe,Gillette Stadium,outdoors,401547608
+2023_15_NYG_NO,2023,REG,15,2023-12-17,13:00,NYG,6,NO,24,Home,6,7,Tommy DeVito,Derek Carr,Mercedes-Benz Superdome,dome,401547599
+2023_15_HOU_TEN,2023,REG,15,2023-12-17,13:00,HOU,19,TEN,16,Home,7,6,Case Keenum,Will Levis,Nissan Stadium,outdoors,401547595
+2023_15_SF_ARI,2023,REG,15,2023-12-17,16:05,SF,45,ARI,29,Home,7,14,Brock Purdy,Kyler Murray,State Farm Stadium,open,401547596
+2023_15_WAS_LA,2023,REG,15,2023-12-17,16:05,WAS,20,LA,28,Home,14,7,Sam Howell,Matthew Stafford,SoFi Stadium,dome,401547597
+2023_15_DAL_BUF,2023,REG,15,2023-12-17,16:25,DAL,10,BUF,31,Home,7,7,Dak Prescott,Josh Allen,New Era Field,outdoors,401547600
+2023_15_BAL_JAX,2023,REG,15,2023-12-17,20:20,BAL,23,JAX,7,Home,7,7,Lamar Jackson,Trevor Lawrence,TIAA Bank Stadium,outdoors,401547602
+2023_15_PHI_SEA,2023,REG,15,2023-12-18,20:15,PHI,17,SEA,20,Home,8,8,Jalen Hurts,Drew Lock,Lumen Field,outdoors,401547601
+2023_16_NO_LA,2023,REG,16,2023-12-21,20:15,NO,22,LA,30,Home,4,4,Derek Carr,Matthew Stafford,SoFi Stadium,dome,401547609
+2023_16_CIN_PIT,2023,REG,16,2023-12-23,16:30,CIN,11,PIT,34,Home,7,7,Jake Browning,Mason Rudolph,Acrisure Stadium,outdoors,401547610
+2023_16_BUF_LAC,2023,REG,16,2023-12-23,20:00,BUF,24,LAC,22,Home,6,9,Josh Allen,Easton Stick,SoFi Stadium,dome,401547611
+2023_16_IND_ATL,2023,REG,16,2023-12-24,13:00,IND,10,ATL,29,Home,8,7,Gardner Minshew,Taylor Heinicke,Mercedes-Benz Stadium,closed,401547616
+2023_16_GB_CAR,2023,REG,16,2023-12-24,13:00,GB,33,CAR,30,Home,7,7,Jordan Love,Bryce Young,Bank of America Stadium,outdoors,401547617
+2023_16_CLE_HOU,2023,REG,16,2023-12-24,13:00,CLE,36,HOU,22,Home,7,7,Joe Flacco,Case Keenum,NRG Stadium,closed,401547612
+2023_16_DET_MIN,2023,REG,16,2023-12-24,13:00,DET,30,MIN,24,Home,8,8,Jared Goff,Nick Mullens,U.S. Bank Stadium,dome,401547618
+2023_16_WAS_NYJ,2023,REG,16,2023-12-24,13:00,WAS,28,NYJ,30,Home,7,7,Sam Howell,Trevor Siemian,MetLife Stadium,outdoors,401547613
+2023_16_SEA_TEN,2023,REG,16,2023-12-24,13:00,SEA,20,TEN,17,Home,6,7,Geno Smith,Ryan Tannehill,Nissan Stadium,outdoors,401547614
+2023_16_JAX_TB,2023,REG,16,2023-12-24,16:05,JAX,12,TB,30,Home,7,7,Trevor Lawrence,Baker Mayfield,Raymond James Stadium,outdoors,401547615
+2023_16_ARI_CHI,2023,REG,16,2023-12-24,16:25,ARI,16,CHI,27,Home,7,7,Kyler Murray,Justin Fields,Soldier Field,outdoors,401547619
+2023_16_DAL_MIA,2023,REG,16,2023-12-24,16:25,DAL,20,MIA,22,Home,7,7,Dak Prescott,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547620
+2023_16_NE_DEN,2023,REG,16,2023-12-24,20:15,NE,26,DEN,23,Home,7,8,Bailey Zappe,Russell Wilson,Empower Field at Mile High,outdoors,401547621
+2023_16_LV_KC,2023,REG,16,2023-12-25,13:00,LV,20,KC,14,Home,11,8,Aidan O'Connell,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547351
+2023_16_NYG_PHI,2023,REG,16,2023-12-25,16:30,NYG,25,PHI,33,Home,8,7,Tommy DeVito,Jalen Hurts,Lincoln Financial Field,outdoors,401547241
+2023_16_BAL_SF,2023,REG,16,2023-12-25,20:15,BAL,33,SF,19,Home,8,8,Lamar Jackson,Brock Purdy,Levi's Stadium,outdoors,401547622
+2023_17_NYJ_CLE,2023,REG,17,2023-12-28,20:15,NYJ,20,CLE,37,Home,4,4,Trevor Siemian,Joe Flacco,FirstEnergy Stadium,outdoors,401547623
+2023_17_DET_DAL,2023,REG,17,2023-12-30,20:15,DET,19,DAL,20,Home,6,6,Jared Goff,Dak Prescott,AT&T Stadium,closed,401547624
+2023_17_MIA_BAL,2023,REG,17,2023-12-31,13:00,MIA,19,BAL,56,Home,7,6,Tua Tagovailoa,Lamar Jackson,M&T Bank Stadium,outdoors,401547625
+2023_17_NE_BUF,2023,REG,17,2023-12-31,13:00,NE,21,BUF,27,Home,7,8,Bailey Zappe,Josh Allen,New Era Field,outdoors,401547626
+2023_17_ATL_CHI,2023,REG,17,2023-12-31,13:00,ATL,17,CHI,37,Home,7,7,Taylor Heinicke,Justin Fields,Soldier Field,outdoors,401547627
+2023_17_TEN_HOU,2023,REG,17,2023-12-31,13:00,TEN,3,HOU,26,Home,7,7,Will Levis,C.J. Stroud,NRG Stadium,closed,401547631
+2023_17_LV_IND,2023,REG,17,2023-12-31,13:00,LV,20,IND,23,Home,6,7,Aidan O'Connell,Gardner Minshew,Lucas Oil Stadium,closed,401547628
+2023_17_CAR_JAX,2023,REG,17,2023-12-31,13:00,CAR,0,JAX,26,Home,7,7,Bryce Young,C.J. Beathard,TIAA Bank Stadium,outdoors,401547629
+2023_17_LA_NYG,2023,REG,17,2023-12-31,13:00,LA,26,NYG,25,Home,10,6,Matthew Stafford,Tyrod Taylor,MetLife Stadium,outdoors,401547632
+2023_17_ARI_PHI,2023,REG,17,2023-12-31,13:00,ARI,35,PHI,31,Home,7,6,Kyler Murray,Jalen Hurts,Lincoln Financial Field,outdoors,401547633
+2023_17_NO_TB,2023,REG,17,2023-12-31,13:00,NO,23,TB,13,Home,10,7,Derek Carr,Baker Mayfield,Raymond James Stadium,outdoors,401547634
+2023_17_SF_WAS,2023,REG,17,2023-12-31,13:00,SF,27,WAS,10,Home,6,7,Brock Purdy,Sam Howell,FedExField,outdoors,401547635
+2023_17_PIT_SEA,2023,REG,17,2023-12-31,16:05,PIT,30,SEA,23,Home,8,7,Mason Rudolph,Geno Smith,Lumen Field,outdoors,401547636
+2023_17_LAC_DEN,2023,REG,17,2023-12-31,16:25,LAC,9,DEN,16,Home,8,7,Easton Stick,Jarrett Stidham,Empower Field at Mile High,outdoors,401547630
+2023_17_CIN_KC,2023,REG,17,2023-12-31,16:25,CIN,17,KC,25,Home,8,6,Jake Browning,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547235
+2023_17_GB_MIN,2023,REG,17,2023-12-31,20:20,GB,33,MIN,10,Home,7,7,Jordan Love,Jaren Hall,U.S. Bank Stadium,dome,401547637
+2023_18_PIT_BAL,2023,REG,18,2024-01-06,16:30,PIT,17,BAL,10,Home,6,6,Mason Rudolph,Tyler Huntley,M&T Bank Stadium,outdoors,401547639
+2023_18_HOU_IND,2023,REG,18,2024-01-06,20:15,HOU,23,IND,19,Home,6,6,C.J. Stroud,Gardner Minshew,Lucas Oil Stadium,closed,401547644
+2023_18_TB_CAR,2023,REG,18,2024-01-07,13:00,TB,9,CAR,0,Home,7,7,Baker Mayfield,Bryce Young,Bank of America Stadium,outdoors,401547640
+2023_18_CLE_CIN,2023,REG,18,2024-01-07,13:00,CLE,14,CIN,31,Home,10,7,Jeff Driskel,Jake Browning,Paycor Stadium,outdoors,401547641
+2023_18_MIN_DET,2023,REG,18,2024-01-07,13:00,MIN,20,DET,30,Home,7,8,Nick Mullens,Jared Goff,Ford Field,dome,401547642
+2023_18_NYJ_NE,2023,REG,18,2024-01-07,13:00,NYJ,17,NE,3,Home,10,7,Trevor Siemian,Bailey Zappe,Gillette Stadium,outdoors,401547648
+2023_18_ATL_NO,2023,REG,18,2024-01-07,13:00,ATL,17,NO,48,Home,7,7,Desmond Ridder,Derek Carr,Mercedes-Benz Superdome,dome,401547649
+2023_18_JAX_TEN,2023,REG,18,2024-01-07,13:00,JAX,20,TEN,28,Home,7,7,Trevor Lawrence,Ryan Tannehill,Nissan Stadium,outdoors,401547652
+2023_18_SEA_ARI,2023,REG,18,2024-01-07,16:25,SEA,21,ARI,20,Home,7,7,Geno Smith,Kyler Murray,State Farm Stadium,closed,401547638
+2023_18_CHI_GB,2023,REG,18,2024-01-07,16:25,CHI,9,GB,17,Home,7,7,Justin Fields,Jordan Love,Lambeau Field,outdoors,401547643
+2023_18_KC_LAC,2023,REG,18,2024-01-07,16:25,KC,13,LAC,12,Home,7,7,Blaine Gabbert,Easton Stick,SoFi Stadium,dome,401547645
+2023_18_DEN_LV,2023,REG,18,2024-01-07,16:25,DEN,14,LV,27,Home,7,7,Jarrett Stidham,Aidan O'Connell,Allegiant Stadium,dome,401547646
+2023_18_PHI_NYG,2023,REG,18,2024-01-07,16:25,PHI,10,NYG,27,Home,7,7,Jalen Hurts,Tyrod Taylor,MetLife Stadium,outdoors,401547650
+2023_18_LA_SF,2023,REG,18,2024-01-07,16:25,LA,21,SF,20,Home,7,7,Carson Wentz,Sam Darnold,Levi's Stadium,outdoors,401547651
+2023_18_DAL_WAS,2023,REG,18,2024-01-07,16:25,DAL,38,WAS,10,Home,8,7,Dak Prescott,Sam Howell,FedExField,outdoors,401547653
+2023_18_BUF_MIA,2023,REG,18,2024-01-07,20:20,BUF,21,MIA,14,Home,7,7,Josh Allen,Tua Tagovailoa,Hard Rock Stadium,outdoors,401547647
+2023_19_CLE_HOU,2023,WC,19,2024-01-13,16:30,CLE,14,HOU,45,Home,6,7,Joe Flacco,C.J. Stroud,NRG Stadium,closed,401547749
+2023_19_MIA_KC,2023,WC,19,2024-01-13,20:00,MIA,7,KC,26,Home,6,6,Tua Tagovailoa,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401547750
+2023_19_GB_DAL,2023,WC,19,2024-01-14,16:30,GB,48,DAL,32,Home,7,7,Jordan Love,Dak Prescott,AT&T Stadium,closed,401547752
+2023_19_LA_DET,2023,WC,19,2024-01-14,20:00,LA,23,DET,24,Home,7,7,Matthew Stafford,Jared Goff,Ford Field,dome,401547753
+2023_19_PIT_BUF,2023,WC,19,2024-01-15,16:30,PIT,17,BUF,31,Home,9,8,Mason Rudolph,Josh Allen,New Era Field,outdoors,401547751
+2023_19_PHI_TB,2023,WC,19,2024-01-15,20:00,PHI,9,TB,32,Home,8,8,Jalen Hurts,Baker Mayfield,Raymond James Stadium,outdoors,401547754
+2023_20_HOU_BAL,2023,DIV,20,2024-01-20,16:30,HOU,10,BAL,34,Home,7,14,C.J. Stroud,Lamar Jackson,M&T Bank Stadium,outdoors,401547755
+2023_20_GB_SF,2023,DIV,20,2024-01-20,20:15,GB,21,SF,24,Home,6,13,Jordan Love,Brock Purdy,Levi's Stadium,outdoors,401547756
+2023_20_TB_DET,2023,DIV,20,2024-01-21,15:00,TB,23,DET,31,Home,6,7,Baker Mayfield,Jared Goff,Ford Field,dome,401547757
+2023_20_KC_BUF,2023,DIV,20,2024-01-21,18:30,KC,27,BUF,24,Home,8,6,Patrick Mahomes,Josh Allen,New Era Field,outdoors,401547758
+2023_21_KC_BAL,2023,CON,21,2024-01-28,15:00,KC,17,BAL,10,Home,7,8,Patrick Mahomes,Lamar Jackson,M&T Bank Stadium,outdoors,401547379
+2023_21_DET_SF,2023,CON,21,2024-01-28,18:30,DET,31,SF,34,Home,7,8,Jared Goff,Brock Purdy,Levi's Stadium,outdoors,401547380
+2023_22_SF_KC,2023,SB,22,2024-02-11,18:30,SF,22,KC,25,Neutral,14,14,Brock Purdy,Patrick Mahomes,Allegiant Stadium,dome,401547378
+2024_01_BAL_KC,2024,REG,1,2024-09-05,20:20,BAL,20,KC,27,Home,7,7,Lamar Jackson,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671789
+2024_01_GB_PHI,2024,REG,1,2024-09-06,20:15,GB,29,PHI,34,Neutral,7,7,Jordan Love,Jalen Hurts,Arena Corinthians,outdoors,401671805
+2024_01_PIT_ATL,2024,REG,1,2024-09-08,13:00,PIT,18,ATL,10,Home,7,7,Justin Fields,Kirk Cousins,Mercedes-Benz Stadium,closed,401671744
+2024_01_ARI_BUF,2024,REG,1,2024-09-08,13:00,ARI,28,BUF,34,Home,7,7,Kyler Murray,Josh Allen,New Era Field,outdoors,401671617
+2024_01_TEN_CHI,2024,REG,1,2024-09-08,13:00,TEN,17,CHI,24,Home,7,7,Will Levis,Caleb Williams,Soldier Field,outdoors,401671719
+2024_01_NE_CIN,2024,REG,1,2024-09-08,13:00,NE,16,CIN,10,Home,7,7,Jacoby Brissett,Joe Burrow,Paycor Stadium,outdoors,401671628
+2024_01_HOU_IND,2024,REG,1,2024-09-08,13:00,HOU,29,IND,27,Home,7,7,C.J. Stroud,Anthony Richardson,Lucas Oil Stadium,closed,401671861
+2024_01_JAX_MIA,2024,REG,1,2024-09-08,13:00,JAX,17,MIA,20,Home,7,7,Trevor Lawrence,Tua Tagovailoa,Hard Rock Stadium,outdoors,401671849
+2024_01_CAR_NO,2024,REG,1,2024-09-08,13:00,CAR,10,NO,47,Home,7,7,Bryce Young,Derek Carr,Mercedes-Benz Superdome,dome,401671734
+2024_01_MIN_NYG,2024,REG,1,2024-09-08,13:00,MIN,28,NYG,6,Home,7,7,Sam Darnold,Daniel Jones,MetLife Stadium,outdoors,401671712
+2024_01_LV_LAC,2024,REG,1,2024-09-08,16:05,LV,10,LAC,22,Home,7,7,Gardner Minshew,Justin Herbert,SoFi Stadium,dome,401671659
+2024_01_DEN_SEA,2024,REG,1,2024-09-08,16:05,DEN,20,SEA,26,Home,7,7,Bo Nix,Geno Smith,Lumen Field,outdoors,401671664
+2024_01_DAL_CLE,2024,REG,1,2024-09-08,16:25,DAL,33,CLE,17,Home,7,7,Dak Prescott,Deshaun Watson,FirstEnergy Stadium,outdoors,401671761
+2024_01_WAS_TB,2024,REG,1,2024-09-08,16:25,WAS,20,TB,37,Home,7,7,Jayden Daniels,Baker Mayfield,Raymond James Stadium,outdoors,401671770
+2024_01_LA_DET,2024,REG,1,2024-09-08,20:20,LA,20,DET,26,Home,7,7,Matthew Stafford,Jared Goff,Ford Field,dome,401671792
+2024_01_NYJ_SF,2024,REG,1,2024-09-09,20:15,NYJ,19,SF,32,Home,7,7,Aaron Rodgers,Brock Purdy,Levi's Stadium,outdoors,401671696
+2024_02_BUF_MIA,2024,REG,2,2024-09-12,20:15,BUF,31,MIA,10,Home,4,4,Josh Allen,Tua Tagovailoa,Hard Rock Stadium,outdoors,401671807
+2024_02_LV_BAL,2024,REG,2,2024-09-15,13:00,LV,26,BAL,23,Home,7,10,Gardner Minshew,Lamar Jackson,M&T Bank Stadium,outdoors,401671624
+2024_02_LAC_CAR,2024,REG,2,2024-09-15,13:00,LAC,26,CAR,3,Home,7,7,Justin Herbert,Bryce Young,Bank of America Stadium,outdoors,401671652
+2024_02_NO_DAL,2024,REG,2,2024-09-15,13:00,NO,44,DAL,19,Home,7,7,Derek Carr,Dak Prescott,AT&T Stadium,closed,401671709
+2024_02_TB_DET,2024,REG,2,2024-09-15,13:00,TB,20,DET,16,Home,7,7,Baker Mayfield,Jared Goff,Ford Field,dome,401671721
+2024_02_IND_GB,2024,REG,2,2024-09-15,13:00,IND,10,GB,16,Home,7,9,Anthony Richardson,Malik Willis,Lambeau Field,outdoors,401671723
+2024_02_CLE_JAX,2024,REG,2,2024-09-15,13:00,CLE,18,JAX,13,Home,7,7,Deshaun Watson,Trevor Lawrence,TIAA Bank Stadium,outdoors,401671635
+2024_02_SF_MIN,2024,REG,2,2024-09-15,13:00,SF,17,MIN,23,Home,6,7,Brock Purdy,Sam Darnold,U.S. Bank Stadium,dome,401671645
+2024_02_SEA_NE,2024,REG,2,2024-09-15,13:00,SEA,23,NE,20,Home,7,7,Geno Smith,Jacoby Brissett,Gillette Stadium,outdoors,401671702
+2024_02_NYJ_TEN,2024,REG,2,2024-09-15,13:00,NYJ,24,TEN,17,Home,6,7,Aaron Rodgers,Will Levis,Nissan Stadium,outdoors,401671636
+2024_02_NYG_WAS,2024,REG,2,2024-09-15,13:00,NYG,18,WAS,21,Home,7,7,Daniel Jones,Jayden Daniels,FedExField,outdoors,401671716
+2024_02_LA_ARI,2024,REG,2,2024-09-15,16:05,LA,10,ARI,41,Home,7,7,Matthew Stafford,Kyler Murray,State Farm Stadium,closed,401671754
+2024_02_PIT_DEN,2024,REG,2,2024-09-15,16:25,PIT,13,DEN,6,Home,7,7,Justin Fields,Bo Nix,Empower Field at Mile High,outdoors,401671668
+2024_02_CIN_KC,2024,REG,2,2024-09-15,16:25,CIN,25,KC,26,Home,7,10,Joe Burrow,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671670
+2024_02_CHI_HOU,2024,REG,2,2024-09-15,20:20,CHI,13,HOU,19,Home,7,7,Caleb Williams,C.J. Stroud,NRG Stadium,closed,401671786
+2024_02_ATL_PHI,2024,REG,2,2024-09-16,20:15,ATL,22,PHI,21,Home,8,10,Kirk Cousins,Jalen Hurts,Lincoln Financial Field,outdoors,401671691
+2024_03_NE_NYJ,2024,REG,3,2024-09-19,20:15,NE,3,NYJ,24,Home,4,4,Jacoby Brissett,Aaron Rodgers,MetLife Stadium,outdoors,401671808
+2024_03_NYG_CLE,2024,REG,3,2024-09-22,13:00,NYG,21,CLE,15,Home,7,7,Daniel Jones,Deshaun Watson,FirstEnergy Stadium,outdoors,401671855
+2024_03_CHI_IND,2024,REG,3,2024-09-22,13:00,CHI,16,IND,21,Home,7,7,Caleb Williams,Anthony Richardson,Lucas Oil Stadium,closed,401671865
+2024_03_HOU_MIN,2024,REG,3,2024-09-22,13:00,HOU,7,MIN,34,Home,7,7,C.J. Stroud,Sam Darnold,U.S. Bank Stadium,dome,401671646
+2024_03_PHI_NO,2024,REG,3,2024-09-22,13:00,PHI,15,NO,12,Home,6,7,Jalen Hurts,Derek Carr,Mercedes-Benz Superdome,dome,401671736
+2024_03_LAC_PIT,2024,REG,3,2024-09-22,13:00,LAC,10,PIT,20,Home,7,7,Justin Herbert,Justin Fields,Acrisure Stadium,outdoors,401671632
+2024_03_DEN_TB,2024,REG,3,2024-09-22,13:00,DEN,26,TB,7,Home,7,7,Bo Nix,Baker Mayfield,Raymond James Stadium,outdoors,401671741
+2024_03_GB_TEN,2024,REG,3,2024-09-22,13:00,GB,30,TEN,14,Home,7,7,Malik Willis,Will Levis,Nissan Stadium,outdoors,401671823
+2024_03_CAR_LV,2024,REG,3,2024-09-22,16:05,CAR,36,LV,22,Home,7,7,Andy Dalton,Gardner Minshew,Allegiant Stadium,dome,401671658
+2024_03_MIA_SEA,2024,REG,3,2024-09-22,16:05,MIA,3,SEA,24,Home,10,7,Skylar Thompson,Geno Smith,Lumen Field,outdoors,401671662
+2024_03_DET_ARI,2024,REG,3,2024-09-22,16:25,DET,20,ARI,13,Home,7,7,Jared Goff,Kyler Murray,State Farm Stadium,closed,401671771
+2024_03_BAL_DAL,2024,REG,3,2024-09-22,16:25,BAL,28,DAL,25,Home,7,7,Lamar Jackson,Dak Prescott,AT&T Stadium,closed,401671763
+2024_03_SF_LA,2024,REG,3,2024-09-22,16:25,SF,24,LA,27,Home,7,7,Brock Purdy,Matthew Stafford,SoFi Stadium,dome,401671772
+2024_03_KC_ATL,2024,REG,3,2024-09-22,20:20,KC,22,ATL,17,Home,7,6,Patrick Mahomes,Kirk Cousins,Mercedes-Benz Stadium,closed,401671793
+2024_03_JAX_BUF,2024,REG,3,2024-09-23,19:30,JAX,10,BUF,47,Home,8,11,Trevor Lawrence,Josh Allen,New Era Field,outdoors,401671682
+2024_03_WAS_CIN,2024,REG,3,2024-09-23,20:15,WAS,38,CIN,33,Home,8,8,Jayden Daniels,Joe Burrow,Paycor Stadium,outdoors,401671490
+2024_04_DAL_NYG,2024,REG,4,2024-09-26,20:15,DAL,20,NYG,15,Home,4,4,Dak Prescott,Daniel Jones,MetLife Stadium,outdoors,401671812
+2024_04_NO_ATL,2024,REG,4,2024-09-29,13:00,NO,24,ATL,26,Home,7,7,Derek Carr,Kirk Cousins,Mercedes-Benz Stadium,closed,401671727
+2024_04_CIN_CAR,2024,REG,4,2024-09-29,13:00,CIN,34,CAR,24,Home,6,7,Joe Burrow,Andy Dalton,Bank of America Stadium,outdoors,401671745
+2024_04_LA_CHI,2024,REG,4,2024-09-29,13:00,LA,18,CHI,24,Home,7,7,Matthew Stafford,Caleb Williams,Soldier Field,outdoors,401671871
+2024_04_MIN_GB,2024,REG,4,2024-09-29,13:00,MIN,31,GB,29,Home,7,7,Sam Darnold,Jordan Love,Lambeau Field,outdoors,401671643
+2024_04_JAX_HOU,2024,REG,4,2024-09-29,13:00,JAX,20,HOU,24,Home,6,7,Trevor Lawrence,C.J. Stroud,NRG Stadium,closed,401671857
+2024_04_PIT_IND,2024,REG,4,2024-09-29,13:00,PIT,24,IND,27,Home,7,7,Justin Fields,Anthony Richardson,Lucas Oil Stadium,closed,401671867
+2024_04_DEN_NYJ,2024,REG,4,2024-09-29,13:00,DEN,10,NYJ,9,Home,7,10,Bo Nix,Aaron Rodgers,MetLife Stadium,outdoors,401671622
+2024_04_PHI_TB,2024,REG,4,2024-09-29,13:00,PHI,16,TB,33,Home,7,7,Jalen Hurts,Baker Mayfield,Raymond James Stadium,outdoors,401671740
+2024_04_WAS_ARI,2024,REG,4,2024-09-29,16:05,WAS,42,ARI,14,Home,6,7,Jayden Daniels,Kyler Murray,State Farm Stadium,closed,401671755
+2024_04_NE_SF,2024,REG,4,2024-09-29,16:05,NE,13,SF,30,Home,10,7,Jacoby Brissett,Brock Purdy,Levi's Stadium,outdoors,401671758
+2024_04_KC_LAC,2024,REG,4,2024-09-29,16:25,KC,17,LAC,10,Home,7,7,Patrick Mahomes,Justin Herbert,SoFi Stadium,dome,401671674
+2024_04_CLE_LV,2024,REG,4,2024-09-29,16:25,CLE,16,LV,20,Home,7,7,Deshaun Watson,Gardner Minshew,Allegiant Stadium,dome,401671672
+2024_04_BUF_BAL,2024,REG,4,2024-09-29,20:20,BUF,10,BAL,35,Home,6,7,Josh Allen,Lamar Jackson,M&T Bank Stadium,outdoors,401671783
+2024_04_TEN_MIA,2024,REG,4,2024-09-30,19:30,TEN,31,MIA,12,Home,8,8,Will Levis,Tyler Huntley,Hard Rock Stadium,outdoors,401671683
+2024_04_SEA_DET,2024,REG,4,2024-09-30,20:15,SEA,29,DET,42,Home,8,8,Geno Smith,Jared Goff,Ford Field,dome,401671491
+2024_05_TB_ATL,2024,REG,5,2024-10-03,20:15,TB,30,ATL,36,Home,4,4,Baker Mayfield,Kirk Cousins,Mercedes-Benz Stadium,closed,401671815
+2024_05_NYJ_MIN,2024,REG,5,2024-10-06,09:30,NYJ,17,MIN,23,Neutral,7,7,Aaron Rodgers,Sam Darnold,Tottenham Stadium,outdoors,401671804
+2024_05_CAR_CHI,2024,REG,5,2024-10-06,13:00,CAR,10,CHI,36,Home,7,7,Andy Dalton,Caleb Williams,Soldier Field,outdoors,401671872
+2024_05_BAL_CIN,2024,REG,5,2024-10-06,13:00,BAL,41,CIN,38,Home,7,7,Lamar Jackson,Joe Burrow,Paycor Stadium,outdoors,401671626
+2024_05_BUF_HOU,2024,REG,5,2024-10-06,13:00,BUF,20,HOU,23,Home,7,7,Josh Allen,C.J. Stroud,NRG Stadium,closed,401671859
+2024_05_IND_JAX,2024,REG,5,2024-10-06,13:00,IND,34,JAX,37,Home,7,7,Joe Flacco,Trevor Lawrence,TIAA Bank Stadium,outdoors,401671633
+2024_05_MIA_NE,2024,REG,5,2024-10-06,13:00,MIA,15,NE,10,Home,6,7,Tyler Huntley,Jacoby Brissett,Gillette Stadium,outdoors,401671700
+2024_05_CLE_WAS,2024,REG,5,2024-10-06,13:00,CLE,13,WAS,34,Home,7,7,Deshaun Watson,Jayden Daniels,FedExField,outdoors,401671718
+2024_05_LV_DEN,2024,REG,5,2024-10-06,16:05,LV,18,DEN,34,Home,7,7,Gardner Minshew,Bo Nix,Empower Field at Mile High,outdoors,401671747
+2024_05_ARI_SF,2024,REG,5,2024-10-06,16:05,ARI,24,SF,23,Home,7,7,Kyler Murray,Brock Purdy,Levi's Stadium,outdoors,401671756
+2024_05_GB_LA,2024,REG,5,2024-10-06,16:25,GB,24,LA,19,Home,7,7,Jordan Love,Matthew Stafford,SoFi Stadium,dome,401671679
+2024_05_NYG_SEA,2024,REG,5,2024-10-06,16:25,NYG,29,SEA,20,Home,10,6,Daniel Jones,Geno Smith,Lumen Field,outdoors,401671680
+2024_05_DAL_PIT,2024,REG,5,2024-10-06,20:20,DAL,20,PIT,17,Home,10,7,Dak Prescott,Justin Fields,Acrisure Stadium,outdoors,401671784
+2024_05_NO_KC,2024,REG,5,2024-10-07,20:15,NO,13,KC,26,Home,8,8,Derek Carr,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671687
+2024_06_SF_SEA,2024,REG,6,2024-10-10,20:15,SF,36,SEA,24,Home,4,4,Brock Purdy,Geno Smith,Lumen Field,outdoors,401671819
+2024_06_JAX_CHI,2024,REG,6,2024-10-13,09:30,JAX,16,CHI,35,Neutral,7,7,Trevor Lawrence,Caleb Williams,Tottenham Stadium,outdoors,401671802
+2024_06_WAS_BAL,2024,REG,6,2024-10-13,13:00,WAS,23,BAL,30,Home,7,7,Jayden Daniels,Lamar Jackson,M&T Bank Stadium,outdoors,401671625
+2024_06_ARI_GB,2024,REG,6,2024-10-13,13:00,ARI,13,GB,34,Home,7,7,Kyler Murray,Jordan Love,Lambeau Field,outdoors,401671722
+2024_06_HOU_NE,2024,REG,6,2024-10-13,13:00,HOU,41,NE,21,Home,7,7,C.J. Stroud,Drake Maye,Gillette Stadium,outdoors,401671619
+2024_06_TB_NO,2024,REG,6,2024-10-13,13:00,TB,51,NO,27,Home,10,6,Baker Mayfield,Spencer Rattler,Mercedes-Benz Superdome,dome,401671735
+2024_06_CLE_PHI,2024,REG,6,2024-10-13,13:00,CLE,16,PHI,20,Home,7,14,Deshaun Watson,Jalen Hurts,Lincoln Financial Field,outdoors,401671714
+2024_06_IND_TEN,2024,REG,6,2024-10-13,13:00,IND,20,TEN,17,Home,7,13,Joe Flacco,Will Levis,Nissan Stadium,outdoors,401671820
+2024_06_LAC_DEN,2024,REG,6,2024-10-13,16:05,LAC,23,DEN,16,Home,14,7,Justin Herbert,Bo Nix,Empower Field at Mile High,outdoors,401671655
+2024_06_PIT_LV,2024,REG,6,2024-10-13,16:05,PIT,32,LV,13,Home,7,7,Justin Fields,Aidan O'Connell,Allegiant Stadium,dome,401671657
+2024_06_ATL_CAR,2024,REG,6,2024-10-13,16:25,ATL,38,CAR,20,Home,10,7,Kirk Cousins,Andy Dalton,Bank of America Stadium,outdoors,401671769
+2024_06_DET_DAL,2024,REG,6,2024-10-13,16:25,DET,47,DAL,9,Home,13,7,Jared Goff,Dak Prescott,AT&T Stadium,closed,401671764
+2024_06_CIN_NYG,2024,REG,6,2024-10-13,20:20,CIN,17,NYG,7,Home,7,7,Joe Burrow,Daniel Jones,MetLife Stadium,outdoors,401671791
+2024_06_BUF_NYJ,2024,REG,6,2024-10-14,20:15,BUF,23,NYJ,20,Home,8,8,Josh Allen,Aaron Rodgers,MetLife Stadium,outdoors,401671684
+2024_07_DEN_NO,2024,REG,7,2024-10-17,20:15,DEN,33,NO,10,Home,4,4,Bo Nix,Spencer Rattler,Mercedes-Benz Superdome,dome,401671816
+2024_07_NE_JAX,2024,REG,7,2024-10-20,09:30,NE,16,JAX,32,Neutral,7,7,Drake Maye,Trevor Lawrence,Wembley Stadium,outdoors,401671801
+2024_07_SEA_ATL,2024,REG,7,2024-10-20,13:00,SEA,34,ATL,14,Home,10,7,Geno Smith,Kirk Cousins,Mercedes-Benz Stadium,closed,401671730
+2024_07_TEN_BUF,2024,REG,7,2024-10-20,13:00,TEN,10,BUF,34,Home,7,6,Mason Rudolph,Josh Allen,New Era Field,outdoors,401671616
+2024_07_CIN_CLE,2024,REG,7,2024-10-20,13:00,CIN,21,CLE,14,Home,7,7,Joe Burrow,Deshaun Watson,FirstEnergy Stadium,outdoors,401671853
+2024_07_HOU_GB,2024,REG,7,2024-10-20,13:00,HOU,22,GB,24,Home,7,7,C.J. Stroud,Jordan Love,Lambeau Field,outdoors,401671644
+2024_07_MIA_IND,2024,REG,7,2024-10-20,13:00,MIA,10,IND,16,Home,14,7,Tim Boyle,Anthony Richardson,Lucas Oil Stadium,closed,401671864
+2024_07_DET_MIN,2024,REG,7,2024-10-20,13:00,DET,31,MIN,29,Home,7,14,Jared Goff,Sam Darnold,U.S. Bank Stadium,dome,401671724
+2024_07_PHI_NYG,2024,REG,7,2024-10-20,13:00,PHI,28,NYG,3,Home,7,7,Jalen Hurts,Daniel Jones,MetLife Stadium,outdoors,401671710
+2024_07_LV_LA,2024,REG,7,2024-10-20,16:05,LV,15,LA,20,Home,7,14,Aidan O'Connell,Matthew Stafford,SoFi Stadium,dome,401671663
+2024_07_CAR_WAS,2024,REG,7,2024-10-20,16:05,CAR,7,WAS,40,Home,7,7,Andy Dalton,Jayden Daniels,FedExField,outdoors,401671640
+2024_07_KC_SF,2024,REG,7,2024-10-20,16:25,KC,28,SF,18,Home,13,10,Patrick Mahomes,Brock Purdy,Levi's Stadium,outdoors,401671777
+2024_07_NYJ_PIT,2024,REG,7,2024-10-20,20:20,NYJ,15,PIT,37,Home,6,7,Aaron Rodgers,Russell Wilson,Acrisure Stadium,outdoors,401671785
+2024_07_BAL_TB,2024,REG,7,2024-10-21,20:15,BAL,41,TB,31,Home,8,8,Lamar Jackson,Baker Mayfield,Raymond James Stadium,outdoors,401671695
+2024_07_LAC_ARI,2024,REG,7,2024-10-21,21:00,LAC,15,ARI,17,Home,8,8,Justin Herbert,Kyler Murray,State Farm Stadium,closed,401671699
+2024_08_MIN_LA,2024,REG,8,2024-10-24,20:15,MIN,20,LA,30,Home,4,4,Sam Darnold,Matthew Stafford,SoFi Stadium,dome,401671817
+2024_08_PHI_CIN,2024,REG,8,2024-10-27,13:00,PHI,37,CIN,17,Home,7,7,Jalen Hurts,Joe Burrow,Paycor Stadium,outdoors,401671667
+2024_08_BAL_CLE,2024,REG,8,2024-10-27,13:00,BAL,24,CLE,29,Home,6,7,Lamar Jackson,Jameis Winston,FirstEnergy Stadium,outdoors,401671852
+2024_08_TEN_DET,2024,REG,8,2024-10-27,13:00,TEN,14,DET,52,Home,7,7,Mason Rudolph,Jared Goff,Ford Field,dome,401671720
+2024_08_IND_HOU,2024,REG,8,2024-10-27,13:00,IND,20,HOU,23,Home,7,7,Joe Flacco,C.J. Stroud,NRG Stadium,closed,401671856
+2024_08_GB_JAX,2024,REG,8,2024-10-27,13:00,GB,30,JAX,27,Home,7,7,Jordan Love,Trevor Lawrence,TIAA Bank Stadium,outdoors,401671707
+2024_08_ARI_MIA,2024,REG,8,2024-10-27,13:00,ARI,28,MIA,27,Home,6,7,Kyler Murray,Tim Boyle,Hard Rock Stadium,outdoors,401671850
+2024_08_NYJ_NE,2024,REG,8,2024-10-27,13:00,NYJ,22,NE,25,Home,7,7,Aaron Rodgers,Drake Maye,Gillette Stadium,outdoors,401671618
+2024_08_ATL_TB,2024,REG,8,2024-10-27,13:00,ATL,31,TB,26,Home,7,6,Kirk Cousins,Baker Mayfield,Raymond James Stadium,outdoors,401671739
+2024_08_NO_LAC,2024,REG,8,2024-10-27,16:05,NO,8,LAC,26,Home,10,6,Spencer Rattler,Justin Herbert,SoFi Stadium,dome,401671750
+2024_08_BUF_SEA,2024,REG,8,2024-10-27,16:05,BUF,31,SEA,10,Home,7,7,Josh Allen,Geno Smith,Lumen Field,outdoors,401671760
+2024_08_CAR_DEN,2024,REG,8,2024-10-27,16:25,CAR,14,DEN,28,Home,7,10,Bryce Young,Bo Nix,Empower Field at Mile High,outdoors,401671600
+2024_08_KC_LV,2024,REG,8,2024-10-27,16:25,KC,27,LV,20,Home,7,7,Patrick Mahomes,Aidan O'Connell,Allegiant Stadium,dome,401671671
+2024_08_CHI_WAS,2024,REG,8,2024-10-27,16:25,CHI,15,WAS,18,Home,14,7,Caleb Williams,Jayden Daniels,FedExField,outdoors,401671599
+2024_08_DAL_SF,2024,REG,8,2024-10-27,20:20,DAL,24,SF,30,Home,14,7,Dak Prescott,Brock Purdy,Levi's Stadium,outdoors,401671795
+2024_08_NYG_PIT,2024,REG,8,2024-10-28,20:15,NYG,18,PIT,26,Home,8,8,Daniel Jones,Russell Wilson,Acrisure Stadium,outdoors,401671685
+2024_09_HOU_NYJ,2024,REG,9,2024-10-31,20:15,HOU,13,NYJ,21,Home,4,4,C.J. Stroud,Aaron Rodgers,MetLife Stadium,outdoors,401671809
+2024_09_DAL_ATL,2024,REG,9,2024-11-03,13:00,DAL,21,ATL,27,Home,7,7,Dak Prescott,Kirk Cousins,Mercedes-Benz Stadium,closed,401671728
+2024_09_DEN_BAL,2024,REG,9,2024-11-03,13:00,DEN,10,BAL,41,Home,7,7,Bo Nix,Lamar Jackson,M&T Bank Stadium,outdoors,401671623
+2024_09_MIA_BUF,2024,REG,9,2024-11-03,13:00,MIA,27,BUF,30,Home,7,7,Tua Tagovailoa,Josh Allen,New Era Field,outdoors,401671493
+2024_09_NO_CAR,2024,REG,9,2024-11-03,13:00,NO,22,CAR,23,Home,7,7,Derek Carr,Bryce Young,Bank of America Stadium,outdoors,401671650
+2024_09_LV_CIN,2024,REG,9,2024-11-03,13:00,LV,24,CIN,41,Home,7,7,Gardner Minshew,Joe Burrow,Paycor Stadium,outdoors,401671704
+2024_09_LAC_CLE,2024,REG,9,2024-11-03,13:00,LAC,27,CLE,10,Home,7,7,Justin Herbert,Jameis Winston,FirstEnergy Stadium,outdoors,401671629
+2024_09_WAS_NYG,2024,REG,9,2024-11-03,13:00,WAS,27,NYG,22,Home,7,6,Marcus Mariota,Daniel Jones,MetLife Stadium,outdoors,401671711
+2024_09_NE_TEN,2024,REG,9,2024-11-03,13:00,NE,17,TEN,20,Home,7,7,Drake Maye,Mason Rudolph,Nissan Stadium,outdoors,401671822
+2024_09_CHI_ARI,2024,REG,9,2024-11-03,16:05,CHI,9,ARI,29,Home,7,7,Caleb Williams,Kyler Murray,State Farm Stadium,closed,401671661
+2024_09_JAX_PHI,2024,REG,9,2024-11-03,16:05,JAX,23,PHI,28,Home,7,7,Trevor Lawrence,Jalen Hurts,Lincoln Financial Field,outdoors,401671797
+2024_09_DET_GB,2024,REG,9,2024-11-03,16:25,DET,24,GB,14,Home,7,7,Jared Goff,Jordan Love,Lambeau Field,outdoors,401671767
+2024_09_LA_SEA,2024,REG,9,2024-11-03,16:25,LA,26,SEA,20,Home,10,7,Matthew Stafford,Geno Smith,Lumen Field,outdoors,401671776
+2024_09_IND_MIN,2024,REG,9,2024-11-03,20:20,IND,13,MIN,21,Home,7,10,Joe Flacco,Sam Darnold,U.S. Bank Stadium,dome,401671647
+2024_09_TB_KC,2024,REG,9,2024-11-04,20:15,TB,24,KC,30,Home,8,8,Baker Mayfield,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671688
+2024_10_CIN_BAL,2024,REG,10,2024-11-07,20:15,CIN,34,BAL,35,Home,4,4,Joe Burrow,Lamar Jackson,M&T Bank Stadium,outdoors,401671810
+2024_10_NYG_CAR,2024,REG,10,2024-11-10,09:30,NYG,17,CAR,20,Neutral,7,7,Daniel Jones,Andy Dalton,Allianz Arena,outdoors,401671803
+2024_10_NE_CHI,2024,REG,10,2024-11-10,13:00,NE,19,CHI,3,Home,7,7,Drake Maye,Caleb Williams,Soldier Field,outdoors,401671873
+2024_10_BUF_IND,2024,REG,10,2024-11-10,13:00,BUF,30,IND,20,Home,7,7,Josh Allen,Joe Flacco,Lucas Oil Stadium,closed,401671863
+2024_10_MIN_JAX,2024,REG,10,2024-11-10,13:00,MIN,12,JAX,7,Home,7,7,Sam Darnold,Mac Jones,TIAA Bank Stadium,outdoors,401671708
+2024_10_DEN_KC,2024,REG,10,2024-11-10,13:00,DEN,14,KC,16,Home,7,6,Bo Nix,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671637
+2024_10_ATL_NO,2024,REG,10,2024-11-10,13:00,ATL,17,NO,20,Home,7,7,Kirk Cousins,Derek Carr,Mercedes-Benz Superdome,dome,401671733
+2024_10_SF_TB,2024,REG,10,2024-11-10,13:00,SF,23,TB,20,Home,14,6,Brock Purdy,Baker Mayfield,Raymond James Stadium,outdoors,401671742
+2024_10_PIT_WAS,2024,REG,10,2024-11-10,13:00,PIT,28,WAS,27,Home,13,7,Russell Wilson,Marcus Mariota,FedExField,outdoors,401671641
+2024_10_TEN_LAC,2024,REG,10,2024-11-10,16:05,TEN,17,LAC,27,Home,7,7,Mason Rudolph,Justin Herbert,SoFi Stadium,dome,401671751
+2024_10_NYJ_ARI,2024,REG,10,2024-11-10,16:25,NYJ,6,ARI,31,Home,10,7,Aaron Rodgers,Kyler Murray,State Farm Stadium,closed,401671678
+2024_10_PHI_DAL,2024,REG,10,2024-11-10,16:25,PHI,34,DAL,6,Home,7,7,Jalen Hurts,Cooper Rush,AT&T Stadium,closed,401671676
+2024_10_DET_HOU,2024,REG,10,2024-11-10,20:20,DET,26,HOU,23,Home,7,10,Jared Goff,C.J. Stroud,NRG Stadium,closed,401671787
+2024_10_MIA_LA,2024,REG,10,2024-11-11,20:15,MIA,23,LA,15,Home,8,8,Tua Tagovailoa,Matthew Stafford,SoFi Stadium,dome,401671693
+2024_11_WAS_PHI,2024,REG,11,2024-11-14,20:15,WAS,18,PHI,26,Home,4,4,Marcus Mariota,Jalen Hurts,Lincoln Financial Field,outdoors,401671813
+2024_11_GB_CHI,2024,REG,11,2024-11-17,13:00,GB,20,CHI,19,Home,14,7,Jordan Love,Caleb Williams,Soldier Field,outdoors,401671869
+2024_11_JAX_DET,2024,REG,11,2024-11-17,13:00,JAX,6,DET,52,Home,7,7,Mac Jones,Jared Goff,Ford Field,dome,401671642
+2024_11_LV_MIA,2024,REG,11,2024-11-17,13:00,LV,19,MIA,34,Home,14,6,Gardner Minshew,Tua Tagovailoa,Hard Rock Stadium,outdoors,401671851
+2024_11_LA_NE,2024,REG,11,2024-11-17,13:00,LA,28,NE,22,Home,6,7,Matthew Stafford,Drake Maye,Gillette Stadium,outdoors,401671701
+2024_11_CLE_NO,2024,REG,11,2024-11-17,13:00,CLE,14,NO,35,Home,14,7,Jameis Winston,Derek Carr,Mercedes-Benz Superdome,dome,401671746
+2024_11_IND_NYJ,2024,REG,11,2024-11-17,13:00,IND,28,NYJ,27,Home,7,7,Joe Flacco,Aaron Rodgers,MetLife Stadium,outdoors,401671782
+2024_11_BAL_PIT,2024,REG,11,2024-11-17,13:00,BAL,16,PIT,18,Home,10,7,Lamar Jackson,Russell Wilson,Acrisure Stadium,outdoors,401671630
+2024_11_MIN_TEN,2024,REG,11,2024-11-17,13:00,MIN,23,TEN,13,Home,7,7,Sam Darnold,Mason Rudolph,Nissan Stadium,outdoors,401671824
+2024_11_ATL_DEN,2024,REG,11,2024-11-17,16:05,ATL,6,DEN,38,Home,7,7,Kirk Cousins,Bo Nix,Empower Field at Mile High,outdoors,401671748
+2024_11_SEA_SF,2024,REG,11,2024-11-17,16:05,SEA,20,SF,17,Home,14,7,Geno Smith,Brock Purdy,Levi's Stadium,outdoors,401671757
+2024_11_KC_BUF,2024,REG,11,2024-11-17,16:25,KC,21,BUF,30,Home,7,7,Patrick Mahomes,Josh Allen,New Era Field,outdoors,401671665
+2024_11_CIN_LAC,2024,REG,11,2024-11-17,20:20,CIN,27,LAC,34,Home,10,7,Joe Burrow,Justin Herbert,SoFi Stadium,dome,401671675
+2024_11_HOU_DAL,2024,REG,11,2024-11-18,20:15,HOU,34,DAL,10,Home,8,8,C.J. Stroud,Cooper Rush,AT&T Stadium,closed,401671694
+2024_12_PIT_CLE,2024,REG,12,2024-11-21,20:15,PIT,19,CLE,24,Home,4,4,Russell Wilson,Jameis Winston,FirstEnergy Stadium,outdoors,401671875
+2024_12_KC_CAR,2024,REG,12,2024-11-24,13:00,KC,30,CAR,27,Home,7,14,Patrick Mahomes,Andy Dalton,Bank of America Stadium,outdoors,401671651
+2024_12_MIN_CHI,2024,REG,12,2024-11-24,13:00,MIN,30,CHI,27,Home,7,7,Sam Darnold,Caleb Williams,Soldier Field,outdoors,401671870
+2024_12_TEN_HOU,2024,REG,12,2024-11-24,13:00,TEN,32,HOU,27,Home,7,6,Mason Rudolph,C.J. Stroud,NRG Stadium,closed,401671858
+2024_12_DET_IND,2024,REG,12,2024-11-24,13:00,DET,24,IND,6,Home,7,7,Jared Goff,Joe Flacco,Lucas Oil Stadium,closed,401671866
+2024_12_NE_MIA,2024,REG,12,2024-11-24,13:00,NE,15,MIA,34,Home,7,7,Drake Maye,Tua Tagovailoa,Hard Rock Stadium,outdoors,401671847
+2024_12_TB_NYG,2024,REG,12,2024-11-24,13:00,TB,30,NYG,7,Home,14,14,Baker Mayfield,Tommy DeVito,MetLife Stadium,outdoors,401671638
+2024_12_DAL_WAS,2024,REG,12,2024-11-24,13:00,DAL,34,WAS,26,Home,6,10,Cooper Rush,Marcus Mariota,FedExField,outdoors,401671715
+2024_12_DEN_LV,2024,REG,12,2024-11-24,16:05,DEN,29,LV,19,Home,7,7,Bo Nix,Gardner Minshew,Allegiant Stadium,dome,401671656
+2024_12_SF_GB,2024,REG,12,2024-11-24,16:25,SF,10,GB,38,Home,7,7,Brandon Allen,Jordan Love,Lambeau Field,outdoors,401671768
+2024_12_ARI_SEA,2024,REG,12,2024-11-24,16:25,ARI,6,SEA,16,Home,14,7,Kyler Murray,Geno Smith,Lumen Field,outdoors,401671775
+2024_12_PHI_LA,2024,REG,12,2024-11-24,20:20,PHI,37,LA,20,Home,10,7,Jalen Hurts,Matthew Stafford,SoFi Stadium,dome,401671794
+2024_12_BAL_LAC,2024,REG,12,2024-11-25,20:15,BAL,30,LAC,23,Home,8,8,Lamar Jackson,Justin Herbert,SoFi Stadium,dome,401671689
+2024_13_CHI_DET,2024,REG,13,2024-11-28,12:30,CHI,20,DET,23,Home,4,4,Caleb Williams,Jared Goff,Ford Field,dome,401671492
+2024_13_NYG_DAL,2024,REG,13,2024-11-28,16:30,NYG,20,DAL,27,Home,4,4,Drew Lock,Cooper Rush,AT&T Stadium,closed,401671779
+2024_13_MIA_GB,2024,REG,13,2024-11-28,20:20,MIA,17,GB,30,Home,4,4,Tua Tagovailoa,Jordan Love,Lambeau Field,outdoors,401671798
+2024_13_LV_KC,2024,REG,13,2024-11-29,15:00,LV,17,KC,19,Home,5,5,Gardner Minshew,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671806
+2024_13_LAC_ATL,2024,REG,13,2024-12-01,13:00,LAC,17,ATL,13,Home,6,14,Justin Herbert,Kirk Cousins,Mercedes-Benz Stadium,closed,401671649
+2024_13_PIT_CIN,2024,REG,13,2024-12-01,13:00,PIT,44,CIN,38,Home,10,14,Russell Wilson,Joe Burrow,Paycor Stadium,outdoors,401671627
+2024_13_HOU_JAX,2024,REG,13,2024-12-01,13:00,HOU,23,JAX,20,Home,7,14,C.J. Stroud,Trevor Lawrence,TIAA Bank Stadium,outdoors,401671705
+2024_13_ARI_MIN,2024,REG,13,2024-12-01,13:00,ARI,22,MIN,23,Home,7,7,Kyler Murray,Sam Darnold,U.S. Bank Stadium,dome,401671726
+2024_13_IND_NE,2024,REG,13,2024-12-01,13:00,IND,25,NE,24,Home,7,7,Joe Flacco,Drake Maye,Gillette Stadium,outdoors,401671620
+2024_13_SEA_NYJ,2024,REG,13,2024-12-01,13:00,SEA,26,NYJ,21,Home,7,14,Geno Smith,Aaron Rodgers,MetLife Stadium,outdoors,401671703
+2024_13_TEN_WAS,2024,REG,13,2024-12-01,13:00,TEN,19,WAS,42,Home,7,7,Mason Rudolph,Marcus Mariota,FedExField,outdoors,401671743
+2024_13_TB_CAR,2024,REG,13,2024-12-01,16:05,TB,26,CAR,23,Home,7,7,Baker Mayfield,Andy Dalton,Bank of America Stadium,outdoors,401671752
+2024_13_LA_NO,2024,REG,13,2024-12-01,16:05,LA,21,NO,14,Home,7,14,Matthew Stafford,Derek Carr,Mercedes-Benz Superdome,dome,401671753
+2024_13_PHI_BAL,2024,REG,13,2024-12-01,16:25,PHI,24,BAL,19,Home,7,6,Jalen Hurts,Lamar Jackson,M&T Bank Stadium,outdoors,401671666
+2024_13_SF_BUF,2024,REG,13,2024-12-01,20:20,SF,10,BUF,35,Home,7,14,Brock Purdy,Josh Allen,New Era Field,outdoors,401671781
+2024_13_CLE_DEN,2024,REG,13,2024-12-02,20:15,CLE,32,DEN,41,Home,11,8,Jameis Winston,Bo Nix,Empower Field at Mile High,outdoors,401671686
+2024_14_GB_DET,2024,REG,14,2024-12-05,20:15,GB,31,DET,34,Home,7,7,Jordan Love,Jared Goff,Ford Field,dome,401671814
+2024_14_NYJ_MIA,2024,REG,14,2024-12-08,13:00,NYJ,26,MIA,32,Home,7,10,Aaron Rodgers,Tua Tagovailoa,Hard Rock Stadium,outdoors,401671848
+2024_14_ATL_MIN,2024,REG,14,2024-12-08,13:00,ATL,21,MIN,42,Home,7,7,Kirk Cousins,Sam Darnold,U.S. Bank Stadium,dome,401671648
+2024_14_NO_NYG,2024,REG,14,2024-12-08,13:00,NO,14,NYG,11,Home,7,10,Derek Carr,Tommy DeVito,MetLife Stadium,outdoors,401671601
+2024_14_CAR_PHI,2024,REG,14,2024-12-08,13:00,CAR,16,PHI,22,Home,7,7,Andy Dalton,Jalen Hurts,Lincoln Financial Field,outdoors,401671713
+2024_14_CLE_PIT,2024,REG,14,2024-12-08,13:00,CLE,14,PIT,27,Home,6,7,Jameis Winston,Russell Wilson,Acrisure Stadium,outdoors,401671631
+2024_14_LV_TB,2024,REG,14,2024-12-08,13:00,LV,13,TB,28,Home,9,7,Gardner Minshew,Baker Mayfield,Raymond James Stadium,outdoors,401671654
+2024_14_JAX_TEN,2024,REG,14,2024-12-08,13:00,JAX,10,TEN,6,Home,7,7,Mac Jones,Mason Rudolph,Nissan Stadium,outdoors,401671821
+2024_14_SEA_ARI,2024,REG,14,2024-12-08,16:05,SEA,30,ARI,18,Home,7,7,Geno Smith,Kyler Murray,State Farm Stadium,closed,401671660
+2024_14_BUF_LA,2024,REG,14,2024-12-08,16:25,BUF,42,LA,44,Home,7,7,Josh Allen,Matthew Stafford,SoFi Stadium,dome,401671773
+2024_14_CHI_SF,2024,REG,14,2024-12-08,16:25,CHI,13,SF,38,Home,10,7,Caleb Williams,Brock Purdy,Levi's Stadium,outdoors,401671774
+2024_14_LAC_KC,2024,REG,14,2024-12-08,20:20,LAC,17,KC,19,Home,7,9,Justin Herbert,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671788
+2024_14_CIN_DAL,2024,REG,14,2024-12-09,20:15,CIN,27,DAL,20,Home,8,11,Joe Burrow,Cooper Rush,AT&T Stadium,closed,401671690
+2024_15_LA_SF,2024,REG,15,2024-12-12,20:15,LA,12,SF,6,Home,4,4,Matthew Stafford,Brock Purdy,Levi's Stadium,outdoors,401671818
+2024_15_DAL_CAR,2024,REG,15,2024-12-15,13:00,DAL,30,CAR,14,Home,6,7,Cooper Rush,Bryce Young,Bank of America Stadium,outdoors,401671731
+2024_15_KC_CLE,2024,REG,15,2024-12-15,13:00,KC,21,CLE,7,Home,7,7,Patrick Mahomes,Jameis Winston,FirstEnergy Stadium,outdoors,401671854
+2024_15_MIA_HOU,2024,REG,15,2024-12-15,13:00,MIA,12,HOU,20,Home,7,14,Tua Tagovailoa,C.J. Stroud,NRG Stadium,closed,401671860
+2024_15_NYJ_JAX,2024,REG,15,2024-12-15,13:00,NYJ,32,JAX,25,Home,7,7,Aaron Rodgers,Mac Jones,TIAA Bank Stadium,outdoors,401671706
+2024_15_WAS_NO,2024,REG,15,2024-12-15,13:00,WAS,20,NO,19,Home,14,7,Jayden Daniels,Jake Haener,Mercedes-Benz Superdome,dome,401671737
+2024_15_BAL_NYG,2024,REG,15,2024-12-15,13:00,BAL,35,NYG,14,Home,14,7,Lamar Jackson,Tommy DeVito,MetLife Stadium,outdoors,401671639
+2024_15_CIN_TEN,2024,REG,15,2024-12-15,13:00,CIN,37,TEN,27,Home,6,7,Joe Burrow,Will Levis,Nissan Stadium,outdoors,401671825
+2024_15_NE_ARI,2024,REG,15,2024-12-15,16:25,NE,17,ARI,30,Home,14,7,Drake Maye,Kyler Murray,State Farm Stadium,closed,401671677
+2024_15_IND_DEN,2024,REG,15,2024-12-15,16:25,IND,13,DEN,31,Home,14,13,Anthony Richardson,Bo Nix,Empower Field at Mile High,outdoors,401671669
+2024_15_BUF_DET,2024,REG,15,2024-12-15,16:25,BUF,48,DET,42,Home,7,10,Josh Allen,Jared Goff,Ford Field,dome,401671681
+2024_15_TB_LAC,2024,REG,15,2024-12-15,16:25,TB,40,LAC,17,Home,7,7,Baker Mayfield,Justin Herbert,SoFi Stadium,dome,401671762
+2024_15_PIT_PHI,2024,REG,15,2024-12-15,16:25,PIT,13,PHI,27,Home,7,7,Russell Wilson,Jalen Hurts,Lincoln Financial Field,outdoors,401671766
+2024_15_GB_SEA,2024,REG,15,2024-12-15,20:20,GB,30,SEA,13,Home,10,7,Jordan Love,Geno Smith,Lumen Field,outdoors,401671796
+2024_15_CHI_MIN,2024,REG,15,2024-12-16,20:00,CHI,12,MIN,30,Home,8,8,Caleb Williams,Sam Darnold,U.S. Bank Stadium,dome,401671489
+2024_15_ATL_LV,2024,REG,15,2024-12-16,20:30,ATL,15,LV,9,Home,8,8,Kirk Cousins,Aidan O'Connell,Allegiant Stadium,dome,401671697
+2024_16_DEN_LAC,2024,REG,16,2024-12-19,20:15,DEN,27,LAC,34,Home,4,4,Bo Nix,Justin Herbert,SoFi Stadium,dome,401671749
+2024_16_HOU_KC,2024,REG,16,2024-12-21,13:00,HOU,19,KC,27,Home,6,6,C.J. Stroud,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671780
+2024_16_PIT_BAL,2024,REG,16,2024-12-21,16:30,PIT,17,BAL,34,Home,6,6,Russell Wilson,Lamar Jackson,M&T Bank Stadium,outdoors,401671778
+2024_16_NYG_ATL,2024,REG,16,2024-12-22,13:00,NYG,7,ATL,34,Home,7,6,Tommy DeVito,Michael Penix Jr.,Mercedes-Benz Stadium,closed,401671729
+2024_16_ARI_CAR,2024,REG,16,2024-12-22,13:00,ARI,30,CAR,36,Home,7,7,Kyler Murray,Bryce Young,Bank of America Stadium,outdoors,401671732
+2024_16_DET_CHI,2024,REG,16,2024-12-22,13:00,DET,34,CHI,17,Home,7,6,Jared Goff,Caleb Williams,Soldier Field,outdoors,401671868
+2024_16_CLE_CIN,2024,REG,16,2024-12-22,13:00,CLE,6,CIN,24,Home,7,7,Jameis Winston,Joe Burrow,Paycor Stadium,outdoors,401671811
+2024_16_TEN_IND,2024,REG,16,2024-12-22,13:00,TEN,30,IND,38,Home,7,7,Mason Rudolph,Joe Flacco,Lucas Oil Stadium,closed,401671862
+2024_16_LA_NYJ,2024,REG,16,2024-12-22,13:00,LA,19,NYJ,9,Home,10,7,Matthew Stafford,Aaron Rodgers,MetLife Stadium,outdoors,401671621
+2024_16_PHI_WAS,2024,REG,16,2024-12-22,13:00,PHI,33,WAS,36,Home,7,7,Jalen Hurts,Jayden Daniels,FedExField,outdoors,401671717
+2024_16_MIN_SEA,2024,REG,16,2024-12-22,16:05,MIN,27,SEA,24,Home,6,7,Sam Darnold,Geno Smith,Lumen Field,outdoors,401671759
+2024_16_NE_BUF,2024,REG,16,2024-12-22,16:25,NE,21,BUF,24,Home,7,7,Drake Maye,Josh Allen,New Era Field,outdoors,401671494
+2024_16_JAX_LV,2024,REG,16,2024-12-22,16:25,JAX,14,LV,19,Home,7,6,Mac Jones,Aidan O'Connell,Allegiant Stadium,dome,401671673
+2024_16_SF_MIA,2024,REG,16,2024-12-22,16:25,SF,17,MIA,29,Home,10,7,Brock Purdy,Tua Tagovailoa,Hard Rock Stadium,outdoors,401671874
+2024_16_TB_DAL,2024,REG,16,2024-12-22,20:20,TB,24,DAL,26,Home,7,7,Baker Mayfield,Cooper Rush,AT&T Stadium,closed,401671790
+2024_16_NO_GB,2024,REG,16,2024-12-23,20:15,NO,0,GB,34,Home,8,8,Jake Haener,Jordan Love,Lambeau Field,outdoors,401671692
+2024_17_KC_PIT,2024,REG,17,2024-12-25,13:00,KC,29,PIT,10,Home,4,4,Patrick Mahomes,Russell Wilson,Acrisure Stadium,outdoors,401671799
+2024_17_BAL_HOU,2024,REG,17,2024-12-25,16:30,BAL,31,HOU,2,Home,4,4,Lamar Jackson,C.J. Stroud,NRG Stadium,closed,401671800
+2024_17_SEA_CHI,2024,REG,17,2024-12-26,20:15,SEA,6,CHI,3,Home,4,4,Geno Smith,Caleb Williams,Soldier Field,outdoors,401671876
+2024_17_LAC_NE,2024,REG,17,2024-12-28,13:00,LAC,40,NE,7,Home,9,6,Justin Herbert,Drake Maye,Gillette Stadium,outdoors,401671832
+2024_17_DEN_CIN,2024,REG,17,2024-12-28,16:30,DEN,24,CIN,30,Home,9,6,Bo Nix,Joe Burrow,Paycor Stadium,outdoors,401671835
+2024_17_ARI_LA,2024,REG,17,2024-12-28,20:15,ARI,9,LA,13,Home,6,6,Kyler Murray,Matthew Stafford,SoFi Stadium,dome,401671829
+2024_17_NYJ_BUF,2024,REG,17,2024-12-29,13:00,NYJ,14,BUF,40,Home,7,7,Aaron Rodgers,Josh Allen,New Era Field,outdoors,401671495
+2024_17_TEN_JAX,2024,REG,17,2024-12-29,13:00,TEN,13,JAX,20,Home,7,7,Mason Rudolph,Mac Jones,TIAA Bank Stadium,outdoors,401671634
+2024_17_LV_NO,2024,REG,17,2024-12-29,13:00,LV,25,NO,10,Home,7,6,Aidan O'Connell,Jake Haener,Mercedes-Benz Superdome,dome,401671738
+2024_17_IND_NYG,2024,REG,17,2024-12-29,13:00,IND,33,NYG,45,Home,7,7,Joe Flacco,Tommy DeVito,MetLife Stadium,outdoors,401671846
+2024_17_DAL_PHI,2024,REG,17,2024-12-29,13:00,DAL,7,PHI,41,Home,7,7,Cooper Rush,Jalen Hurts,Lincoln Financial Field,outdoors,401671765
+2024_17_CAR_TB,2024,REG,17,2024-12-29,13:00,CAR,14,TB,48,Home,7,7,Bryce Young,Baker Mayfield,Raymond James Stadium,outdoors,401671653
+2024_17_MIA_CLE,2024,REG,17,2024-12-29,16:05,MIA,20,CLE,3,Home,7,7,Tyler Huntley,Jameis Winston,FirstEnergy Stadium,outdoors,401671877
+2024_17_GB_MIN,2024,REG,17,2024-12-29,16:25,GB,25,MIN,27,Home,6,7,Jordan Love,Sam Darnold,U.S. Bank Stadium,dome,401671725
+2024_17_ATL_WAS,2024,REG,17,2024-12-29,20:20,ATL,24,WAS,30,Home,7,7,Michael Penix Jr.,Jayden Daniels,FedExField,outdoors,401671842
+2024_17_DET_SF,2024,REG,17,2024-12-30,20:15,DET,40,SF,34,Home,8,8,Jared Goff,Brock Purdy,Levi's Stadium,outdoors,401671698
+2024_18_CLE_BAL,2024,REG,18,2025-01-04,16:30,CLE,10,BAL,35,Home,6,10,Bailey Zappe,Lamar Jackson,M&T Bank Stadium,outdoors,401671834
+2024_18_CIN_PIT,2024,REG,18,2025-01-04,20:00,CIN,19,PIT,17,Home,7,10,Joe Burrow,Russell Wilson,Acrisure Stadium,outdoors,401671836
+2024_18_CAR_ATL,2024,REG,18,2025-01-05,13:00,CAR,44,ATL,38,Home,7,7,Bryce Young,Michael Penix Jr.,Mercedes-Benz Stadium,closed,401671827
+2024_18_WAS_DAL,2024,REG,18,2025-01-05,13:00,WAS,23,DAL,19,Home,7,7,Jayden Daniels,Trey Lance,AT&T Stadium,closed,401671840
+2024_18_CHI_GB,2024,REG,18,2025-01-05,13:00,CHI,24,GB,22,Home,10,7,Caleb Williams,Jordan Love,Lambeau Field,outdoors,401671844
+2024_18_JAX_IND,2024,REG,18,2025-01-05,13:00,JAX,23,IND,26,Home,7,7,Mac Jones,Joe Flacco,Lucas Oil Stadium,closed,401671837
+2024_18_BUF_NE,2024,REG,18,2025-01-05,13:00,BUF,16,NE,23,Home,7,8,Mitchell Trubisky,Joe Milton III,Gillette Stadium,outdoors,401671831
+2024_18_NYG_PHI,2024,REG,18,2025-01-05,13:00,NYG,13,PHI,20,Home,7,7,Drew Lock,Tanner McKee,Lincoln Financial Field,outdoors,401671841
+2024_18_NO_TB,2024,REG,18,2025-01-05,13:00,NO,19,TB,27,Home,7,7,Spencer Rattler,Baker Mayfield,Raymond James Stadium,outdoors,401671828
+2024_18_HOU_TEN,2024,REG,18,2025-01-05,13:00,HOU,23,TEN,14,Home,11,7,Davis Mills,Mason Rudolph,Nissan Stadium,outdoors,401671826
+2024_18_SF_ARI,2024,REG,18,2025-01-05,16:25,SF,24,ARI,47,Home,6,8,Joshua Dobbs,Kyler Murray,State Farm Stadium,closed,401671845
+2024_18_KC_DEN,2024,REG,18,2025-01-05,16:25,KC,0,DEN,38,Home,11,8,Carson Wentz,Bo Nix,Empower Field at Mile High,outdoors,401671838
+2024_18_SEA_LA,2024,REG,18,2025-01-05,16:25,SEA,30,LA,25,Home,10,8,Geno Smith,Jimmy Garoppolo,SoFi Stadium,dome,401671830
+2024_18_LAC_LV,2024,REG,18,2025-01-05,16:25,LAC,34,LV,20,Home,8,7,Justin Herbert,Aidan O'Connell,Allegiant Stadium,dome,401671839
+2024_18_MIA_NYJ,2024,REG,18,2025-01-05,16:25,MIA,20,NYJ,32,Home,7,7,Tua Tagovailoa,Aaron Rodgers,MetLife Stadium,outdoors,401671833
+2024_18_MIN_DET,2024,REG,18,2025-01-05,20:20,MIN,9,DET,31,Home,7,6,Sam Darnold,Jared Goff,Ford Field,dome,401671843
+2024_19_LAC_HOU,2024,WC,19,2025-01-11,16:30,LAC,12,HOU,32,Home,6,6,Justin Herbert,C.J. Stroud,NRG Stadium,closed,401671878
+2024_19_PIT_BAL,2024,WC,19,2025-01-11,20:00,PIT,14,BAL,28,Home,7,7,Russell Wilson,Lamar Jackson,M&T Bank Stadium,outdoors,401671879
+2024_19_DEN_BUF,2024,WC,19,2025-01-12,13:00,DEN,7,BUF,31,Home,7,7,Bo Nix,Josh Allen,New Era Field,outdoors,401671881
+2024_19_GB_PHI,2024,WC,19,2025-01-12,16:30,GB,10,PHI,22,Home,7,7,Jordan Love,Jalen Hurts,Lincoln Financial Field,outdoors,401671880
+2024_19_WAS_TB,2024,WC,19,2025-01-12,20:00,WAS,23,TB,20,Home,7,7,Jayden Daniels,Baker Mayfield,Raymond James Stadium,outdoors,401671883
+2024_19_MIN_LA,2024,WC,19,2025-01-13,20:00,MIN,9,LA,27,Neutral,8,8,Sam Darnold,Matthew Stafford,State Farm Stadium,closed,401671882
+2024_20_HOU_KC,2024,DIV,20,2025-01-18,16:30,HOU,14,KC,23,Home,7,13,C.J. Stroud,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671884
+2024_20_WAS_DET,2024,DIV,20,2025-01-18,20:00,WAS,45,DET,31,Home,6,13,Jayden Daniels,Jared Goff,Ford Field,dome,401671885
+2024_20_LA_PHI,2024,DIV,20,2025-01-19,15:00,LA,22,PHI,28,Home,6,7,Matthew Stafford,Jalen Hurts,Lincoln Financial Field,outdoors,401671937
+2024_20_BAL_BUF,2024,DIV,20,2025-01-19,18:30,BAL,25,BUF,27,Home,8,7,Lamar Jackson,Josh Allen,New Era Field,outdoors,401671886
+2024_21_WAS_PHI,2024,CON,21,2025-01-26,15:00,WAS,23,PHI,55,Home,8,7,Jayden Daniels,Jalen Hurts,Lincoln Financial Field,outdoors,401671888
+2024_21_BUF_KC,2024,CON,21,2025-01-26,18:30,BUF,29,KC,32,Home,7,8,Josh Allen,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401671887
+2024_22_KC_PHI,2024,SB,22,2025-02-09,18:30,KC,22,PHI,40,Neutral,14,14,Patrick Mahomes,Jalen Hurts,Mercedes-Benz Superdome,dome,401671889
+2025_01_DAL_PHI,2025,REG,1,2025-09-04,20:20,DAL,20,PHI,24,Home,7,7,Dak Prescott,Jalen Hurts,Lincoln Financial Field,outdoors,401772510
+2025_01_KC_LAC,2025,REG,1,2025-09-05,20:00,KC,21,LAC,27,Neutral,7,7,Patrick Mahomes,Justin Herbert,SoFi Stadium,dome,401772714
+2025_01_TB_ATL,2025,REG,1,2025-09-07,13:00,TB,23,ATL,20,Home,7,7,Baker Mayfield,Michael Penix,Mercedes-Benz Stadium,closed,401772830
+2025_01_CIN_CLE,2025,REG,1,2025-09-07,13:00,CIN,17,CLE,16,Home,7,7,Joe Burrow,Joe Flacco,FirstEnergy Stadium,outdoors,401772829
+2025_01_MIA_IND,2025,REG,1,2025-09-07,13:00,MIA,8,IND,33,Home,7,7,Tua Tagovailoa,Daniel Jones,Lucas Oil Stadium,closed,401772719
+2025_01_CAR_JAX,2025,REG,1,2025-09-07,13:00,CAR,10,JAX,26,Home,7,7,Bryce Young,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772828
+2025_01_LV_NE,2025,REG,1,2025-09-07,13:00,LV,20,NE,13,Home,7,7,Geno Smith,Drake Maye,Gillette Stadium,outdoors,401772720
+2025_01_ARI_NO,2025,REG,1,2025-09-07,13:00,ARI,20,NO,13,Home,7,7,Kyler Murray,Spencer Rattler,Mercedes-Benz Superdome,dome,401772718
+2025_01_PIT_NYJ,2025,REG,1,2025-09-07,13:00,PIT,34,NYJ,32,Home,7,7,Aaron Rodgers,Justin Fields,MetLife Stadium,outdoors,401772721
+2025_01_NYG_WAS,2025,REG,1,2025-09-07,13:00,NYG,6,WAS,21,Home,7,7,Russell Wilson,Jayden Daniels,FedExField,outdoors,401772827
+2025_01_TEN_DEN,2025,REG,1,2025-09-07,16:05,TEN,12,DEN,20,Home,7,7,Cam Ward,Bo Nix,Empower Field at Mile High,outdoors,401772832
+2025_01_SF_SEA,2025,REG,1,2025-09-07,16:05,SF,17,SEA,13,Home,7,7,Brock Purdy,Sam Darnold,Lumen Field,outdoors,401772831
+2025_01_DET_GB,2025,REG,1,2025-09-07,16:25,DET,13,GB,27,Home,7,7,Jared Goff,Jordan Love,Lambeau Field,outdoors,401772722
+2025_01_HOU_LA,2025,REG,1,2025-09-07,16:25,HOU,9,LA,14,Home,7,7,C.J. Stroud,Matthew Stafford,SoFi Stadium,dome,401772723
+2025_01_BAL_BUF,2025,REG,1,2025-09-07,20:20,BAL,40,BUF,41,Home,7,7,Lamar Jackson,Josh Allen,New Era Field,outdoors,401772918
+2025_01_MIN_CHI,2025,REG,1,2025-09-08,20:15,MIN,27,CHI,24,Home,7,7,J.J. McCarthy,Caleb Williams,Soldier Field,outdoors,401772810
+2025_02_WAS_GB,2025,REG,2,2025-09-11,20:15,WAS,18,GB,27,Home,4,4,Jayden Daniels,Jordan Love,Lambeau Field,outdoors,401772936
+2025_02_CLE_BAL,2025,REG,2,2025-09-14,13:00,CLE,17,BAL,41,Home,7,7,Joe Flacco,Lamar Jackson,M&T Bank Stadium,outdoors,401772726
+2025_02_JAX_CIN,2025,REG,2,2025-09-14,13:00,JAX,27,CIN,31,Home,7,7,Trevor Lawrence,Joe Burrow,Paycor Stadium,outdoors,401772725
+2025_02_NYG_DAL,2025,REG,2,2025-09-14,13:00,NYG,37,DAL,40,Home,7,10,Russell Wilson,Dak Prescott,AT&T Stadium,closed,401772834
+2025_02_CHI_DET,2025,REG,2,2025-09-14,13:00,CHI,21,DET,52,Home,6,7,Caleb Williams,Jared Goff,Ford Field,dome,401772835
+2025_02_NE_MIA,2025,REG,2,2025-09-14,13:00,NE,33,MIA,27,Home,7,7,Drake Maye,Tua Tagovailoa,Hard Rock Stadium,outdoors,401772728
+2025_02_SF_NO,2025,REG,2,2025-09-14,13:00,SF,26,NO,21,Home,7,7,Mac Jones,Spencer Rattler,Mercedes-Benz Superdome,dome,401772833
+2025_02_BUF_NYJ,2025,REG,2,2025-09-14,13:00,BUF,30,NYJ,10,Home,7,7,Josh Allen,Justin Fields,MetLife Stadium,outdoors,401772727
+2025_02_SEA_PIT,2025,REG,2,2025-09-14,13:00,SEA,31,PIT,17,Home,7,7,Sam Darnold,Aaron Rodgers,Acrisure Stadium,outdoors,401772836
+2025_02_LA_TEN,2025,REG,2,2025-09-14,13:00,LA,33,TEN,19,Home,7,7,Matthew Stafford,Cam Ward,Nissan Stadium,outdoors,401772724
+2025_02_CAR_ARI,2025,REG,2,2025-09-14,16:05,CAR,22,ARI,27,Home,7,7,Bryce Young,Kyler Murray,State Farm Stadium,closed,401772730
+2025_02_DEN_IND,2025,REG,2,2025-09-14,16:05,DEN,28,IND,29,Home,7,7,Bo Nix,Daniel Jones,Lucas Oil Stadium,closed,401772729
+2025_02_PHI_KC,2025,REG,2,2025-09-14,16:25,PHI,20,KC,17,Home,10,9,Jalen Hurts,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772837
+2025_02_ATL_MIN,2025,REG,2,2025-09-14,20:20,ATL,22,MIN,6,Home,7,6,Michael Penix,J.J. McCarthy,U.S. Bank Stadium,dome,401772919
+2025_02_TB_HOU,2025,REG,2,2025-09-15,19:00,TB,20,HOU,19,Home,8,8,Baker Mayfield,C.J. Stroud,NRG Stadium,closed,401772715
+2025_02_LAC_LV,2025,REG,2,2025-09-15,22:00,LAC,20,LV,9,Home,10,8,Justin Herbert,Geno Smith,Allegiant Stadium,dome,401772811
+2025_03_MIA_BUF,2025,REG,3,2025-09-18,20:15,MIA,21,BUF,31,Home,4,4,Tua Tagovailoa,Josh Allen,New Era Field,outdoors,401772937
+2025_03_ATL_CAR,2025,REG,3,2025-09-21,13:00,ATL,0,CAR,30,Home,7,7,Michael Penix,Bryce Young,Bank of America Stadium,outdoors,401772838
+2025_03_GB_CLE,2025,REG,3,2025-09-21,13:00,GB,10,CLE,13,Home,10,7,Jordan Love,Joe Flacco,FirstEnergy Stadium,outdoors,401772842
+2025_03_HOU_JAX,2025,REG,3,2025-09-21,13:00,HOU,10,JAX,17,Home,6,7,C.J. Stroud,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772734
+2025_03_CIN_MIN,2025,REG,3,2025-09-21,13:00,CIN,10,MIN,48,Home,7,7,Jake Browning,Carson Wentz,U.S. Bank Stadium,dome,401772731
+2025_03_PIT_NE,2025,REG,3,2025-09-21,13:00,PIT,21,NE,14,Home,7,7,Aaron Rodgers,Drake Maye,Gillette Stadium,outdoors,401772732
+2025_03_LA_PHI,2025,REG,3,2025-09-21,13:00,LA,26,PHI,33,Home,7,7,Matthew Stafford,Jalen Hurts,Lincoln Financial Field,outdoors,401772839
+2025_03_NYJ_TB,2025,REG,3,2025-09-21,13:00,NYJ,27,TB,29,Home,7,6,Tyrod Taylor,Baker Mayfield,Raymond James Stadium,outdoors,401772840
+2025_03_IND_TEN,2025,REG,3,2025-09-21,13:00,IND,41,TEN,20,Home,7,7,Daniel Jones,Cam Ward,Nissan Stadium,outdoors,401772733
+2025_03_LV_WAS,2025,REG,3,2025-09-21,13:00,LV,24,WAS,41,Home,6,10,Geno Smith,Marcus Mariota,FedExField,outdoors,401772841
+2025_03_DEN_LAC,2025,REG,3,2025-09-21,16:05,DEN,20,LAC,23,Home,7,6,Bo Nix,Justin Herbert,SoFi Stadium,dome,401772735
+2025_03_NO_SEA,2025,REG,3,2025-09-21,16:05,NO,13,SEA,44,Home,7,7,Spencer Rattler,Sam Darnold,Lumen Field,outdoors,401772736
+2025_03_DAL_CHI,2025,REG,3,2025-09-21,16:25,DAL,14,CHI,31,Home,7,7,Dak Prescott,Caleb Williams,Soldier Field,outdoors,401772844
+2025_03_ARI_SF,2025,REG,3,2025-09-21,16:25,ARI,15,SF,16,Home,7,7,Kyler Murray,Mac Jones,Levi's Stadium,outdoors,401772843
+2025_03_KC_NYG,2025,REG,3,2025-09-21,20:20,KC,22,NYG,9,Home,7,7,Patrick Mahomes,Russell Wilson,MetLife Stadium,outdoors,401772920
+2025_03_DET_BAL,2025,REG,3,2025-09-22,20:15,DET,38,BAL,30,Home,8,8,Jared Goff,Lamar Jackson,M&T Bank Stadium,outdoors,401772812
+2025_04_SEA_ARI,2025,REG,4,2025-09-25,20:15,SEA,23,ARI,20,Home,4,4,Sam Darnold,Kyler Murray,State Farm Stadium,closed,401772938
+2025_04_MIN_PIT,2025,REG,4,2025-09-28,09:30,MIN,21,PIT,24,Neutral,7,7,Carson Wentz,Aaron Rodgers,Acrisure Stadium,outdoors,401772632
+2025_04_WAS_ATL,2025,REG,4,2025-09-28,13:00,WAS,27,ATL,34,Home,7,7,Jayden Daniels,Michael Penix,Mercedes-Benz Stadium,closed,401772739
+2025_04_NO_BUF,2025,REG,4,2025-09-28,13:00,NO,19,BUF,31,Home,7,10,Spencer Rattler,Josh Allen,New Era Field,outdoors,401772740
+2025_04_CLE_DET,2025,REG,4,2025-09-28,13:00,CLE,10,DET,34,Home,7,6,Joe Flacco,Jared Goff,Ford Field,dome,401772846
+2025_04_TEN_HOU,2025,REG,4,2025-09-28,13:00,TEN,0,HOU,26,Home,7,7,Cam Ward,C.J. Stroud,NRG Stadium,closed,401772738
+2025_04_CAR_NE,2025,REG,4,2025-09-28,13:00,CAR,13,NE,42,Home,7,7,Bryce Young,Drake Maye,Gillette Stadium,outdoors,401772847
+2025_04_LAC_NYG,2025,REG,4,2025-09-28,13:00,LAC,18,NYG,21,Home,7,7,Justin Herbert,Jaxson Dart,MetLife Stadium,outdoors,401772737
+2025_04_PHI_TB,2025,REG,4,2025-09-28,13:00,PHI,31,TB,25,Home,7,7,Jalen Hurts,Baker Mayfield,Raymond James Stadium,outdoors,401772845
+2025_04_IND_LA,2025,REG,4,2025-09-28,16:05,IND,20,LA,27,Home,7,7,Daniel Jones,Matthew Stafford,SoFi Stadium,dome,401772849
+2025_04_JAX_SF,2025,REG,4,2025-09-28,16:05,JAX,26,SF,21,Home,7,7,Trevor Lawrence,Brock Purdy,Levi's Stadium,outdoors,401772848
+2025_04_BAL_KC,2025,REG,4,2025-09-28,16:25,BAL,20,KC,37,Home,6,7,Lamar Jackson,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772741
+2025_04_CHI_LV,2025,REG,4,2025-09-28,16:25,CHI,25,LV,24,Home,7,7,Caleb Williams,Geno Smith,Allegiant Stadium,dome,401772742
+2025_04_GB_DAL,2025,REG,4,2025-09-28,20:20,GB,40,DAL,40,Home,7,7,Jordan Love,Dak Prescott,AT&T Stadium,closed,401772921
+2025_04_NYJ_MIA,2025,REG,4,2025-09-29,19:15,NYJ,21,MIA,27,Home,8,11,Justin Fields,Tua Tagovailoa,Hard Rock Stadium,outdoors,401772813
+2025_04_CIN_DEN,2025,REG,4,2025-09-29,20:15,CIN,3,DEN,28,Home,8,8,Jake Browning,Bo Nix,Empower Field at Mile High,outdoors,401772716
+2025_05_SF_LA,2025,REG,5,2025-10-02,20:15,SF,26,LA,23,Home,4,4,Mac Jones,Matthew Stafford,SoFi Stadium,dome,401772939
+2025_05_MIN_CLE,2025,REG,5,2025-10-05,09:30,MIN,21,CLE,17,Neutral,7,7,Carson Wentz,Dillon Gabriel,FirstEnergy Stadium,outdoors,401772633
+2025_05_HOU_BAL,2025,REG,5,2025-10-05,13:00,HOU,44,BAL,10,Home,7,7,C.J. Stroud,Cooper Rush,M&T Bank Stadium,outdoors,401772743
+2025_05_MIA_CAR,2025,REG,5,2025-10-05,13:00,MIA,24,CAR,27,Home,6,7,Tua Tagovailoa,Bryce Young,Bank of America Stadium,outdoors,401772852
+2025_05_LV_IND,2025,REG,5,2025-10-05,13:00,LV,6,IND,40,Home,7,7,Geno Smith,Daniel Jones,Lucas Oil Stadium,closed,401772851
+2025_05_NYG_NO,2025,REG,5,2025-10-05,13:00,NYG,14,NO,26,Home,7,7,Jaxson Dart,Spencer Rattler,Mercedes-Benz Superdome,dome,401772744
+2025_05_DAL_NYJ,2025,REG,5,2025-10-05,13:00,DAL,37,NYJ,22,Home,7,6,Dak Prescott,Justin Fields,MetLife Stadium,outdoors,401772850
+2025_05_DEN_PHI,2025,REG,5,2025-10-05,13:00,DEN,21,PHI,17,Home,6,7,Bo Nix,Jalen Hurts,Lincoln Financial Field,outdoors,401772745
+2025_05_TEN_ARI,2025,REG,5,2025-10-05,16:05,TEN,22,ARI,21,Home,7,10,Cam Ward,Kyler Murray,State Farm Stadium,closed,401772747
+2025_05_TB_SEA,2025,REG,5,2025-10-05,16:05,TB,38,SEA,35,Home,7,10,Baker Mayfield,Sam Darnold,Lumen Field,outdoors,401772746
+2025_05_DET_CIN,2025,REG,5,2025-10-05,16:25,DET,37,CIN,24,Home,7,6,Jared Goff,Jake Browning,Paycor Stadium,outdoors,401772854
+2025_05_WAS_LAC,2025,REG,5,2025-10-05,16:25,WAS,27,LAC,10,Home,7,7,Jayden Daniels,Justin Herbert,SoFi Stadium,dome,401772853
+2025_05_NE_BUF,2025,REG,5,2025-10-05,20:20,NE,23,BUF,20,Home,7,7,Drake Maye,Josh Allen,New Era Field,outdoors,401772922
+2025_05_KC_JAX,2025,REG,5,2025-10-06,20:15,KC,28,JAX,31,Home,8,8,Patrick Mahomes,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772814
+2025_06_PHI_NYG,2025,REG,6,2025-10-09,20:15,PHI,17,NYG,34,Home,4,4,Jalen Hurts,Jaxson Dart,MetLife Stadium,outdoors,401772940
+2025_06_DEN_NYJ,2025,REG,6,2025-10-12,09:30,DEN,13,NYJ,11,Neutral,7,7,Bo Nix,Justin Fields,MetLife Stadium,outdoors,401772634
+2025_06_LA_BAL,2025,REG,6,2025-10-12,13:00,LA,17,BAL,3,Home,10,7,Matthew Stafford,Cooper Rush,M&T Bank Stadium,outdoors,401772855
+2025_06_DAL_CAR,2025,REG,6,2025-10-12,13:00,DAL,27,CAR,30,Home,7,7,Dak Prescott,Bryce Young,Bank of America Stadium,outdoors,401772858
+2025_06_ARI_IND,2025,REG,6,2025-10-12,13:00,ARI,27,IND,31,Home,7,7,Jacoby Brissett,Daniel Jones,Lucas Oil Stadium,closed,401772856
+2025_06_SEA_JAX,2025,REG,6,2025-10-12,13:00,SEA,20,JAX,12,Home,7,6,Sam Darnold,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772857
+2025_06_LAC_MIA,2025,REG,6,2025-10-12,13:00,LAC,29,MIA,27,Home,7,7,Justin Herbert,Tua Tagovailoa,Hard Rock Stadium,outdoors,401772750
+2025_06_NE_NO,2025,REG,6,2025-10-12,13:00,NE,25,NO,19,Home,7,7,Drake Maye,Spencer Rattler,Mercedes-Benz Superdome,dome,401772751
+2025_06_CLE_PIT,2025,REG,6,2025-10-12,13:00,CLE,9,PIT,23,Home,7,14,Dillon Gabriel,Aaron Rodgers,Acrisure Stadium,outdoors,401772748
+2025_06_TEN_LV,2025,REG,6,2025-10-12,16:05,TEN,10,LV,20,Home,7,7,Cam Ward,Geno Smith,Allegiant Stadium,dome,401772859
+2025_06_CIN_GB,2025,REG,6,2025-10-12,16:25,CIN,18,GB,27,Home,7,14,Joe Flacco,Jordan Love,Lambeau Field,outdoors,401772752
+2025_06_SF_TB,2025,REG,6,2025-10-12,16:25,SF,19,TB,30,Home,10,7,Mac Jones,Baker Mayfield,Raymond James Stadium,outdoors,401772749
+2025_06_DET_KC,2025,REG,6,2025-10-12,20:20,DET,17,KC,30,Home,7,6,Jared Goff,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772923
+2025_06_BUF_ATL,2025,REG,6,2025-10-13,19:15,BUF,14,ATL,24,Home,8,15,Josh Allen,Michael Penix,Mercedes-Benz Stadium,closed,401772815
+2025_06_CHI_WAS,2025,REG,6,2025-10-13,20:15,CHI,25,WAS,24,Home,15,8,Caleb Williams,Jayden Daniels,FedExField,outdoors,401772717
+2025_07_PIT_CIN,2025,REG,7,2025-10-16,20:15,PIT,31,CIN,33,Home,4,4,Aaron Rodgers,Joe Flacco,Paycor Stadium,outdoors,401772941
+2025_07_LA_JAX,2025,REG,7,2025-10-19,09:30,LA,35,JAX,7,Neutral,7,7,Matthew Stafford,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772635
+2025_07_NO_CHI,2025,REG,7,2025-10-19,13:00,NO,14,CHI,26,Home,7,6,Spencer Rattler,Caleb Williams,Soldier Field,outdoors,401772861
+2025_07_MIA_CLE,2025,REG,7,2025-10-19,13:00,MIA,6,CLE,31,Home,7,7,Tua Tagovailoa,Dillon Gabriel,FirstEnergy Stadium,outdoors,401772754
+2025_07_LV_KC,2025,REG,7,2025-10-19,13:00,LV,0,KC,31,Home,7,7,Geno Smith,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772753
+2025_07_PHI_MIN,2025,REG,7,2025-10-19,13:00,PHI,28,MIN,22,Home,10,14,Jalen Hurts,Carson Wentz,U.S. Bank Stadium,dome,401772862
+2025_07_CAR_NYJ,2025,REG,7,2025-10-19,13:00,CAR,13,NYJ,6,Home,7,7,Bryce Young,Justin Fields,MetLife Stadium,outdoors,401772860
+2025_07_NE_TEN,2025,REG,7,2025-10-19,13:00,NE,31,TEN,13,Home,7,7,Drake Maye,Cam Ward,Nissan Stadium,outdoors,401772755
+2025_07_NYG_DEN,2025,REG,7,2025-10-19,16:05,NYG,32,DEN,33,Home,10,7,Jaxson Dart,Bo Nix,Empower Field at Mile High,outdoors,401772757
+2025_07_IND_LAC,2025,REG,7,2025-10-19,16:05,IND,38,LAC,24,Home,7,7,Daniel Jones,Justin Herbert,SoFi Stadium,dome,401772756
+2025_07_GB_ARI,2025,REG,7,2025-10-19,16:25,GB,27,ARI,23,Home,7,7,Jordan Love,Jacoby Brissett,State Farm Stadium,closed,401772863
+2025_07_WAS_DAL,2025,REG,7,2025-10-19,16:25,WAS,22,DAL,44,Home,6,7,Jayden Daniels,Dak Prescott,AT&T Stadium,closed,401772864
+2025_07_ATL_SF,2025,REG,7,2025-10-19,20:20,ATL,10,SF,20,Home,6,7,Michael Penix,Mac Jones,Levi's Stadium,outdoors,401772924
+2025_07_TB_DET,2025,REG,7,2025-10-20,19:00,TB,9,DET,24,Home,8,8,Baker Mayfield,Jared Goff,Ford Field,dome,401772816
+2025_07_HOU_SEA,2025,REG,7,2025-10-20,22:00,HOU,19,SEA,27,Home,15,8,C.J. Stroud,Sam Darnold,Lumen Field,outdoors,401772826
+2025_08_MIN_LAC,2025,REG,8,2025-10-23,20:15,MIN,10,LAC,37,Home,4,4,Carson Wentz,Justin Herbert,SoFi Stadium,dome,401772942
+2025_08_MIA_ATL,2025,REG,8,2025-10-26,13:00,MIA,34,ATL,10,Home,7,7,Tua Tagovailoa,Kirk Cousins,Mercedes-Benz Stadium,closed,401772760
+2025_08_CHI_BAL,2025,REG,8,2025-10-26,13:00,CHI,16,BAL,30,Home,7,14,Caleb Williams,Tyler Huntley,M&T Bank Stadium,outdoors,401772759
+2025_08_BUF_CAR,2025,REG,8,2025-10-26,13:00,BUF,40,CAR,9,Home,13,7,Josh Allen,Bryce Young,Bank of America Stadium,outdoors,401772865
+2025_08_NYJ_CIN,2025,REG,8,2025-10-26,13:00,NYJ,39,CIN,38,Home,7,10,Justin Fields,Joe Flacco,Paycor Stadium,outdoors,401772758
+2025_08_SF_HOU,2025,REG,8,2025-10-26,13:00,SF,15,HOU,26,Home,7,6,Mac Jones,C.J. Stroud,NRG Stadium,closed,401772866
+2025_08_CLE_NE,2025,REG,8,2025-10-26,13:00,CLE,13,NE,32,Home,7,7,Dillon Gabriel,Drake Maye,Gillette Stadium,outdoors,401772868
+2025_08_NYG_PHI,2025,REG,8,2025-10-26,13:00,NYG,20,PHI,38,Home,7,7,Jaxson Dart,Jalen Hurts,Lincoln Financial Field,outdoors,401772867
+2025_08_TB_NO,2025,REG,8,2025-10-26,16:05,TB,23,NO,3,Home,6,7,Baker Mayfield,Spencer Rattler,Mercedes-Benz Superdome,dome,401772869
+2025_08_DAL_DEN,2025,REG,8,2025-10-26,16:25,DAL,24,DEN,44,Home,7,7,Dak Prescott,Bo Nix,Empower Field at Mile High,outdoors,401772762
+2025_08_TEN_IND,2025,REG,8,2025-10-26,16:25,TEN,14,IND,38,Home,7,7,Cam Ward,Daniel Jones,Lucas Oil Stadium,closed,401772761
+2025_08_GB_PIT,2025,REG,8,2025-10-26,20:20,GB,35,PIT,25,Home,7,10,Jordan Love,Aaron Rodgers,Acrisure Stadium,outdoors,401772925
+2025_08_WAS_KC,2025,REG,8,2025-10-27,20:15,WAS,7,KC,28,Home,8,8,Jayden Daniels,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772817
+2025_09_BAL_MIA,2025,REG,9,2025-10-30,20:15,BAL,28,MIA,6,Home,4,4,Lamar Jackson,Tua Tagovailoa,Hard Rock Stadium,outdoors,401772943
+2025_09_CHI_CIN,2025,REG,9,2025-11-02,13:00,CHI,47,CIN,42,Home,7,7,Caleb Williams,Joe Flacco,Paycor Stadium,outdoors,401772765
+2025_09_MIN_DET,2025,REG,9,2025-11-02,13:00,MIN,27,DET,24,Home,10,13,J.J. McCarthy,Jared Goff,Ford Field,dome,401772871
+2025_09_CAR_GB,2025,REG,9,2025-11-02,13:00,CAR,16,GB,13,Home,7,7,Bryce Young,Jordan Love,Lambeau Field,outdoors,401772872
+2025_09_DEN_HOU,2025,REG,9,2025-11-02,13:00,DEN,18,HOU,15,Home,7,7,Bo Nix,C.J. Stroud,NRG Stadium,closed,401772870
+2025_09_ATL_NE,2025,REG,9,2025-11-02,13:00,ATL,23,NE,24,Home,7,7,Michael Penix,Drake Maye,Gillette Stadium,outdoors,401772763
+2025_09_SF_NYG,2025,REG,9,2025-11-02,13:00,SF,34,NYG,24,Home,7,7,Mac Jones,Jaxson Dart,MetLife Stadium,outdoors,401772767
+2025_09_IND_PIT,2025,REG,9,2025-11-02,13:00,IND,20,PIT,27,Home,7,7,Daniel Jones,Aaron Rodgers,Acrisure Stadium,outdoors,401772766
+2025_09_LAC_TEN,2025,REG,9,2025-11-02,13:00,LAC,27,TEN,20,Home,10,7,Justin Herbert,Cam Ward,Nissan Stadium,outdoors,401772764
+2025_09_NO_LA,2025,REG,9,2025-11-02,16:05,NO,10,LA,34,Home,7,14,Tyler Shough,Matthew Stafford,SoFi Stadium,dome,401772874
+2025_09_JAX_LV,2025,REG,9,2025-11-02,16:05,JAX,30,LV,29,Home,14,14,Trevor Lawrence,Geno Smith,Allegiant Stadium,dome,401772873
+2025_09_KC_BUF,2025,REG,9,2025-11-02,16:25,KC,21,BUF,28,Home,6,7,Patrick Mahomes,Josh Allen,New Era Field,outdoors,401772768
+2025_09_SEA_WAS,2025,REG,9,2025-11-02,20:20,SEA,38,WAS,14,Home,13,6,Sam Darnold,Jayden Daniels,FedExField,outdoors,401772926
+2025_09_ARI_DAL,2025,REG,9,2025-11-03,20:15,ARI,27,DAL,17,Home,15,8,Jacoby Brissett,Dak Prescott,AT&T Stadium,closed,401772818
+2025_10_LV_DEN,2025,REG,10,2025-11-06,20:15,LV,7,DEN,10,Home,4,4,Geno Smith,Bo Nix,Empower Field at Mile High,outdoors,401772944
+2025_10_ATL_IND,2025,REG,10,2025-11-09,09:30,ATL,25,IND,31,Neutral,7,7,Michael Penix,Daniel Jones,Lucas Oil Stadium,closed,401772636
+2025_10_NO_CAR,2025,REG,10,2025-11-09,13:00,NO,17,CAR,7,Home,7,7,Tyler Shough,Bryce Young,Bank of America Stadium,outdoors,401772877
+2025_10_NYG_CHI,2025,REG,10,2025-11-09,13:00,NYG,20,CHI,24,Home,7,7,Jaxson Dart,Caleb Williams,Soldier Field,outdoors,401772875
+2025_10_JAX_HOU,2025,REG,10,2025-11-09,13:00,JAX,29,HOU,36,Home,7,7,Trevor Lawrence,Davis Mills,NRG Stadium,closed,401772770
+2025_10_BUF_MIA,2025,REG,10,2025-11-09,13:00,BUF,13,MIA,30,Home,7,10,Josh Allen,Tua Tagovailoa,Hard Rock Stadium,outdoors,401772771
+2025_10_BAL_MIN,2025,REG,10,2025-11-09,13:00,BAL,27,MIN,19,Home,10,7,Lamar Jackson,J.J. McCarthy,U.S. Bank Stadium,dome,401772876
+2025_10_CLE_NYJ,2025,REG,10,2025-11-09,13:00,CLE,20,NYJ,27,Home,14,14,Dillon Gabriel,Tyrod Taylor,MetLife Stadium,outdoors,401772769
+2025_10_NE_TB,2025,REG,10,2025-11-09,13:00,NE,28,TB,23,Home,7,14,Drake Maye,Baker Mayfield,Raymond James Stadium,outdoors,401772772
+2025_10_ARI_SEA,2025,REG,10,2025-11-09,16:05,ARI,22,SEA,44,Home,6,7,Jacoby Brissett,Sam Darnold,Lumen Field,outdoors,401772773
+2025_10_LA_SF,2025,REG,10,2025-11-09,16:25,LA,42,SF,26,Home,7,7,Matthew Stafford,Mac Jones,Levi's Stadium,outdoors,401772879
+2025_10_DET_WAS,2025,REG,10,2025-11-09,16:25,DET,44,WAS,22,Home,7,7,Jared Goff,Marcus Mariota,FedExField,outdoors,401772878
+2025_10_PIT_LAC,2025,REG,10,2025-11-09,20:20,PIT,10,LAC,25,Home,7,7,Aaron Rodgers,Justin Herbert,SoFi Stadium,dome,401772927
+2025_10_PHI_GB,2025,REG,10,2025-11-10,20:15,PHI,10,GB,7,Home,15,8,Jalen Hurts,Jordan Love,Lambeau Field,outdoors,401772630
+2025_11_NYJ_NE,2025,REG,11,2025-11-13,20:15,NYJ,14,NE,27,Home,4,4,Tyrod Taylor,Drake Maye,Gillette Stadium,outdoors,401772945
+2025_11_WAS_MIA,2025,REG,11,2025-11-16,09:30,WAS,13,MIA,16,Neutral,7,7,Marcus Mariota,Tua Tagovailoa,Hard Rock Stadium,outdoors,401772631
+2025_11_CAR_ATL,2025,REG,11,2025-11-16,13:00,CAR,30,ATL,27,Home,7,7,Bryce Young,Michael Penix,Mercedes-Benz Stadium,closed,401772882
+2025_11_TB_BUF,2025,REG,11,2025-11-16,13:00,TB,32,BUF,44,Home,7,7,Baker Mayfield,Josh Allen,New Era Field,outdoors,401772776
+2025_11_LAC_JAX,2025,REG,11,2025-11-16,13:00,LAC,6,JAX,35,Home,7,7,Justin Herbert,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772775
+2025_11_CHI_MIN,2025,REG,11,2025-11-16,13:00,CHI,19,MIN,17,Home,7,7,Caleb Williams,J.J. McCarthy,U.S. Bank Stadium,dome,401772880
+2025_11_GB_NYG,2025,REG,11,2025-11-16,13:00,GB,27,NYG,20,Home,6,7,Jordan Love,Jameis Winston,MetLife Stadium,outdoors,401772883
+2025_11_CIN_PIT,2025,REG,11,2025-11-16,13:00,CIN,12,PIT,34,Home,14,7,Joe Flacco,Aaron Rodgers,Acrisure Stadium,outdoors,401772774
+2025_11_HOU_TEN,2025,REG,11,2025-11-16,13:00,HOU,16,TEN,13,Home,7,14,Davis Mills,Cam Ward,Nissan Stadium,outdoors,401772881
+2025_11_SF_ARI,2025,REG,11,2025-11-16,16:05,SF,41,ARI,22,Home,7,7,Brock Purdy,Jacoby Brissett,State Farm Stadium,closed,401772885
+2025_11_SEA_LA,2025,REG,11,2025-11-16,16:05,SEA,19,LA,21,Home,7,7,Sam Darnold,Matthew Stafford,SoFi Stadium,dome,401772884
+2025_11_BAL_CLE,2025,REG,11,2025-11-16,16:25,BAL,23,CLE,16,Home,7,7,Lamar Jackson,Dillon Gabriel,FirstEnergy Stadium,outdoors,401772777
+2025_11_KC_DEN,2025,REG,11,2025-11-16,16:25,KC,19,DEN,22,Home,14,10,Patrick Mahomes,Bo Nix,Empower Field at Mile High,outdoors,401772778
+2025_11_DET_PHI,2025,REG,11,2025-11-16,20:20,DET,9,PHI,16,Home,7,6,Jared Goff,Jalen Hurts,Lincoln Financial Field,outdoors,401772928
+2025_11_DAL_LV,2025,REG,11,2025-11-17,20:15,DAL,33,LV,16,Home,14,11,Dak Prescott,Geno Smith,Allegiant Stadium,dome,401772819
+2025_12_BUF_HOU,2025,REG,12,2025-11-20,20:15,BUF,19,HOU,23,Home,4,4,Josh Allen,Davis Mills,NRG Stadium,closed,401772946
+2025_12_NYJ_BAL,2025,REG,12,2025-11-23,13:00,NYJ,10,BAL,23,Home,10,7,Tyrod Taylor,Lamar Jackson,M&T Bank Stadium,outdoors,401772782
+2025_12_PIT_CHI,2025,REG,12,2025-11-23,13:00,PIT,28,CHI,31,Home,7,7,Mason Rudolph,Caleb Williams,Soldier Field,outdoors,401772780
+2025_12_NE_CIN,2025,REG,12,2025-11-23,13:00,NE,26,CIN,20,Home,10,7,Drake Maye,Joe Flacco,Paycor Stadium,outdoors,401772781
+2025_12_NYG_DET,2025,REG,12,2025-11-23,13:00,NYG,27,DET,34,Home,7,7,Jameis Winston,Jared Goff,Ford Field,dome,401772888
+2025_12_MIN_GB,2025,REG,12,2025-11-23,13:00,MIN,6,GB,23,Home,7,7,J.J. McCarthy,Jordan Love,Lambeau Field,outdoors,401772887
+2025_12_IND_KC,2025,REG,12,2025-11-23,13:00,IND,20,KC,23,Home,14,7,Daniel Jones,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772779
+2025_12_SEA_TEN,2025,REG,12,2025-11-23,13:00,SEA,30,TEN,24,Home,7,7,Sam Darnold,Cam Ward,Nissan Stadium,outdoors,401772886
+2025_12_JAX_ARI,2025,REG,12,2025-11-23,16:05,JAX,27,ARI,24,Home,7,7,Trevor Lawrence,Jacoby Brissett,State Farm Stadium,closed,401772783
+2025_12_CLE_LV,2025,REG,12,2025-11-23,16:05,CLE,24,LV,10,Home,7,6,Shedeur Sanders,Geno Smith,Allegiant Stadium,dome,401772784
+2025_12_PHI_DAL,2025,REG,12,2025-11-23,16:25,PHI,21,DAL,24,Home,7,6,Jalen Hurts,Dak Prescott,AT&T Stadium,closed,401772890
+2025_12_ATL_NO,2025,REG,12,2025-11-23,16:25,ATL,24,NO,10,Home,7,14,Kirk Cousins,Tyler Shough,Mercedes-Benz Superdome,dome,401772889
+2025_12_TB_LA,2025,REG,12,2025-11-23,20:20,TB,7,LA,34,Home,7,7,Baker Mayfield,Matthew Stafford,SoFi Stadium,dome,401772929
+2025_12_CAR_SF,2025,REG,12,2025-11-24,20:15,CAR,9,SF,20,Home,8,8,Bryce Young,Brock Purdy,Levi's Stadium,outdoors,401772820
+2025_13_GB_DET,2025,REG,13,2025-11-27,13:00,GB,31,DET,24,Home,4,4,Jordan Love,Jared Goff,Ford Field,dome,401772891
+2025_13_KC_DAL,2025,REG,13,2025-11-27,16:30,KC,28,DAL,31,Home,4,4,Patrick Mahomes,Dak Prescott,AT&T Stadium,closed,401772694
+2025_13_CIN_BAL,2025,REG,13,2025-11-27,20:20,CIN,32,BAL,14,Home,4,4,Joe Burrow,Lamar Jackson,M&T Bank Stadium,outdoors,401772930
+2025_13_CHI_PHI,2025,REG,13,2025-11-28,15:00,CHI,24,PHI,15,Home,5,5,Caleb Williams,Jalen Hurts,Lincoln Financial Field,outdoors,401772621
+2025_13_LA_CAR,2025,REG,13,2025-11-30,13:00,LA,28,CAR,31,Home,7,6,Matthew Stafford,Bryce Young,Bank of America Stadium,outdoors,401772894
+2025_13_SF_CLE,2025,REG,13,2025-11-30,13:00,SF,26,CLE,8,Home,6,7,Brock Purdy,Shedeur Sanders,FirstEnergy Stadium,outdoors,401772785
+2025_13_HOU_IND,2025,REG,13,2025-11-30,13:00,HOU,20,IND,16,Home,10,7,C.J. Stroud,Daniel Jones,Lucas Oil Stadium,closed,401772787
+2025_13_NO_MIA,2025,REG,13,2025-11-30,13:00,NO,17,MIA,21,Home,7,14,Tyler Shough,Tua Tagovailoa,Hard Rock Stadium,outdoors,401772892
+2025_13_ATL_NYJ,2025,REG,13,2025-11-30,13:00,ATL,24,NYJ,27,Home,7,7,Kirk Cousins,Tyrod Taylor,MetLife Stadium,outdoors,401772893
+2025_13_ARI_TB,2025,REG,13,2025-11-30,13:00,ARI,17,TB,20,Home,7,7,Jacoby Brissett,Baker Mayfield,Raymond James Stadium,outdoors,401772895
+2025_13_JAX_TEN,2025,REG,13,2025-11-30,13:00,JAX,25,TEN,3,Home,7,7,Trevor Lawrence,Cam Ward,Nissan Stadium,outdoors,401772786
+2025_13_MIN_SEA,2025,REG,13,2025-11-30,16:05,MIN,0,SEA,26,Home,7,7,Max Brosmer,Sam Darnold,Lumen Field,outdoors,401772896
+2025_13_LV_LAC,2025,REG,13,2025-11-30,16:25,LV,14,LAC,31,Home,7,14,Geno Smith,Justin Herbert,SoFi Stadium,dome,401772788
+2025_13_BUF_PIT,2025,REG,13,2025-11-30,16:25,BUF,26,PIT,7,Home,10,7,Josh Allen,Aaron Rodgers,Acrisure Stadium,outdoors,401772789
+2025_13_DEN_WAS,2025,REG,13,2025-11-30,20:20,DEN,27,WAS,26,Home,14,14,Bo Nix,Marcus Mariota,FedExField,outdoors,401772931
+2025_13_NYG_NE,2025,REG,13,2025-12-01,20:15,NYG,15,NE,33,Home,8,8,Jaxson Dart,Drake Maye,Gillette Stadium,outdoors,401772821
+2025_14_DAL_DET,2025,REG,14,2025-12-04,20:15,DAL,30,DET,44,Home,7,7,Dak Prescott,Jared Goff,Ford Field,dome,401772947
+2025_14_SEA_ATL,2025,REG,14,2025-12-07,13:00,SEA,37,ATL,9,Home,7,7,Sam Darnold,Kirk Cousins,Mercedes-Benz Stadium,closed,401772900
+2025_14_PIT_BAL,2025,REG,14,2025-12-07,13:00,PIT,27,BAL,22,Home,7,10,Aaron Rodgers,Lamar Jackson,M&T Bank Stadium,outdoors,401772791
+2025_14_CIN_BUF,2025,REG,14,2025-12-07,13:00,CIN,34,BUF,39,Home,10,7,Joe Burrow,Josh Allen,New Era Field,outdoors,401772902
+2025_14_TEN_CLE,2025,REG,14,2025-12-07,13:00,TEN,31,CLE,29,Home,7,7,Cam Ward,Shedeur Sanders,FirstEnergy Stadium,outdoors,401772898
+2025_14_IND_JAX,2025,REG,14,2025-12-07,13:00,IND,19,JAX,36,Home,7,7,Daniel Jones,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772793
+2025_14_WAS_MIN,2025,REG,14,2025-12-07,13:00,WAS,0,MIN,31,Home,7,7,Marcus Mariota,J.J. McCarthy,U.S. Bank Stadium,dome,401772899
+2025_14_MIA_NYJ,2025,REG,14,2025-12-07,13:00,MIA,34,NYJ,10,Home,7,7,Tua Tagovailoa,Tyrod Taylor,MetLife Stadium,outdoors,401772790
+2025_14_NO_TB,2025,REG,14,2025-12-07,13:00,NO,24,TB,20,Home,7,7,Tyler Shough,Baker Mayfield,Raymond James Stadium,outdoors,401772792
+2025_14_DEN_LV,2025,REG,14,2025-12-07,16:05,DEN,24,LV,17,Home,7,7,Bo Nix,Geno Smith,Allegiant Stadium,dome,401772794
+2025_14_LA_ARI,2025,REG,14,2025-12-07,16:25,LA,45,ARI,17,Home,7,7,Matthew Stafford,Jacoby Brissett,State Farm Stadium,closed,401772901
+2025_14_CHI_GB,2025,REG,14,2025-12-07,16:25,CHI,21,GB,28,Home,9,10,Caleb Williams,Jordan Love,Lambeau Field,outdoors,401772897
+2025_14_HOU_KC,2025,REG,14,2025-12-07,20:20,HOU,20,KC,10,Home,7,10,C.J. Stroud,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772932
+2025_14_PHI_LAC,2025,REG,14,2025-12-08,20:15,PHI,19,LAC,22,Home,10,8,Jalen Hurts,Justin Herbert,SoFi Stadium,dome,401772822
+2025_15_ATL_TB,2025,REG,15,2025-12-11,20:15,ATL,29,TB,28,Home,4,4,Kirk Cousins,Baker Mayfield,Raymond James Stadium,outdoors,401772948
+2025_15_CLE_CHI,2025,REG,15,2025-12-14,13:00,CLE,3,CHI,31,Home,7,7,Shedeur Sanders,Caleb Williams,Soldier Field,outdoors,401772904
+2025_15_BAL_CIN,2025,REG,15,2025-12-14,13:00,BAL,24,CIN,0,Home,7,7,Lamar Jackson,Joe Burrow,Paycor Stadium,outdoors,401772796
+2025_15_ARI_HOU,2025,REG,15,2025-12-14,13:00,ARI,20,HOU,40,Home,7,7,Jacoby Brissett,C.J. Stroud,NRG Stadium,closed,401772903
+2025_15_NYJ_JAX,2025,REG,15,2025-12-14,13:00,NYJ,20,JAX,48,Home,7,7,Brady Cook,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772797
+2025_15_LAC_KC,2025,REG,15,2025-12-14,13:00,LAC,16,KC,13,Home,6,7,Justin Herbert,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401772798
+2025_15_BUF_NE,2025,REG,15,2025-12-14,13:00,BUF,35,NE,31,Home,7,13,Josh Allen,Drake Maye,Gillette Stadium,outdoors,401772795
+2025_15_WAS_NYG,2025,REG,15,2025-12-14,13:00,WAS,29,NYG,21,Home,7,13,Marcus Mariota,Jaxson Dart,MetLife Stadium,outdoors,401772905
+2025_15_LV_PHI,2025,REG,15,2025-12-14,13:00,LV,0,PHI,31,Home,7,6,Kenny Pickett,Jalen Hurts,Lincoln Financial Field,outdoors,401772906
+2025_15_GB_DEN,2025,REG,15,2025-12-14,16:25,GB,26,DEN,34,Home,7,7,Jordan Love,Bo Nix,Empower Field at Mile High,outdoors,401772800
+2025_15_DET_LA,2025,REG,15,2025-12-14,16:25,DET,34,LA,41,Home,10,7,Jared Goff,Matthew Stafford,SoFi Stadium,dome,401772909
+2025_15_CAR_NO,2025,REG,15,2025-12-14,16:25,CAR,17,NO,20,Home,14,7,Bryce Young,Tyler Shough,Mercedes-Benz Superdome,dome,401772908
+2025_15_IND_SEA,2025,REG,15,2025-12-14,16:25,IND,16,SEA,18,Home,7,7,Philip Rivers,Sam Darnold,Lumen Field,outdoors,401772799
+2025_15_TEN_SF,2025,REG,15,2025-12-14,16:25,TEN,24,SF,37,Home,7,14,Cam Ward,Brock Purdy,Levi's Stadium,outdoors,401772907
+2025_15_MIN_DAL,2025,REG,15,2025-12-14,20:20,MIN,34,DAL,26,Home,7,10,J.J. McCarthy,Dak Prescott,AT&T Stadium,closed,401772933
+2025_15_MIA_PIT,2025,REG,15,2025-12-15,20:15,MIA,15,PIT,28,Home,8,8,Tua Tagovailoa,Aaron Rodgers,Acrisure Stadium,outdoors,401772823
+2025_16_LA_SEA,2025,REG,16,2025-12-18,20:15,LA,37,SEA,38,Home,4,4,Matthew Stafford,Sam Darnold,Lumen Field,outdoors,401772949
+2025_16_PHI_WAS,2025,REG,16,2025-12-20,17:00,PHI,29,WAS,18,Home,6,6,Jalen Hurts,Marcus Mariota,FedExField,outdoors,401772612
+2025_16_GB_CHI,2025,REG,16,2025-12-20,20:20,GB,16,CHI,22,Home,6,6,Jordan Love,Caleb Williams,Soldier Field,outdoors,401772613
+2025_16_TB_CAR,2025,REG,16,2025-12-21,13:00,TB,20,CAR,23,Home,10,7,Baker Mayfield,Bryce Young,Bank of America Stadium,outdoors,401772912
+2025_16_BUF_CLE,2025,REG,16,2025-12-21,13:00,BUF,23,CLE,20,Home,7,7,Josh Allen,Shedeur Sanders,FirstEnergy Stadium,outdoors,401772802
+2025_16_LAC_DAL,2025,REG,16,2025-12-21,13:00,LAC,34,DAL,17,Home,7,7,Justin Herbert,Dak Prescott,AT&T Stadium,closed,401772910
+2025_16_CIN_MIA,2025,REG,16,2025-12-21,13:00,CIN,45,MIA,21,Home,7,6,Joe Burrow,Quinn Ewers,Hard Rock Stadium,outdoors,401772934
+2025_16_NYJ_NO,2025,REG,16,2025-12-21,13:00,NYJ,6,NO,29,Home,7,7,Tyrod Taylor,Tyler Shough,Mercedes-Benz Superdome,dome,401772801
+2025_16_MIN_NYG,2025,REG,16,2025-12-21,13:00,MIN,16,NYG,13,Home,7,7,J.J. McCarthy,Jaxson Dart,MetLife Stadium,outdoors,401772911
+2025_16_KC_TEN,2025,REG,16,2025-12-21,13:00,KC,9,TEN,26,Home,7,7,Gardner Minshew,Cam Ward,Nissan Stadium,outdoors,401772803
+2025_16_ATL_ARI,2025,REG,16,2025-12-21,16:05,ATL,26,ARI,19,Home,10,7,Kirk Cousins,Jacoby Brissett,State Farm Stadium,closed,401772914
+2025_16_JAX_DEN,2025,REG,16,2025-12-21,16:05,JAX,34,DEN,20,Home,7,7,Trevor Lawrence,Bo Nix,Empower Field at Mile High,outdoors,401772913
+2025_16_PIT_DET,2025,REG,16,2025-12-21,16:25,PIT,29,DET,24,Home,6,7,Aaron Rodgers,Jared Goff,Ford Field,dome,401772806
+2025_16_LV_HOU,2025,REG,16,2025-12-21,16:25,LV,21,HOU,23,Home,7,7,Geno Smith,C.J. Stroud,NRG Stadium,closed,401772805
+2025_16_NE_BAL,2025,REG,16,2025-12-21,20:20,NE,28,BAL,24,Home,7,7,Drake Maye,Lamar Jackson,M&T Bank Stadium,outdoors,401772804
+2025_16_SF_IND,2025,REG,16,2025-12-22,20:15,SF,48,IND,27,Home,8,8,Brock Purdy,Philip Rivers,Lucas Oil Stadium,closed,401772824
+2025_17_DAL_WAS,2025,REG,17,2025-12-25,13:00,DAL,30,WAS,23,Home,4,5,Dak Prescott,Josh Johnson,FedExField,outdoors,401772710
+2025_17_DET_MIN,2025,REG,17,2025-12-25,16:30,DET,10,MIN,23,Home,4,4,Jared Goff,Max Brosmer,U.S. Bank Stadium,dome,401772711
+2025_17_DEN_KC,2025,REG,17,2025-12-25,20:15,DEN,20,KC,13,Home,4,4,Bo Nix,Chris Oladokun,GEHA Field at Arrowhead Stadium,outdoors,401772622
+2025_17_HOU_LAC,2025,REG,17,2025-12-27,16:30,HOU,20,LAC,16,Home,6,6,C.J. Stroud,Justin Herbert,SoFi Stadium,dome,401772951
+2025_17_BAL_GB,2025,REG,17,2025-12-27,20:00,BAL,41,GB,24,Home,6,7,Tyler Huntley,Malik Willis,Lambeau Field,outdoors,401772953
+2025_17_SEA_CAR,2025,REG,17,2025-12-28,13:00,SEA,27,CAR,10,Home,10,7,Sam Darnold,Bryce Young,Bank of America Stadium,outdoors,401772952
+2025_17_ARI_CIN,2025,REG,17,2025-12-28,13:00,ARI,14,CIN,37,Home,7,7,Jacoby Brissett,Joe Burrow,Paycor Stadium,outdoors,401772954
+2025_17_PIT_CLE,2025,REG,17,2025-12-28,13:00,PIT,6,CLE,13,Home,7,7,Aaron Rodgers,Shedeur Sanders,FirstEnergy Stadium,outdoors,401772807
+2025_17_JAX_IND,2025,REG,17,2025-12-28,13:00,JAX,23,IND,17,Home,7,6,Trevor Lawrence,Philip Rivers,Lucas Oil Stadium,closed,401772915
+2025_17_TB_MIA,2025,REG,17,2025-12-28,13:00,TB,17,MIA,20,Home,7,7,Baker Mayfield,Quinn Ewers,Hard Rock Stadium,outdoors,401772916
+2025_17_NE_NYJ,2025,REG,17,2025-12-28,13:00,NE,42,NYJ,10,Home,7,7,Drake Maye,Tyrod Taylor,MetLife Stadium,outdoors,401772808
+2025_17_NO_TEN,2025,REG,17,2025-12-28,13:00,NO,34,TEN,26,Home,7,7,Tyler Shough,Cam Ward,Nissan Stadium,outdoors,401772809
+2025_17_NYG_LV,2025,REG,17,2025-12-28,16:05,NYG,34,LV,10,Home,7,7,Jaxson Dart,Geno Smith,Allegiant Stadium,dome,401772950
+2025_17_PHI_BUF,2025,REG,17,2025-12-28,16:25,PHI,13,BUF,12,Home,8,7,Jalen Hurts,Josh Allen,New Era Field,outdoors,401772917
+2025_17_CHI_SF,2025,REG,17,2025-12-28,20:20,CHI,38,SF,42,Home,8,6,Caleb Williams,Brock Purdy,Levi's Stadium,outdoors,401772935
+2025_17_LA_ATL,2025,REG,17,2025-12-29,20:15,LA,24,ATL,27,Home,11,8,Matthew Stafford,Kirk Cousins,Mercedes-Benz Stadium,closed,401772825
+2025_18_CAR_TB,2025,REG,18,2026-01-03,16:30,CAR,14,TB,16,Home,6,6,Bryce Young,Baker Mayfield,Raymond James Stadium,outdoors,401772969
+2025_18_SEA_SF,2025,REG,18,2026-01-03,20:00,SEA,13,SF,3,Home,6,6,Sam Darnold,Brock Purdy,Levi's Stadium,outdoors,401772961
+2025_18_NO_ATL,2025,REG,18,2026-01-04,13:00,NO,17,ATL,19,Home,7,6,Tyler Shough,Kirk Cousins,Mercedes-Benz Stadium,closed,401772966
+2025_18_CLE_CIN,2025,REG,18,2026-01-04,13:00,CLE,20,CIN,18,Home,7,7,Shedeur Sanders,Joe Burrow,Paycor Stadium,outdoors,401772964
+2025_18_IND_HOU,2025,REG,18,2026-01-04,13:00,IND,30,HOU,38,Home,7,8,Riley Leonard,C.J. Stroud,NRG Stadium,closed,401772962
+2025_18_TEN_JAX,2025,REG,18,2026-01-04,13:00,TEN,7,JAX,41,Home,7,7,Cam Ward,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772970
+2025_18_GB_MIN,2025,REG,18,2026-01-04,13:00,GB,3,MIN,16,Home,8,10,Clayton Tune,J.J. McCarthy,U.S. Bank Stadium,dome,401772968
+2025_18_DAL_NYG,2025,REG,18,2026-01-04,13:00,DAL,17,NYG,34,Home,10,7,Dak Prescott,Jaxson Dart,MetLife Stadium,outdoors,401772963
+2025_18_NYJ_BUF,2025,REG,18,2026-01-04,16:25,NYJ,8,BUF,35,Home,7,7,Brady Cook,Mitchell Trubisky,New Era Field,outdoors,401772967
+2025_18_DET_CHI,2025,REG,18,2026-01-04,16:25,DET,19,CHI,16,Home,10,7,Jared Goff,Caleb Williams,Soldier Field,outdoors,401772965
+2025_18_LAC_DEN,2025,REG,18,2026-01-04,16:25,LAC,3,DEN,19,Home,8,10,Trey Lance,Bo Nix,Empower Field at Mile High,outdoors,401772956
+2025_18_ARI_LA,2025,REG,18,2026-01-04,16:25,ARI,20,LA,37,Home,7,6,Jacoby Brissett,Matthew Stafford,SoFi Stadium,dome,401772955
+2025_18_KC_LV,2025,REG,18,2026-01-04,16:25,KC,12,LV,14,Home,10,7,Chris Oladokun,Kenny Pickett,Allegiant Stadium,dome,401772957
+2025_18_MIA_NE,2025,REG,18,2026-01-04,16:25,MIA,10,NE,38,Home,7,7,Quinn Ewers,Drake Maye,Gillette Stadium,outdoors,401772958
+2025_18_WAS_PHI,2025,REG,18,2026-01-04,16:25,WAS,24,PHI,17,Home,10,7,Josh Johnson,Tanner McKee,Lincoln Financial Field,outdoors,401772959
+2025_18_BAL_PIT,2025,REG,18,2026-01-04,20:20,BAL,24,PIT,26,Home,8,7,Lamar Jackson,Aaron Rodgers,Acrisure Stadium,outdoors,401772960
+2025_19_LA_CAR,2025,WC,19,2026-01-10,16:30,LA,34,CAR,31,Home,6,7,Matthew Stafford,Bryce Young,Bank of America Stadium,outdoors,401772979
+2025_19_GB_CHI,2025,WC,19,2026-01-10,20:00,GB,27,CHI,31,Home,6,6,Jordan Love,Caleb Williams,Soldier Field,outdoors,401772981
+2025_19_BUF_JAX,2025,WC,19,2026-01-11,13:00,BUF,27,JAX,24,Home,7,7,Josh Allen,Trevor Lawrence,TIAA Bank Stadium,outdoors,401772977
+2025_19_SF_PHI,2025,WC,19,2026-01-11,16:30,SF,23,PHI,19,Home,8,7,Brock Purdy,Jalen Hurts,Lincoln Financial Field,outdoors,401772980
+2025_19_LAC_NE,2025,WC,19,2026-01-11,20:00,LAC,3,NE,16,Home,7,7,Justin Herbert,Drake Maye,Gillette Stadium,outdoors,401772978
+2025_19_HOU_PIT,2025,WC,19,2026-01-12,20:00,HOU,30,PIT,6,Home,8,8,C.J. Stroud,Aaron Rodgers,Acrisure Stadium,outdoors,401772976
+2025_20_BUF_DEN,2025,DIV,20,2026-01-17,16:30,BUF,30,DEN,33,Home,6,13,Josh Allen,Bo Nix,Empower Field at Mile High,outdoors,401772982
+2025_20_SF_SEA,2025,DIV,20,2026-01-17,20:00,SF,6,SEA,41,Home,6,14,Brock Purdy,Sam Darnold,Lumen Field,outdoors,401772984
+2025_20_HOU_NE,2025,DIV,20,2026-01-18,15:00,HOU,16,NE,28,Home,6,7,C.J. Stroud,Drake Maye,Gillette Stadium,outdoors,401772983
+2025_20_LA_CHI,2025,DIV,20,2026-01-18,18:30,LA,20,CHI,17,Home,8,8,Matthew Stafford,Caleb Williams,Soldier Field,outdoors,401772985
+2025_21_NE_DEN,2025,CON,21,2026-01-25,15:00,NE,10,DEN,7,Home,7,8,Drake Maye,Jarrett Stidham,Empower Field at Mile High,outdoors,401772986
+2025_21_LA_SEA,2025,CON,21,2026-01-25,18:30,LA,27,SEA,31,Home,7,8,Matthew Stafford,Sam Darnold,Lumen Field,outdoors,401772987
+2025_22_SEA_NE,2025,SB,22,2026-02-08,18:30,SEA,29,NE,13,Neutral,14,14,Sam Darnold,Drake Maye,Levi's Stadium,outdoors,401772988
+2026_01_NE_SEA,2026,REG,1,2026-09-09,20:20,NE,,SEA,,Home,7,7,Drake Maye,Sam Darnold,Lumen Field,outdoors,401872656
+2026_01_SF_LA,2026,REG,1,2026-09-10,20:35,SF,,LA,,Neutral,7,7,Brock Purdy,Matthew Stafford,Melbourne Cricket Ground,dome,401872657
+2026_01_CHI_CAR,2026,REG,1,2026-09-13,13:00,CHI,,CAR,,Home,7,7,Caleb Williams,Bryce Young,Bank of America Stadium,outdoors,401872661
+2026_01_TB_CIN,2026,REG,1,2026-09-13,13:00,TB,,CIN,,Home,7,7,Baker Mayfield,Joe Burrow,Paycor Stadium,outdoors,401872925
+2026_01_NO_DET,2026,REG,1,2026-09-13,13:00,NO,,DET,,Home,7,7,Tyler Shough,Jared Goff,Ford Field,dome,401872923
+2026_01_BUF_HOU,2026,REG,1,2026-09-13,13:00,BUF,,HOU,,Home,7,7,Josh Allen,C.J. Stroud,Reliant Stadium,,401872660
+2026_01_BAL_IND,2026,REG,1,2026-09-13,13:00,BAL,,IND,,Home,7,7,Lamar Jackson,Daniel Jones,Lucas Oil Stadium,,401872659
+2026_01_CLE_JAX,2026,REG,1,2026-09-13,13:00,CLE,,JAX,,Home,7,7,Deshaun Watson,Trevor Lawrence,EverBank Stadium,outdoors,401872922
+2026_01_ATL_PIT,2026,REG,1,2026-09-13,13:00,ATL,,PIT,,Home,7,7,Tua Tagovailoa,Aaron Rodgers,Acrisure Stadium,outdoors,401872658
+2026_01_NYJ_TEN,2026,REG,1,2026-09-13,13:00,NYJ,,TEN,,Home,7,7,Geno Smith,Cam Ward,Nissan Stadium,outdoors,401872924
+2026_01_ARI_LAC,2026,REG,1,2026-09-13,16:25,ARI,,LAC,,Home,7,7,Jacoby Brissett,Justin Herbert,SoFi Stadium,dome,401872926
+2026_01_MIA_LV,2026,REG,1,2026-09-13,16:25,MIA,,LV,,Home,7,7,Malik Willis,Kirk Cousins,Allegiant Stadium,dome,401872928
+2026_01_GB_MIN,2026,REG,1,2026-09-13,16:25,GB,,MIN,,Home,7,7,Jordan Love,Kyler Murray,U.S. Bank Stadium,dome,401872927
+2026_01_WAS_PHI,2026,REG,1,2026-09-13,16:25,WAS,,PHI,,Home,7,7,Jayden Daniels,Jalen Hurts,Lincoln Financial Field,outdoors,401872929
+2026_01_DAL_NYG,2026,REG,1,2026-09-13,20:20,DAL,,NYG,,Home,7,7,Dak Prescott,Jaxson Dart,MetLife Stadium,outdoors,401872930
+2026_01_DEN_KC,2026,REG,1,2026-09-14,20:15,DEN,,KC,,Home,7,7,Bo Nix,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401872931
+2026_02_DET_BUF,2026,REG,2,2026-09-17,20:15,DET,,BUF,,Home,4,4,Jared Goff,Josh Allen,Highmark Stadium,outdoors,401872932
+2026_02_CAR_ATL,2026,REG,2,2026-09-20,13:00,CAR,,ATL,,Home,7,7,Bryce Young,Tua Tagovailoa,Mercedes-Benz Stadium,,401872933
+2026_02_NO_BAL,2026,REG,2,2026-09-20,13:00,NO,,BAL,,Home,7,7,Tyler Shough,Lamar Jackson,M&T Bank Stadium,outdoors,401872938
+2026_02_MIN_CHI,2026,REG,2,2026-09-20,13:00,MIN,,CHI,,Home,7,7,Kyler Murray,Caleb Williams,Soldier Field,outdoors,401872937
+2026_02_CIN_HOU,2026,REG,2,2026-09-20,13:00,CIN,,HOU,,Home,7,7,Joe Burrow,C.J. Stroud,Reliant Stadium,,401872934
+2026_02_PIT_NE,2026,REG,2,2026-09-20,13:00,PIT,,NE,,Home,7,11,Aaron Rodgers,Drake Maye,Gillette Stadium,outdoors,401872946
+2026_02_GB_NYJ,2026,REG,2,2026-09-20,13:00,GB,,NYJ,,Home,7,7,Jordan Love,Geno Smith,MetLife Stadium,outdoors,401872936
+2026_02_CLE_TB,2026,REG,2,2026-09-20,13:00,CLE,,TB,,Home,7,7,Deshaun Watson,Baker Mayfield,Raymond James Stadium,outdoors,401872935
+2026_02_PHI_TEN,2026,REG,2,2026-09-20,13:00,PHI,,TEN,,Home,7,7,Jalen Hurts,Cam Ward,Nissan Stadium,outdoors,401872939
+2026_02_JAX_DEN,2026,REG,2,2026-09-20,16:05,JAX,,DEN,,Home,7,6,Trevor Lawrence,Bo Nix,Empower Field at Mile High,outdoors,401872940
+2026_02_LV_LAC,2026,REG,2,2026-09-20,16:05,LV,,LAC,,Home,7,7,Kirk Cousins,Justin Herbert,SoFi Stadium,dome,401872941
+2026_02_SEA_ARI,2026,REG,2,2026-09-20,16:25,SEA,,ARI,,Home,11,7,Sam Darnold,Jacoby Brissett,State Farm Stadium,,401872943
+2026_02_WAS_DAL,2026,REG,2,2026-09-20,16:25,WAS,,DAL,,Home,7,7,Jayden Daniels,Dak Prescott,AT&T Stadium,,401872944
+2026_02_MIA_SF,2026,REG,2,2026-09-20,16:25,MIA,,SF,,Home,7,10,Malik Willis,Brock Purdy,Levi's Stadium,outdoors,401872942
+2026_02_IND_KC,2026,REG,2,2026-09-20,20:20,IND,,KC,,Home,7,6,Daniel Jones,Patrick Mahomes,GEHA Field at Arrowhead Stadium,outdoors,401872945
+2026_02_NYG_LA,2026,REG,2,2026-09-21,20:15,NYG,,LA,,Home,8,11,Jaxson Dart,Matthew Stafford,SoFi Stadium,dome,401872947
+2026_03_ATL_GB,2026,REG,3,2026-09-24,20:15,ATL,,GB,,Home,4,4,,,Lambeau Field,outdoors,401872948
+2026_03_LAC_BUF,2026,REG,3,2026-09-27,13:00,LAC,,BUF,,Home,7,10,,,Highmark Stadium,outdoors,401872953
+2026_03_CAR_CLE,2026,REG,3,2026-09-27,13:00,CAR,,CLE,,Home,7,7,,,Huntington Bank Field,outdoors,401872949
+2026_03_NYJ_DET,2026,REG,3,2026-09-27,13:00,NYJ,,DET,,Home,7,10,,,Ford Field,dome,401872954
+2026_03_HOU_IND,2026,REG,3,2026-09-27,13:00,HOU,,IND,,Home,7,7,,,Lucas Oil Stadium,,401872951
+2026_03_NE_JAX,2026,REG,3,2026-09-27,13:00,NE,,JAX,,Home,7,7,,,EverBank Stadium,outdoors,401872957
+2026_03_KC_MIA,2026,REG,3,2026-09-27,13:00,KC,,MIA,,Home,7,7,,,Hard Rock Stadium,outdoors,401872952
+2026_03_TEN_NYG,2026,REG,3,2026-09-27,13:00,TEN,,NYG,,Home,7,6,,,MetLife Stadium,outdoors,401872956
+2026_03_CIN_PIT,2026,REG,3,2026-09-27,13:00,CIN,,PIT,,Home,7,7,,,Acrisure Stadium,outdoors,401872950
+2026_03_SEA_WAS,2026,REG,3,2026-09-27,13:00,SEA,,WAS,,Home,7,7,,,Northwest Stadium,outdoors,401872955
+2026_03_ARI_SF,2026,REG,3,2026-09-27,16:05,ARI,,SF,,Home,7,7,,,Levi's Stadium,outdoors,401872958
+2026_03_MIN_TB,2026,REG,3,2026-09-27,16:05,MIN,,TB,,Home,7,7,,,Raymond James Stadium,outdoors,401872959
+2026_03_BAL_DAL,2026,REG,3,2026-09-27,16:25,BAL,,DAL,,Neutral,7,7,,,Maracana Stadium,,401872960
+2026_03_LV_NO,2026,REG,3,2026-09-27,16:25,LV,,NO,,Home,7,7,,,Caesars Superdome,dome,401872961
+2026_03_LA_DEN,2026,REG,3,2026-09-27,20:20,LA,,DEN,,Home,6,7,,,Empower Field at Mile High,outdoors,401872962
+2026_03_PHI_CHI,2026,REG,3,2026-09-28,20:15,PHI,,CHI,,Home,8,8,,,Soldier Field,outdoors,401872963
+2026_04_PIT_CLE,2026,REG,4,2026-10-01,20:15,PIT,,CLE,,Home,4,4,,,Huntington Bank Field,outdoors,401872964
+2026_04_IND_WAS,2026,REG,4,2026-10-04,09:30,IND,,WAS,,Neutral,7,7,,,Tottenham Hotspur Stadium,outdoors,401872965
+2026_04_TEN_BAL,2026,REG,4,2026-10-04,13:00,TEN,,BAL,,Home,7,7,,,M&T Bank Stadium,outdoors,401872973
+2026_04_NE_BUF,2026,REG,4,2026-10-04,13:00,NE,,BUF,,Home,7,7,,,Highmark Stadium,outdoors,401872971
+2026_04_NYJ_CHI,2026,REG,4,2026-10-04,13:00,NYJ,,CHI,,Home,7,6,,,Soldier Field,outdoors,401872972
+2026_04_JAX_CIN,2026,REG,4,2026-10-04,13:00,JAX,,CIN,,Home,7,7,,,Paycor Stadium,outdoors,401872969
+2026_04_DAL_HOU,2026,REG,4,2026-10-04,13:00,DAL,,HOU,,Home,7,7,,,Reliant Stadium,,401872967
+2026_04_ARI_NYG,2026,REG,4,2026-10-04,13:00,ARI,,NYG,,Home,7,7,,,MetLife Stadium,outdoors,401872966
+2026_04_LA_PHI,2026,REG,4,2026-10-04,13:00,LA,,PHI,,Home,7,6,,,Lincoln Financial Field,outdoors,401872970
+2026_04_GB_TB,2026,REG,4,2026-10-04,13:00,GB,,TB,,Home,10,7,,,Raymond James Stadium,outdoors,401872968
+2026_04_MIA_MIN,2026,REG,4,2026-10-04,16:05,MIA,,MIN,,Home,7,7,,,U.S. Bank Stadium,dome,401872974
+2026_04_KC_LV,2026,REG,4,2026-10-04,16:25,KC,,LV,,Home,7,7,,,Allegiant Stadium,dome,401872976
+2026_04_LAC_SEA,2026,REG,4,2026-10-04,16:25,LAC,,SEA,,Home,7,7,,,Lumen Field,outdoors,401872977
+2026_04_DEN_SF,2026,REG,4,2026-10-04,16:25,DEN,,SF,,Home,7,7,,,Levi's Stadium,outdoors,401872975
+2026_04_DET_CAR,2026,REG,4,2026-10-04,20:20,DET,,CAR,,Home,7,7,,,Bank of America Stadium,outdoors,401872978
+2026_04_ATL_NO,2026,REG,4,2026-10-05,20:15,ATL,,NO,,Home,11,8,,,Caesars Superdome,dome,401872979
+2026_05_TB_DAL,2026,REG,5,2026-10-08,20:15,TB,,DAL,,Home,4,4,,,AT&T Stadium,,401872980
+2026_05_PHI_JAX,2026,REG,5,2026-10-11,09:30,PHI,,JAX,,Home,7,7,,,Tottenham Hotspur Stadium,outdoors,401872981
+2026_05_CIN_MIA,2026,REG,5,2026-10-11,13:00,CIN,,MIA,,Home,7,7,,,Hard Rock Stadium,outdoors,401872982
+2026_05_LV_NE,2026,REG,5,2026-10-11,13:00,LV,,NE,,Home,7,7,,,Gillette Stadium,outdoors,401872986
+2026_05_MIN_NO,2026,REG,5,2026-10-11,13:00,MIN,,NO,,Home,7,6,,,Caesars Superdome,dome,401872987
+2026_05_CLE_NYJ,2026,REG,5,2026-10-11,13:00,CLE,,NYJ,,Home,10,7,,,MetLife Stadium,outdoors,401872983
+2026_05_IND_PIT,2026,REG,5,2026-10-11,13:00,IND,,PIT,,Home,7,10,,,Acrisure Stadium,outdoors,401872985
+2026_05_HOU_TEN,2026,REG,5,2026-10-11,13:00,HOU,,TEN,,Home,7,7,,,Nissan Stadium,outdoors,401872984
+2026_05_NYG_WAS,2026,REG,5,2026-10-11,13:00,NYG,,WAS,,Home,7,7,,,Northwest Stadium,outdoors,401872988
+2026_05_DEN_LAC,2026,REG,5,2026-10-11,16:05,DEN,,LAC,,Home,7,7,,,SoFi Stadium,dome,401872989
+2026_05_DET_ARI,2026,REG,5,2026-10-11,16:25,DET,,ARI,,Home,7,7,,,State Farm Stadium,,401872991
+2026_05_CHI_GB,2026,REG,5,2026-10-11,16:25,CHI,,GB,,Home,7,7,,,Lambeau Field,outdoors,401872990
+2026_05_SF_SEA,2026,REG,5,2026-10-11,16:25,SF,,SEA,,Home,7,7,,,Lumen Field,outdoors,401872992
+2026_05_BAL_ATL,2026,REG,5,2026-10-11,20:20,BAL,,ATL,,Home,7,6,,,Mercedes-Benz Stadium,,401872993
+2026_05_BUF_LA,2026,REG,5,2026-10-12,20:15,BUF,,LA,,Home,8,8,,,SoFi Stadium,dome,401872994
+2026_06_SEA_DEN,2026,REG,6,2026-10-15,20:15,SEA,,DEN,,Home,4,4,,,Empower Field at Mile High,outdoors,401872995
+2026_06_HOU_JAX,2026,REG,6,2026-10-18,09:30,HOU,,JAX,,Neutral,7,7,,,Wembley Stadium,outdoors,401872996
+2026_06_CHI_ATL,2026,REG,6,2026-10-18,13:00,CHI,,ATL,,Home,7,7,,,Mercedes-Benz Stadium,,401872999
+2026_06_BAL_CLE,2026,REG,6,2026-10-18,13:00,BAL,,CLE,,Home,7,7,,,Huntington Bank Field,outdoors,401872997
+2026_06_TEN_IND,2026,REG,6,2026-10-18,13:00,TEN,,IND,,Home,7,7,,,Lucas Oil Stadium,,401873003
+2026_06_NYJ_NE,2026,REG,6,2026-10-18,13:00,NYJ,,NE,,Home,7,7,,,Gillette Stadium,outdoors,401873001
+2026_06_NO_NYG,2026,REG,6,2026-10-18,13:00,NO,,NYG,,Home,7,7,,,MetLife Stadium,outdoors,401873000
+2026_06_CAR_PHI,2026,REG,6,2026-10-18,13:00,CAR,,PHI,,Home,14,7,,,Lincoln Financial Field,outdoors,401872998
+2026_06_PIT_TB,2026,REG,6,2026-10-18,13:00,PIT,,TB,,Home,7,10,,,Raymond James Stadium,outdoors,401873002
+2026_06_ARI_LA,2026,REG,6,2026-10-18,16:05,ARI,,LA,,Home,7,6,,,SoFi Stadium,dome,401873004
+2026_06_LAC_KC,2026,REG,6,2026-10-18,16:25,LAC,,KC,,Home,7,14,,,GEHA Field at Arrowhead Stadium,outdoors,401873006
+2026_06_BUF_LV,2026,REG,6,2026-10-18,16:25,BUF,,LV,,Home,6,7,,,Allegiant Stadium,dome,401873005
+2026_06_DAL_GB,2026,REG,6,2026-10-18,20:20,DAL,,GB,,Home,10,7,,,Lambeau Field,outdoors,401873007
+2026_06_WAS_SF,2026,REG,6,2026-10-19,20:15,WAS,,SF,,Home,8,8,,,Levi's Stadium,outdoors,401873008
+2026_07_NE_CHI,2026,REG,7,2026-10-22,20:15,NE,,CHI,,Home,4,4,,,Soldier Field,outdoors,401873010
+2026_07_PIT_NO,2026,REG,7,2026-10-25,09:30,PIT,,NO,,Neutral,7,7,,,Stade de France,dome,401873011
+2026_07_SF_ATL,2026,REG,7,2026-10-25,13:00,SF,,ATL,,Home,6,7,,,Mercedes-Benz Stadium,,401873017
+2026_07_CIN_BAL,2026,REG,7,2026-10-25,13:00,CIN,,BAL,,Home,14,7,,,M&T Bank Stadium,outdoors,401873012
+2026_07_TB_CAR,2026,REG,7,2026-10-25,13:00,TB,,CAR,,Home,7,7,,,Bank of America Stadium,outdoors,401873018
+2026_07_NYG_HOU,2026,REG,7,2026-10-25,13:00,NYG,,HOU,,Home,7,7,,,Reliant Stadium,,401873016
+2026_07_IND_MIN,2026,REG,7,2026-10-25,13:00,IND,,MIN,,Home,7,14,,,U.S. Bank Stadium,dome,401873014
+2026_07_MIA_NYJ,2026,REG,7,2026-10-25,13:00,MIA,,NYJ,,Home,14,7,,,MetLife Stadium,outdoors,401873015
+2026_07_CLE_TEN,2026,REG,7,2026-10-25,13:00,CLE,,TEN,,Home,7,7,,,Nissan Stadium,outdoors,401873013
+2026_07_DEN_ARI,2026,REG,7,2026-10-25,16:05,DEN,,ARI,,Home,10,7,,,State Farm Stadium,,401873019
+2026_07_GB_DET,2026,REG,7,2026-10-25,16:25,GB,,DET,,Home,7,14,,,Ford Field,dome,401873020
+2026_07_LA_LV,2026,REG,7,2026-10-25,16:25,LA,,LV,,Home,7,7,,,Allegiant Stadium,dome,401873021
+2026_07_KC_SEA,2026,REG,7,2026-10-25,20:20,KC,,SEA,,Home,7,10,,,Lumen Field,outdoors,401873022
+2026_07_DAL_PHI,2026,REG,7,2026-10-26,20:15,DAL,,PHI,,Home,8,8,,,Lincoln Financial Field,outdoors,401873009
+2026_08_CAR_GB,2026,REG,8,2026-10-29,20:15,CAR,,GB,,Home,4,4,,,Lambeau Field,outdoors,401873023
+2026_08_BAL_BUF,2026,REG,8,2026-11-01,13:00,BAL,,BUF,,Home,7,14,,,Highmark Stadium,outdoors,401873026
+2026_08_TEN_CIN,2026,REG,8,2026-11-01,13:00,TEN,,CIN,,Home,7,7,,,Paycor Stadium,outdoors,401873031
+2026_08_ARI_DAL,2026,REG,8,2026-11-01,13:00,ARI,,DAL,,Home,7,6,,,AT&T Stadium,,401873024
+2026_08_MIN_DET,2026,REG,8,2026-11-01,13:00,MIN,,DET,,Home,7,7,,,Ford Field,dome,401873030
+2026_08_IND_JAX,2026,REG,8,2026-11-01,13:00,IND,,JAX,,Home,7,14,,,EverBank Stadium,outdoors,401873028
+2026_08_LV_NYJ,2026,REG,8,2026-11-01,13:00,LV,,NYJ,,Home,7,7,,,MetLife Stadium,outdoors,401873029
+2026_08_CLE_PIT,2026,REG,8,2026-11-01,13:00,CLE,,PIT,,Home,7,7,,,Acrisure Stadium,outdoors,401873027
+2026_08_ATL_TB,2026,REG,8,2026-11-01,13:00,ATL,,TB,,Home,7,7,,,Raymond James Stadium,outdoors,401873025
+2026_08_LAC_LA,2026,REG,8,2026-11-01,16:05,LAC,,LA,,Home,14,7,,,SoFi Stadium,dome,401873032
+2026_08_KC_DEN,2026,REG,8,2026-11-01,16:25,KC,,DEN,,Home,7,7,,,Empower Field at Mile High,outdoors,401873033
+2026_08_NE_MIA,2026,REG,8,2026-11-01,16:25,NE,,MIA,,Home,10,7,,,Hard Rock Stadium,outdoors,401873034
+2026_08_PHI_WAS,2026,REG,8,2026-11-01,20:20,PHI,,WAS,,Home,6,13,,,Northwest Stadium,outdoors,401873035
+2026_08_CHI_SEA,2026,REG,8,2026-11-02,20:15,CHI,,SEA,,Home,11,8,,,Lumen Field,outdoors,401873036
+2026_09_JAX_BAL,2026,REG,9,2026-11-05,20:15,JAX,,BAL,,Home,4,4,,,M&T Bank Stadium,outdoors,401873037
+2026_09_CIN_ATL,2026,REG,9,2026-11-08,09:30,CIN,,ATL,,Neutral,7,7,,,Bernabeu,,401873038
+2026_09_DEN_CAR,2026,REG,9,2026-11-08,13:00,DEN,,CAR,,Home,7,10,,,Bank of America Stadium,outdoors,401873041
+2026_09_DAL_IND,2026,REG,9,2026-11-08,13:00,DAL,,IND,,Home,7,7,,,Lucas Oil Stadium,,401873040
+2026_09_NYJ_KC,2026,REG,9,2026-11-08,13:00,NYJ,,KC,,Home,7,7,,,GEHA Field at Arrowhead Stadium,outdoors,401873045
+2026_09_DET_MIA,2026,REG,9,2026-11-08,13:00,DET,,MIA,,Home,7,7,,,Hard Rock Stadium,outdoors,401873042
+2026_09_CLE_NO,2026,REG,9,2026-11-08,13:00,CLE,,NO,,Home,7,14,,,Caesars Superdome,dome,401873039
+2026_09_NYG_PHI,2026,REG,9,2026-11-08,13:00,NYG,,PHI,,Home,14,7,,,Lincoln Financial Field,outdoors,401873044
+2026_09_LA_WAS,2026,REG,9,2026-11-08,13:00,LA,,WAS,,Home,7,7,,,Northwest Stadium,outdoors,401873043
+2026_09_HOU_LAC,2026,REG,9,2026-11-08,16:05,HOU,,LAC,,Home,14,7,,,SoFi Stadium,dome,401873046
+2026_09_LV_SF,2026,REG,9,2026-11-08,16:05,LV,,SF,,Home,7,14,,,Levi's Stadium,outdoors,401873047
+2026_09_GB_NE,2026,REG,9,2026-11-08,16:25,GB,,NE,,Home,10,7,,,Gillette Stadium,outdoors,401873049
+2026_09_ARI_SEA,2026,REG,9,2026-11-08,16:25,ARI,,SEA,,Home,7,6,,,Lumen Field,outdoors,401873048
+2026_09_TB_CHI,2026,REG,9,2026-11-08,20:20,TB,,CHI,,Home,7,6,,,Soldier Field,outdoors,401873050
+2026_09_BUF_MIN,2026,REG,9,2026-11-09,20:15,BUF,,MIN,,Home,8,8,,,U.S. Bank Stadium,dome,401873051
+2026_10_WAS_NYG,2026,REG,10,2026-11-12,20:15,WAS,,NYG,,Home,4,4,,,MetLife Stadium,outdoors,401873052
+2026_10_NE_DET,2026,REG,10,2026-11-15,09:30,NE,,DET,,Neutral,7,7,,,FC Bayern Munich Stadium,dome,401873053
+2026_10_KC_ATL,2026,REG,10,2026-11-15,13:00,KC,,ATL,,Home,7,7,,,Mercedes-Benz Stadium,,401873058
+2026_10_HOU_CLE,2026,REG,10,2026-11-15,13:00,HOU,,CLE,,Home,7,7,,,Huntington Bank Field,outdoors,401873056
+2026_10_MIN_GB,2026,REG,10,2026-11-15,13:00,MIN,,GB,,Home,6,7,,,Lambeau Field,outdoors,401873060
+2026_10_MIA_IND,2026,REG,10,2026-11-15,13:00,MIA,,IND,,Home,7,7,,,Lucas Oil Stadium,,401873059
+2026_10_CAR_NO,2026,REG,10,2026-11-15,13:00,CAR,,NO,,Home,7,7,,,Caesars Superdome,dome,401873055
+2026_10_BUF_NYJ,2026,REG,10,2026-11-15,13:00,BUF,,NYJ,,Home,6,7,,,MetLife Stadium,outdoors,401873054
+2026_10_JAX_TEN,2026,REG,10,2026-11-15,13:00,JAX,,TEN,,Home,10,14,,,Nissan Stadium,outdoors,401873057
+2026_10_LA_ARI,2026,REG,10,2026-11-15,16:05,LA,,ARI,,Home,7,7,,,State Farm Stadium,,401873061
+2026_10_SEA_LV,2026,REG,10,2026-11-15,16:05,SEA,,LV,,Home,7,7,,,Allegiant Stadium,dome,401873062
+2026_10_SF_DAL,2026,REG,10,2026-11-15,16:25,SF,,DAL,,Home,7,7,,,AT&T Stadium,,401873063
+2026_10_PIT_CIN,2026,REG,10,2026-11-15,20:20,PIT,,CIN,,Home,14,7,,,Paycor Stadium,outdoors,401873064
+2026_10_LAC_BAL,2026,REG,10,2026-11-16,20:15,LAC,,BAL,,Home,8,11,,,M&T Bank Stadium,outdoors,401873065
+2026_11_IND_HOU,2026,REG,11,2026-11-19,20:15,IND,,HOU,,Home,4,4,,,Reliant Stadium,,401873066
+2026_11_MIA_BUF,2026,REG,11,2026-11-22,13:00,MIA,,BUF,,Home,7,7,,,Highmark Stadium,outdoors,401873070
+2026_11_BAL_CAR,2026,REG,11,2026-11-22,13:00,BAL,,CAR,,Home,6,7,,,Bank of America Stadium,outdoors,401873068
+2026_11_NO_CHI,2026,REG,11,2026-11-22,13:00,NO,,CHI,,Home,7,14,,,Soldier Field,outdoors,401873071
+2026_11_TEN_DAL,2026,REG,11,2026-11-22,13:00,TEN,,DAL,,Home,7,7,,,AT&T Stadium,,401873073
+2026_11_TB_DET,2026,REG,11,2026-11-22,13:00,TB,,DET,,Home,14,7,,,Ford Field,dome,401873072
+2026_11_ARI_KC,2026,REG,11,2026-11-22,13:00,ARI,,KC,,Home,7,7,,,GEHA Field at Arrowhead Stadium,outdoors,401873067
+2026_11_JAX_NYG,2026,REG,11,2026-11-22,13:00,JAX,,NYG,,Home,7,10,,,MetLife Stadium,outdoors,401873069
+2026_11_NYJ_LAC,2026,REG,11,2026-11-22,16:05,NYJ,,LAC,,Home,7,6,,,SoFi Stadium,dome,401873074
+2026_11_LV_DEN,2026,REG,11,2026-11-22,16:25,LV,,DEN,,Home,7,14,,,Empower Field at Mile High,outdoors,401873075
+2026_11_PIT_PHI,2026,REG,11,2026-11-22,16:25,PIT,,PHI,,Home,7,14,,,Lincoln Financial Field,outdoors,401873076
+2026_11_MIN_SF,2026,REG,11,2026-11-22,20:20,MIN,,SF,,Neutral,7,7,,,Estadio Banorte,outdoors,401873077
+2026_11_CIN_WAS,2026,REG,11,2026-11-23,20:15,CIN,,WAS,,Home,8,11,,,Northwest Stadium,outdoors,401873078
+2026_12_GB_LA,2026,REG,12,2026-11-25,20:00,GB,,LA,,Home,10,10,,,SoFi Stadium,dome,401873079
+2026_12_CHI_DET,2026,REG,12,2026-11-26,13:00,CHI,,DET,,Home,4,4,,,Ford Field,dome,401873081
+2026_12_PHI_DAL,2026,REG,12,2026-11-26,16:30,PHI,,DAL,,Home,4,4,,,AT&T Stadium,,401873080
+2026_12_KC_BUF,2026,REG,12,2026-11-26,20:20,KC,,BUF,,Home,4,4,,,Highmark Stadium,outdoors,401873082
+2026_12_DEN_PIT,2026,REG,12,2026-11-27,15:00,DEN,,PIT,,Home,5,5,,,Acrisure Stadium,outdoors,401873083
+2026_12_NO_CIN,2026,REG,12,2026-11-29,13:00,NO,,CIN,,Home,7,6,,,Paycor Stadium,outdoors,401873087
+2026_12_LV_CLE,2026,REG,12,2026-11-29,13:00,LV,,CLE,,Home,7,14,,,Huntington Bank Field,outdoors,401873086
+2026_12_BAL_HOU,2026,REG,12,2026-11-29,13:00,BAL,,HOU,,Home,7,10,,,Reliant Stadium,,401873085
+2026_12_NYG_IND,2026,REG,12,2026-11-29,13:00,NYG,,IND,,Home,7,10,,,Lucas Oil Stadium,,401873088
+2026_12_NYJ_MIA,2026,REG,12,2026-11-29,13:00,NYJ,,MIA,,Home,7,7,,,Hard Rock Stadium,outdoors,401873089
+2026_12_ATL_MIN,2026,REG,12,2026-11-29,13:00,ATL,,MIN,,Home,14,7,,,U.S. Bank Stadium,dome,401873084
+2026_12_TEN_JAX,2026,REG,12,2026-11-29,16:05,TEN,,JAX,,Home,7,7,,,EverBank Stadium,outdoors,401873090
+2026_12_WAS_ARI,2026,REG,12,2026-11-29,16:25,WAS,,ARI,,Home,6,7,,,State Farm Stadium,,401873092
+2026_12_SEA_SF,2026,REG,12,2026-11-29,16:25,SEA,,SF,,Home,14,7,,,Levi's Stadium,outdoors,401873091
+2026_12_NE_LAC,2026,REG,12,2026-11-29,20:20,NE,,LAC,,Home,14,7,,,SoFi Stadium,dome,401873093
+2026_12_CAR_TB,2026,REG,12,2026-11-30,20:15,CAR,,TB,,Home,8,8,,,Raymond James Stadium,outdoors,401873094
+2026_13_KC_LA,2026,REG,13,2026-12-03,20:15,KC,,LA,,Home,7,8,,,SoFi Stadium,dome,401873096
+2026_13_DET_ATL,2026,REG,13,2026-12-06,13:00,DET,,ATL,,Home,10,7,,,Mercedes-Benz Stadium,,401873098
+2026_13_JAX_CHI,2026,REG,13,2026-12-06,13:00,JAX,,CHI,,Home,7,10,,,Soldier Field,outdoors,401873100
+2026_13_CIN_CLE,2026,REG,13,2026-12-06,13:00,CIN,,CLE,,Home,7,7,,,Huntington Bank Field,outdoors,401873097
+2026_13_GB_NO,2026,REG,13,2026-12-06,13:00,GB,,NO,,Home,11,7,,,Caesars Superdome,dome,401873099
+2026_13_SF_NYG,2026,REG,13,2026-12-06,13:00,SF,,NYG,,Home,7,7,,,MetLife Stadium,outdoors,401873095
+2026_13_LAC_TB,2026,REG,13,2026-12-06,13:00,LAC,,TB,,Home,7,6,,,Raymond James Stadium,outdoors,401873101
+2026_13_WAS_TEN,2026,REG,13,2026-12-06,13:00,WAS,,TEN,,Home,7,7,,,Nissan Stadium,outdoors,401873102
+2026_13_PHI_ARI,2026,REG,13,2026-12-06,16:05,PHI,,ARI,,Home,10,7,,,State Farm Stadium,,401873104
+2026_13_MIA_DEN,2026,REG,13,2026-12-06,16:05,MIA,,DEN,,Home,7,9,,,Empower Field at Mile High,outdoors,401873103
+2026_13_CAR_MIN,2026,REG,13,2026-12-06,16:25,CAR,,MIN,,Home,6,7,,,U.S. Bank Stadium,dome,401873106
+2026_13_BUF_NE,2026,REG,13,2026-12-06,16:25,BUF,,NE,,Home,10,7,,,Gillette Stadium,outdoors,401873105
+2026_13_HOU_PIT,2026,REG,13,2026-12-06,20:20,HOU,,PIT,,Home,7,9,,,Acrisure Stadium,outdoors,401873107
+2026_13_DAL_SEA,2026,REG,13,2026-12-07,20:15,DAL,,SEA,,Home,11,8,,,Lumen Field,outdoors,401873108
+2026_14_MIN_NE,2026,REG,14,2026-12-10,20:15,MIN,,NE,,Home,4,4,,,Gillette Stadium,outdoors,401873109
+2026_14_TB_BAL,2026,REG,14,2026-12-13,13:00,TB,,BAL,,Home,7,14,,,M&T Bank Stadium,outdoors,401873116
+2026_14_NO_CAR,2026,REG,14,2026-12-13,13:00,NO,,CAR,,Home,7,7,,,Bank of America Stadium,outdoors,401873115
+2026_14_ATL_CLE,2026,REG,14,2026-12-13,13:00,ATL,,CLE,,Home,7,7,,,Huntington Bank Field,outdoors,401873110
+2026_14_TEN_DET,2026,REG,14,2026-12-13,13:00,TEN,,DET,,Home,7,7,,,Ford Field,dome,401873117
+2026_14_CHI_MIA,2026,REG,14,2026-12-13,13:00,CHI,,MIA,,Home,7,7,,,Hard Rock Stadium,outdoors,401873111
+2026_14_DEN_NYJ,2026,REG,14,2026-12-13,13:00,DEN,,NYJ,,Home,7,14,,,MetLife Stadium,outdoors,401873112
+2026_14_IND_PHI,2026,REG,14,2026-12-13,13:00,IND,,PHI,,Home,14,7,,,Lincoln Financial Field,outdoors,401873114
+2026_14_HOU_WAS,2026,REG,14,2026-12-13,13:00,HOU,,WAS,,Home,7,7,,,Northwest Stadium,outdoors,401873113
+2026_14_LAC_LV,2026,REG,14,2026-12-13,16:05,LAC,,LV,,Home,7,14,,,Allegiant Stadium,dome,401873118
+2026_14_KC_CIN,2026,REG,14,2026-12-13,16:25,KC,,CIN,,Home,10,7,,,Paycor Stadium,outdoors,401873119
+2026_14_NYG_SEA,2026,REG,14,2026-12-13,16:25,NYG,,SEA,,Home,7,6,,,Lumen Field,outdoors,401873121
+2026_14_LA_SF,2026,REG,14,2026-12-13,16:25,LA,,SF,,Home,10,7,,,Levi's Stadium,outdoors,401873120
+2026_14_BUF_GB,2026,REG,14,2026-12-13,20:20,BUF,,GB,,Home,7,7,,,Lambeau Field,outdoors,401873122
+2026_14_PIT_JAX,2026,REG,14,2026-12-14,20:15,PIT,,JAX,,Home,8,8,,,EverBank Stadium,outdoors,401873123
+2026_15_SF_LAC,2026,REG,15,2026-12-17,20:15,SF,,LAC,,Home,4,4,,,SoFi Stadium,dome,401873124
+2026_15_SEA_PHI,2026,REG,15,2026-12-19,17:00,SEA,,PHI,,Home,6,6,,,Lincoln Financial Field,outdoors,401873125
+2026_15_CHI_BUF,2026,REG,15,2026-12-19,20:20,CHI,,BUF,,Home,6,6,,,Highmark Stadium,outdoors,401873126
+2026_15_CIN_CAR,2026,REG,15,2026-12-20,13:00,CIN,,CAR,,Home,7,7,,,Bank of America Stadium,outdoors,401873129
+2026_15_MIA_GB,2026,REG,15,2026-12-20,13:00,MIA,,GB,,Home,7,7,,,Lambeau Field,outdoors,401873133
+2026_15_JAX_HOU,2026,REG,15,2026-12-20,13:00,JAX,,HOU,,Home,6,7,,,Reliant Stadium,,401873132
+2026_15_CLE_NYG,2026,REG,15,2026-12-20,13:00,CLE,,NYG,,Home,7,7,,,MetLife Stadium,outdoors,401873130
+2026_15_BAL_PIT,2026,REG,15,2026-12-20,13:00,BAL,,PIT,,Home,7,6,,,Acrisure Stadium,outdoors,401873128
+2026_15_NO_TB,2026,REG,15,2026-12-20,13:00,NO,,TB,,Home,7,7,,,Raymond James Stadium,outdoors,401873134
+2026_15_IND_TEN,2026,REG,15,2026-12-20,13:00,IND,,TEN,,Home,7,7,,,Nissan Stadium,outdoors,401873131
+2026_15_ATL_WAS,2026,REG,15,2026-12-20,13:00,ATL,,WAS,,Home,7,7,,,Northwest Stadium,outdoors,401873127
+2026_15_NYJ_ARI,2026,REG,15,2026-12-20,16:05,NYJ,,ARI,,Home,7,14,,,State Farm Stadium,,401873135
+2026_15_DAL_LA,2026,REG,15,2026-12-20,16:25,DAL,,LA,,Home,13,7,,,SoFi Stadium,dome,401873136
+2026_15_DEN_LV,2026,REG,15,2026-12-20,16:25,DEN,,LV,,Home,7,7,,,Allegiant Stadium,dome,401873137
+2026_15_DET_MIN,2026,REG,15,2026-12-20,20:20,DET,,MIN,,Home,7,10,,,U.S. Bank Stadium,dome,401873138
+2026_15_NE_KC,2026,REG,15,2026-12-21,20:15,NE,,KC,,Home,11,8,,,GEHA Field at Arrowhead Stadium,outdoors,401873139
+2026_16_HOU_PHI,2026,REG,16,2026-12-24,20:15,HOU,,PHI,,Home,4,5,,,Lincoln Financial Field,outdoors,401873140
+2026_16_GB_CHI,2026,REG,16,2026-12-25,13:00,GB,,CHI,,Home,5,6,,,Soldier Field,outdoors,401873141
+2026_16_BUF_DEN,2026,REG,16,2026-12-25,16:30,BUF,,DEN,,Home,6,5,,,Empower Field at Mile High,outdoors,401873142
+2026_16_LA_SEA,2026,REG,16,2026-12-25,20:15,LA,,SEA,,Home,5,6,,,Lumen Field,outdoors,401873143
+2026_16_TB_ATL,2026,REG,16,2026-12-27,13:00,TB,,ATL,,Home,7,7,,,Mercedes-Benz Stadium,,401873146
+2026_16_CLE_BAL,2026,REG,16,2026-12-27,13:00,CLE,,BAL,,Home,7,7,,,M&T Bank Stadium,outdoors,401873149
+2026_16_CIN_IND,2026,REG,16,2026-12-27,13:00,CIN,,IND,,Home,7,7,,,Lucas Oil Stadium,,401873145
+2026_16_LAC_MIA,2026,REG,16,2026-12-27,13:00,LAC,,MIA,,Home,10,7,,,Hard Rock Stadium,outdoors,401873150
+2026_16_WAS_MIN,2026,REG,16,2026-12-27,13:00,WAS,,MIN,,Home,7,7,,,U.S. Bank Stadium,dome,401873147
+2026_16_ARI_NO,2026,REG,16,2026-12-27,13:00,ARI,,NO,,Home,7,7,,,Caesars Superdome,dome,401873148
+2026_16_NE_NYJ,2026,REG,16,2026-12-27,13:00,NE,,NYJ,,Home,6,7,,,MetLife Stadium,outdoors,401873151
+2026_16_CAR_PIT,2026,REG,16,2026-12-27,13:00,CAR,,PIT,,Home,7,7,,,Acrisure Stadium,outdoors,401873144
+2026_16_TEN_LV,2026,REG,16,2026-12-27,16:05,TEN,,LV,,Home,7,7,,,Allegiant Stadium,dome,401873152
+2026_16_SF_KC,2026,REG,16,2026-12-27,16:25,SF,,KC,,Home,10,6,,,GEHA Field at Arrowhead Stadium,outdoors,401873153
+2026_16_JAX_DAL,2026,REG,16,2026-12-27,20:20,JAX,,DAL,,Home,7,7,,,AT&T Stadium,,401873154
+2026_16_NYG_DET,2026,REG,16,2026-12-28,20:15,NYG,,DET,,Home,8,8,,,Ford Field,dome,401873155
+2026_17_BAL_CIN,2026,REG,17,2026-12-31,20:15,BAL,,CIN,,Home,4,4,,,Paycor Stadium,outdoors,401873156
+2026_17_NO_ATL,2026,REG,17,2027-01-03,13:00,NO,,ATL,,Home,7,7,,,Mercedes-Benz Stadium,,401873164
+2026_17_SEA_CAR,2026,REG,17,2027-01-03,13:00,SEA,,CAR,,Home,9,7,,,Bank of America Stadium,outdoors,401873167
+2026_17_IND_CLE,2026,REG,17,2027-01-03,13:00,IND,,CLE,,Home,7,7,,,Huntington Bank Field,outdoors,401873162
+2026_17_NYG_DAL,2026,REG,17,2027-01-03,13:00,NYG,,DAL,,Home,6,7,,,AT&T Stadium,,401873165
+2026_17_WAS_JAX,2026,REG,17,2027-01-03,13:00,WAS,,JAX,,Home,7,7,,,EverBank Stadium,outdoors,401873160
+2026_17_KC_LAC,2026,REG,17,2027-01-03,13:00,KC,,LAC,,Home,7,7,,,SoFi Stadium,dome,401873158
+2026_17_BUF_MIA,2026,REG,17,2027-01-03,13:00,BUF,,MIA,,Home,9,7,,,Hard Rock Stadium,outdoors,401873161
+2026_17_DEN_NE,2026,REG,17,2027-01-03,13:00,DEN,,NE,,Home,9,7,,,Gillette Stadium,outdoors,401873157
+2026_17_MIN_NYJ,2026,REG,17,2027-01-03,13:00,MIN,,NYJ,,Home,7,7,,,MetLife Stadium,outdoors,401873163
+2026_17_LA_TB,2026,REG,17,2027-01-03,13:00,LA,,TB,,Home,9,7,,,Raymond James Stadium,outdoors,401873159
+2026_17_PIT_TEN,2026,REG,17,2027-01-03,13:00,PIT,,TEN,,Home,7,7,,,Nissan Stadium,outdoors,401873166
+2026_17_LV_ARI,2026,REG,17,2027-01-03,16:05,LV,,ARI,,Home,7,7,,,State Farm Stadium,,401873168
+2026_17_DET_CHI,2026,REG,17,2027-01-03,16:25,DET,,CHI,,Home,6,9,,,Soldier Field,outdoors,401873169
+2026_17_PHI_SF,2026,REG,17,2027-01-03,20:20,PHI,,SF,,Home,10,7,,,Levi's Stadium,outdoors,401873170
+2026_17_HOU_GB,2026,REG,17,2027-01-04,20:15,HOU,,GB,,Home,11,10,,,Lambeau Field,outdoors,401873171
+2026_18_SF_ARI,2026,REG,18,2027-01-10,13:00,SF,,ARI,,Home,7,7,,,State Farm Stadium,,401873184
+2026_18_PIT_BAL,2026,REG,18,2027-01-10,13:00,PIT,,BAL,,Home,7,10,,,M&T Bank Stadium,outdoors,401873183
+2026_18_NYJ_BUF,2026,REG,18,2027-01-10,13:00,NYJ,,BUF,,Home,7,7,,,Highmark Stadium,outdoors,401873181
+2026_18_ATL_CAR,2026,REG,18,2027-01-10,13:00,ATL,,CAR,,Home,7,7,,,Bank of America Stadium,outdoors,401873172
+2026_18_CLE_CIN,2026,REG,18,2027-01-10,13:00,CLE,,CIN,,Home,7,10,,,Paycor Stadium,outdoors,401873174
+2026_18_LAC_DEN,2026,REG,18,2027-01-10,13:00,LAC,,DEN,,Home,7,7,,,Empower Field at Mile High,outdoors,401873179
+2026_18_DET_GB,2026,REG,18,2027-01-10,13:00,DET,,GB,,Home,7,6,,,Lambeau Field,outdoors,401873176
+2026_18_TEN_HOU,2026,REG,18,2027-01-10,13:00,TEN,,HOU,,Home,7,6,,,Reliant Stadium,,401873187
+2026_18_JAX_IND,2026,REG,18,2027-01-10,13:00,JAX,,IND,,Home,7,7,,,Lucas Oil Stadium,,401873177
+2026_18_LV_KC,2026,REG,18,2027-01-10,13:00,LV,,KC,,Home,7,7,,,GEHA Field at Arrowhead Stadium,outdoors,401873178
+2026_18_SEA_LA,2026,REG,18,2027-01-10,13:00,SEA,,LA,,Home,7,7,,,SoFi Stadium,dome,401873185
+2026_18_CHI_MIN,2026,REG,18,2027-01-10,13:00,CHI,,MIN,,Home,7,7,,,U.S. Bank Stadium,dome,401873173
+2026_18_MIA_NE,2026,REG,18,2027-01-10,13:00,MIA,,NE,,Home,7,7,,,Gillette Stadium,outdoors,401873180
+2026_18_TB_NO,2026,REG,18,2027-01-10,13:00,TB,,NO,,Home,7,7,,,Caesars Superdome,dome,401873186
+2026_18_PHI_NYG,2026,REG,18,2027-01-10,13:00,PHI,,NYG,,Home,7,7,,,MetLife Stadium,outdoors,401873182
+2026_18_DAL_WAS,2026,REG,18,2027-01-10,13:00,DAL,,WAS,,Home,7,7,,,Northwest Stadium,outdoors,401873175
